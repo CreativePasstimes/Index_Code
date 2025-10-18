@@ -7,6 +7,36 @@ import readline from 'readline';
 import path from 'path';
 
 /* ============================================================
+   🌐 Proxy Rotation System
+   (Added from BASE INDEX TO TWEAK)
+============================================================ */
+const CONFIG = {
+  USE_PROXIES: true, // toggle this to false if not using proxies
+};
+
+let proxies = [];
+let proxyIndex = 0;
+
+try {
+  if (CONFIG.USE_PROXIES) {
+    const proxyFile = await readFile('proxies.txt', 'utf8');
+    proxies = proxyFile.split('\n').map(p => p.trim()).filter(Boolean);
+    console.log(`✅ Loaded ${proxies.length} proxies`);
+  } else {
+    console.log('🌐 Proxy use disabled.');
+  }
+} catch (err) {
+  console.log(`⚠️ No proxies.txt file found — running without proxies. (${err.message})`);
+}
+
+function getNextProxy() {
+  if (!CONFIG.USE_PROXIES || !proxies.length) return null;
+  const proxy = proxies[proxyIndex % proxies.length];
+  proxyIndex++;
+  return proxy;
+}
+
+/* ============================================================
    CONFIG & CONSTANTS
 ============================================================ */
 let RARE_CLOTHING_IDS;
@@ -252,10 +282,14 @@ async function waitForSmartFoxIfDown() {
 ============================================================ */
 
 async function checkAccount(screen_name, password, clothing, denitems, enstrings) {
- try {
-  const client    = new AnimalJamClient();
-  const flashvars = await client.flashvars.fetch();
+  try {
+    // 🌐 Proxy injection
+    const proxy = CONFIG.USE_PROXIES ? getNextProxy() : null;
+    const client = new AnimalJamClient({ proxy });
+    if (proxy) console.log(`🌐 Using proxy: ${proxy.split(':')[0]}`);
 
+    // Proceed with the usual fetch
+    const flashvars = await client.flashvars.fetch();
 let auth_token = null;
 
 const recentFailures = getRecentFailures();
