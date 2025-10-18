@@ -1,0 +1,3253 @@
+[12:42:28 AM] 📄 Logging to: checker-log\checker-2025-10-05.txt
+[12:42:28 AM] ✅ Loaded 100 proxies.
+[12:42:32 AM] Starting 1/2680
+[12:45:46 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:47:18 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:48:50 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[12:52:00 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:52:38 AM] 🛑 Interrupted — saving progress...
+[12:52:38 AM] 💾 Progress saved.
+[12:56:25 AM] 📄 Logging to: checker-log\checker-2025-10-05.txt
+[12:56:25 AM] ✅ Loaded 100 proxies.
+[12:56:28 AM] Starting 19/2680
+[12:56:31 AM] 🗑️ Removed bobaloca02 (PROCESSED) from accounts.txt
+[12:56:31 AM] ✅ accounts.txt updated — 2679 remaining
+[12:56:52 AM] 🗑️ Removed bolt35593 (PROCESSED) from accounts.txt
+[12:56:52 AM] ✅ accounts.txt updated — 2678 remaining
+[12:57:13 AM] 🗑️ Removed branch16 (PROCESSED) from accounts.txt
+[12:57:13 AM] ✅ accounts.txt updated — 2677 remaining
+[12:57:34 AM] 🗑️ Removed bravewarrior (PROCESSED) from accounts.txt
+[12:57:34 AM] ✅ accounts.txt updated — 2676 remaining
+[12:57:36 AM] 🛑 Interrupted — saving progress...
+[12:57:36 AM] 💾 Progress saved.
+[12:58:10 AM] 📄 Logging to: checker-log\checker-2025-10-05.txt
+[12:58:10 AM] ✅ Loaded 100 proxies.
+[12:58:13 AM] Starting 1/2658
+[12:58:16 AM] 🗑️ Removed brenxdxdxd (PROCESSED) from accounts.txt
+[12:58:16 AM] ✅ accounts.txt updated — 2657 remaining
+[12:58:38 AM] 🗑️ Removed brunajiji (PROCESSED) from accounts.txt
+[12:58:38 AM] ✅ accounts.txt updated — 2656 remaining
+[12:58:59 AM] 🗑️ Removed bryson1012 (PROCESSED) from accounts.txt
+[12:58:59 AM] ✅ accounts.txt updated — 2655 remaining
+[12:59:20 AM] 🗑️ Removed bunitinha41 (PROCESSED) from accounts.txt
+[12:59:20 AM] ✅ accounts.txt updated — 2654 remaining
+[12:59:39 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:01:11 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:02:43 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:02:45 AM] 🗑️ Removed caielle123 (PROCESSED) from accounts.txt
+[1:02:45 AM] ✅ accounts.txt updated — 2653 remaining
+[1:03:07 AM] 🗑️ Removed camilayeugenia (PROCESSED) from accounts.txt
+[1:03:07 AM] ✅ accounts.txt updated — 2652 remaining
+[1:03:28 AM] 🗑️ Removed candypink0 (PROCESSED) from accounts.txt
+[1:03:28 AM] ✅ accounts.txt updated — 2651 remaining
+[1:03:49 AM] 🗑️ Removed capitain51 (PROCESSED) from accounts.txt
+[1:03:49 AM] ✅ accounts.txt updated — 2650 remaining
+[1:04:11 AM] 🗑️ Removed canelita1408 (PROCESSED) from accounts.txt
+[1:04:11 AM] ✅ accounts.txt updated — 2649 remaining
+[1:04:32 AM] 🗑️ Removed carebearc5 (PROCESSED) from accounts.txt
+[1:04:32 AM] ✅ accounts.txt updated — 2648 remaining
+[1:04:54 AM] 🗑️ Removed carrots80 (PROCESSED) from accounts.txt
+[1:04:54 AM] ✅ accounts.txt updated — 2647 remaining
+[1:05:16 AM] 🗑️ Removed carrosel59 (PROCESSED) from accounts.txt
+[1:05:16 AM] ✅ accounts.txt updated — 2646 remaining
+[1:05:35 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:07:07 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:08:39 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:08:41 AM] 🗑️ Removed cat98226 (PROCESSED) from accounts.txt
+[1:08:41 AM] ✅ accounts.txt updated — 2645 remaining
+[1:09:02 AM] 🗑️ Removed catnin (PROCESSED) from accounts.txt
+[1:09:02 AM] ✅ accounts.txt updated — 2644 remaining
+[1:09:23 AM] 🗑️ Removed catroli (PROCESSED) from accounts.txt
+[1:09:23 AM] ✅ accounts.txt updated — 2643 remaining
+[1:09:45 AM] 🗑️ Removed cats1319 (PROCESSED) from accounts.txt
+[1:09:45 AM] ✅ accounts.txt updated — 2642 remaining
+[1:10:06 AM] 🗑️ Removed ceciliaann (PROCESSED) from accounts.txt
+[1:10:06 AM] ✅ accounts.txt updated — 2641 remaining
+[1:10:28 AM] 🗑️ Removed chelseah39 (PROCESSED) from accounts.txt
+[1:10:28 AM] ✅ accounts.txt updated — 2640 remaining
+[1:10:47 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:12:19 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:12:21 AM] 🗑️ Removed chloetheunicorn9 (PROCESSED) from accounts.txt
+[1:12:21 AM] ✅ accounts.txt updated — 2639 remaining
+[1:12:40 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:14:12 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:14:14 AM] 🗑️ Removed chubby30 (PROCESSED) from accounts.txt
+[1:14:14 AM] ✅ accounts.txt updated — 2638 remaining
+[1:14:36 AM] 🗑️ Removed chryztan2 (PROCESSED) from accounts.txt
+[1:14:36 AM] ✅ accounts.txt updated — 2637 remaining
+[1:14:57 AM] 🗑️ Removed clarita10 (PROCESSED) from accounts.txt
+[1:14:57 AM] ✅ accounts.txt updated — 2636 remaining
+[1:15:18 AM] 🗑️ Removed coala612 (PROCESSED) from accounts.txt
+[1:15:18 AM] ✅ accounts.txt updated — 2635 remaining
+[1:15:39 AM] 🗑️ Removed coalalindo17 (PROCESSED) from accounts.txt
+[1:15:39 AM] ✅ accounts.txt updated — 2634 remaining
+[1:16:01 AM] 🗑️ Removed coolestofthecool25 (PROCESSED) from accounts.txt
+[1:16:01 AM] ✅ accounts.txt updated — 2633 remaining
+[1:16:22 AM] 🗑️ Removed coolmiles30 (PROCESSED) from accounts.txt
+[1:16:22 AM] ✅ accounts.txt updated — 2632 remaining
+[1:16:40 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:18:13 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:18:15 AM] 🗑️ Removed cremeajbr (PROCESSED) from accounts.txt
+[1:18:15 AM] ✅ accounts.txt updated — 2631 remaining
+[1:18:34 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:20:06 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:20:08 AM] 🗑️ Removed crilotico78 (PROCESSED) from accounts.txt
+[1:20:08 AM] ✅ accounts.txt updated — 2630 remaining
+[1:20:26 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:21:59 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:22:01 AM] 🗑️ Removed crystal53543 (PROCESSED) from accounts.txt
+[1:22:01 AM] ✅ accounts.txt updated — 2629 remaining
+[1:22:23 AM] 🗑️ Removed cutegretchen (PROCESSED) from accounts.txt
+[1:22:23 AM] ✅ accounts.txt updated — 2628 remaining
+[1:22:42 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:24:14 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:24:16 AM] 🗑️ Removed cutiegal9975 (PROCESSED) from accounts.txt
+[1:24:16 AM] ✅ accounts.txt updated — 2627 remaining
+[1:24:37 AM] 🗑️ Removed dallasr10 (PROCESSED) from accounts.txt
+[1:24:37 AM] ✅ accounts.txt updated — 2626 remaining
+[1:24:58 AM] 🗑️ Removed dallana10 (PROCESSED) from accounts.txt
+[1:24:58 AM] ✅ accounts.txt updated — 2625 remaining
+[1:25:19 AM] 🗑️ Removed dancey2031 (PROCESSED) from accounts.txt
+[1:25:19 AM] ✅ accounts.txt updated — 2624 remaining
+[1:25:40 AM] 🗑️ Removed dangelo123 (PROCESSED) from accounts.txt
+[1:25:40 AM] ✅ accounts.txt updated — 2623 remaining
+[1:25:59 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:27:31 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:27:33 AM] 🗑️ Removed dancingprett23506 (PROCESSED) from accounts.txt
+[1:27:33 AM] ✅ accounts.txt updated — 2622 remaining
+[1:27:55 AM] 🗑️ Removed daniemi (PROCESSED) from accounts.txt
+[1:27:55 AM] ✅ accounts.txt updated — 2621 remaining
+[1:28:16 AM] 🗑️ Removed darkwolf123456789 (PROCESSED) from accounts.txt
+[1:28:16 AM] ✅ accounts.txt updated — 2620 remaining
+[1:28:38 AM] 🗑️ Removed deltag (PROCESSED) from accounts.txt
+[1:28:38 AM] ✅ accounts.txt updated — 2619 remaining
+[1:28:57 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:30:29 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:30:31 AM] 🗑️ Removed denise1147 (PROCESSED) from accounts.txt
+[1:30:31 AM] ✅ accounts.txt updated — 2618 remaining
+[1:30:52 AM] 🗑️ Removed deshtoyer (PROCESSED) from accounts.txt
+[1:30:52 AM] ✅ accounts.txt updated — 2617 remaining
+[1:31:13 AM] 🗑️ Removed desendants8 (PROCESSED) from accounts.txt
+[1:31:13 AM] ✅ accounts.txt updated — 2616 remaining
+[1:31:35 AM] 🗑️ Removed desertqueen0 (PROCESSED) from accounts.txt
+[1:31:35 AM] ✅ accounts.txt updated — 2615 remaining
+[1:31:54 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:33:25 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:33:28 AM] 🗑️ Removed directionerinfinity (PROCESSED) from accounts.txt
+[1:33:28 AM] ✅ accounts.txt updated — 2614 remaining
+[1:33:49 AM] 🗑️ Removed direwolfgirl249 (PROCESSED) from accounts.txt
+[1:33:49 AM] ✅ accounts.txt updated — 2613 remaining
+[1:34:10 AM] 🗑️ Removed disi8 (PROCESSED) from accounts.txt
+[1:34:10 AM] ✅ accounts.txt updated — 2612 remaining
+[1:34:32 AM] 🗑️ Removed djbunny58 (PROCESSED) from accounts.txt
+[1:34:32 AM] ✅ accounts.txt updated — 2611 remaining
+[1:34:53 AM] 🗑️ Removed djfire (PROCESSED) from accounts.txt
+[1:34:53 AM] ✅ accounts.txt updated — 2610 remaining
+[1:35:11 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:36:43 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:36:45 AM] 🗑️ Removed dkjfree14 (PROCESSED) from accounts.txt
+[1:36:45 AM] ✅ accounts.txt updated — 2609 remaining
+[1:37:06 AM] 🗑️ Removed dragonsbreath21 (PROCESSED) from accounts.txt
+[1:37:06 AM] ✅ accounts.txt updated — 2608 remaining
+[1:37:27 AM] 🗑️ Removed drk03110 (PROCESSED) from accounts.txt
+[1:37:27 AM] ✅ accounts.txt updated — 2607 remaining
+[1:37:46 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:39:18 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:39:21 AM] 🗑️ Removed dudinha10008 (PROCESSED) from accounts.txt
+[1:39:21 AM] ✅ accounts.txt updated — 2606 remaining
+[1:39:42 AM] 🗑️ Removed earrrrr (PROCESSED) from accounts.txt
+[1:39:42 AM] ✅ accounts.txt updated — 2605 remaining
+[1:40:03 AM] 🗑️ Removed eboleth (PROCESSED) from accounts.txt
+[1:40:03 AM] ✅ accounts.txt updated — 2604 remaining
+[1:40:24 AM] 🗑️ Removed ebarrs (PROCESSED) from accounts.txt
+[1:40:24 AM] ✅ accounts.txt updated — 2603 remaining
+[1:40:46 AM] 🗑️ Removed eden120 (PROCESSED) from accounts.txt
+[1:40:46 AM] ✅ accounts.txt updated — 2602 remaining
+[1:41:05 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:42:36 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:42:39 AM] 🗑️ Removed eevegirl37 (PROCESSED) from accounts.txt
+[1:42:39 AM] ✅ accounts.txt updated — 2601 remaining
+[1:43:01 AM] 🗑️ Removed eliasarmy (PROCESSED) from accounts.txt
+[1:43:01 AM] ✅ accounts.txt updated — 2600 remaining
+[1:43:21 AM] 🗑️ Removed emandal (PROCESSED) from accounts.txt
+[1:43:21 AM] ✅ accounts.txt updated — 2599 remaining
+[1:43:41 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:45:12 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:45:14 AM] 🗑️ Removed eric799 (PROCESSED) from accounts.txt
+[1:45:14 AM] ✅ accounts.txt updated — 2598 remaining
+[1:45:35 AM] 🗑️ Removed estrella126 (PROCESSED) from accounts.txt
+[1:45:35 AM] ✅ accounts.txt updated — 2597 remaining
+[1:45:57 AM] 🗑️ Removed estrelaprilhossa245 (PROCESSED) from accounts.txt
+[1:45:57 AM] ✅ accounts.txt updated — 2596 remaining
+[1:46:19 AM] 🗑️ Removed etezinhobilu77 (PROCESSED) from accounts.txt
+[1:46:19 AM] ✅ accounts.txt updated — 2595 remaining
+[1:46:40 AM] 🗑️ Removed fa335 (PROCESSED) from accounts.txt
+[1:46:40 AM] ✅ accounts.txt updated — 2594 remaining
+[1:46:59 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:48:30 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:48:33 AM] 🗑️ Removed f2630 (PROCESSED) from accounts.txt
+[1:48:33 AM] ✅ accounts.txt updated — 2593 remaining
+[1:48:55 AM] 🗑️ Removed fairycat19 (PROCESSED) from accounts.txt
+[1:48:55 AM] ✅ accounts.txt updated — 2592 remaining
+[1:49:16 AM] 🗑️ Removed faith79920 (PROCESSED) from accounts.txt
+[1:49:16 AM] ✅ accounts.txt updated — 2591 remaining
+[1:49:38 AM] 🗑️ Removed felinos342 (PROCESSED) from accounts.txt
+[1:49:38 AM] ✅ accounts.txt updated — 2590 remaining
+[1:49:56 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:51:28 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:51:30 AM] 🗑️ Removed ferguag34 (PROCESSED) from accounts.txt
+[1:51:30 AM] ✅ accounts.txt updated — 2589 remaining
+[1:51:51 AM] 🗑️ Removed ff714 (PROCESSED) from accounts.txt
+[1:51:51 AM] ✅ accounts.txt updated — 2588 remaining
+[1:52:13 AM] 🗑️ Removed firedtiger (PROCESSED) from accounts.txt
+[1:52:13 AM] ✅ accounts.txt updated — 2587 remaining
+[1:52:34 AM] 🗑️ Removed flow38 (PROCESSED) from accounts.txt
+[1:52:34 AM] ✅ accounts.txt updated — 2586 remaining
+[1:52:53 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:54:25 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:54:27 AM] 🗑️ Removed fluffyfurball1 (PROCESSED) from accounts.txt
+[1:54:27 AM] ✅ accounts.txt updated — 2585 remaining
+[1:54:48 AM] 🗑️ Removed fluffyprincess14 (PROCESSED) from accounts.txt
+[1:54:48 AM] ✅ accounts.txt updated — 2584 remaining
+[1:55:10 AM] 🗑️ Removed fluffypuffy8910 (PROCESSED) from accounts.txt
+[1:55:10 AM] ✅ accounts.txt updated — 2583 remaining
+[1:55:31 AM] 🗑️ Removed fofaaj123 (PROCESSED) from accounts.txt
+[1:55:31 AM] ✅ accounts.txt updated — 2582 remaining
+[1:55:50 AM] 🗑️ Removed frid101 (UNKNOWN_LOGIN_ERROR) from accounts.txt
+[1:55:50 AM] ✅ accounts.txt updated — 2581 remaining
+[1:56:01 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:57:32 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:57:35 AM] 🗑️ Removed funmeister (PROCESSED) from accounts.txt
+[1:57:35 AM] ✅ accounts.txt updated — 2580 remaining
+[1:57:56 AM] 🗑️ Removed funnybun22 (PROCESSED) from accounts.txt
+[1:57:56 AM] ✅ accounts.txt updated — 2579 remaining
+[1:58:17 AM] 🗑️ Removed funtimewolfy6 (PROCESSED) from accounts.txt
+[1:58:17 AM] ✅ accounts.txt updated — 2578 remaining
+[1:58:38 AM] 🗑️ Removed funsea (PROCESSED) from accounts.txt
+[1:58:38 AM] ✅ accounts.txt updated — 2577 remaining
+[1:58:57 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:00:29 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:00:31 AM] 🗑️ Removed fuzz700 (PROCESSED) from accounts.txt
+[2:00:31 AM] ✅ accounts.txt updated — 2576 remaining
+[2:00:53 AM] 🗑️ Removed furrymoonfox (PROCESSED) from accounts.txt
+[2:00:53 AM] ✅ accounts.txt updated — 2575 remaining
+[2:01:14 AM] 🗑️ Removed fuw3 (PROCESSED) from accounts.txt
+[2:01:14 AM] ✅ accounts.txt updated — 2574 remaining
+[2:01:36 AM] 🗑️ Removed gab189 (PROCESSED) from accounts.txt
+[2:01:36 AM] ✅ accounts.txt updated — 2573 remaining
+[2:01:54 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:03:26 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:03:29 AM] 🗑️ Removed gabibinas13 (PROCESSED) from accounts.txt
+[2:03:29 AM] ✅ accounts.txt updated — 2572 remaining
+[2:03:50 AM] 🗑️ Removed gabejam3322 (PROCESSED) from accounts.txt
+[2:03:50 AM] ✅ accounts.txt updated — 2571 remaining
+[2:04:11 AM] 🗑️ Removed gaboco209 (PROCESSED) from accounts.txt
+[2:04:11 AM] ✅ accounts.txt updated — 2570 remaining
+[2:04:33 AM] 🗑️ Removed gabivsgabi2004 (PROCESSED) from accounts.txt
+[2:04:33 AM] ✅ accounts.txt updated — 2569 remaining
+[2:04:52 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:06:23 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:06:26 AM] 🗑️ Removed gabriangeli (PROCESSED) from accounts.txt
+[2:06:26 AM] ✅ accounts.txt updated — 2568 remaining
+[2:06:48 AM] 🗑️ Removed gabriel99955 (PROCESSED) from accounts.txt
+[2:06:48 AM] ✅ accounts.txt updated — 2567 remaining
+[2:07:09 AM] 🗑️ Removed gabriel380rg (PROCESSED) from accounts.txt
+[2:07:09 AM] ✅ accounts.txt updated — 2566 remaining
+[2:07:30 AM] 🗑️ Removed gabymo1 (PROCESSED) from accounts.txt
+[2:07:30 AM] ✅ accounts.txt updated — 2565 remaining
+[2:07:49 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:09:21 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:09:23 AM] 🗑️ Removed gabrirlgrano (PROCESSED) from accounts.txt
+[2:09:23 AM] ✅ accounts.txt updated — 2564 remaining
+[2:09:44 AM] 🗑️ Removed gagan42 (PROCESSED) from accounts.txt
+[2:09:44 AM] ✅ accounts.txt updated — 2563 remaining
+[2:10:05 AM] 🗑️ Removed gachawolf311 (PROCESSED) from accounts.txt
+[2:10:05 AM] ✅ accounts.txt updated — 2562 remaining
+[2:10:27 AM] 🗑️ Removed galaxy151 (PROCESSED) from accounts.txt
+[2:10:27 AM] ✅ accounts.txt updated — 2561 remaining
+[2:10:48 AM] 🗑️ Removed galaxypup2008 (PROCESSED) from accounts.txt
+[2:10:48 AM] ✅ accounts.txt updated — 2560 remaining
+[2:11:07 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:12:39 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:12:41 AM] 🗑️ Removed gamaster18 (PROCESSED) from accounts.txt
+[2:12:41 AM] ✅ accounts.txt updated — 2559 remaining
+[2:13:02 AM] 🗑️ Removed gamerunicorn19 (PROCESSED) from accounts.txt
+[2:13:02 AM] ✅ accounts.txt updated — 2558 remaining
+[2:13:23 AM] 🗑️ Removed gatfg (PROCESSED) from accounts.txt
+[2:13:23 AM] ✅ accounts.txt updated — 2557 remaining
+[2:13:42 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:15:14 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:15:16 AM] 🗑️ Removed gatinharb (PROCESSED) from accounts.txt
+[2:15:16 AM] ✅ accounts.txt updated — 2556 remaining
+[2:15:37 AM] 🗑️ Removed gatitafenix (PROCESSED) from accounts.txt
+[2:15:37 AM] ✅ accounts.txt updated — 2555 remaining
+[2:15:56 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:17:27 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:17:29 AM] 🗑️ Removed gatitokawaii4 (PROCESSED) from accounts.txt
+[2:17:29 AM] ✅ accounts.txt updated — 2554 remaining
+[2:17:51 AM] 🗑️ Removed gatogerman (PROCESSED) from accounts.txt
+[2:17:51 AM] ✅ accounts.txt updated — 2553 remaining
+[2:18:12 AM] 🗑️ Removed gavyn297 (PROCESSED) from accounts.txt
+[2:18:12 AM] ✅ accounts.txt updated — 2552 remaining
+[2:18:33 AM] 🗑️ Removed gdfyjkmh (PROCESSED) from accounts.txt
+[2:18:33 AM] ✅ accounts.txt updated — 2551 remaining
+[2:18:55 AM] 🗑️ Removed geeneal7 (PROCESSED) from accounts.txt
+[2:18:55 AM] ✅ accounts.txt updated — 2550 remaining
+[2:19:16 AM] 🗑️ Removed gegamega55 (PROCESSED) from accounts.txt
+[2:19:16 AM] ✅ accounts.txt updated — 2549 remaining
+[2:19:38 AM] 🗑️ Removed gempar (PROCESSED) from accounts.txt
+[2:19:38 AM] ✅ accounts.txt updated — 2548 remaining
+[2:19:56 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:21:28 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:22:59 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:23:02 AM] 🗑️ Removed gemma1615 (PROCESSED) from accounts.txt
+[2:23:02 AM] ✅ accounts.txt updated — 2547 remaining
+[2:23:23 AM] 🗑️ Removed genniarosa (PROCESSED) from accounts.txt
+[2:23:23 AM] ✅ accounts.txt updated — 2546 remaining
+[2:23:44 AM] 🗑️ Removed geraets2 (PROCESSED) from accounts.txt
+[2:23:44 AM] ✅ accounts.txt updated — 2545 remaining
+[2:24:05 AM] 🗑️ Removed geraldine78 (PROCESSED) from accounts.txt
+[2:24:05 AM] ✅ accounts.txt updated — 2544 remaining
+[2:24:26 AM] 🗑️ Removed gesus6 (PROCESSED) from accounts.txt
+[2:24:26 AM] ✅ accounts.txt updated — 2543 remaining
+[2:24:47 AM] 🗑️ Removed getolder1 (PROCESSED) from accounts.txt
+[2:24:47 AM] ✅ accounts.txt updated — 2542 remaining
+[2:25:09 AM] 🗑️ Removed gernale19 (PROCESSED) from accounts.txt
+[2:25:09 AM] ✅ accounts.txt updated — 2541 remaining
+[2:25:30 AM] 🗑️ Removed gg123sas900 (PROCESSED) from accounts.txt
+[2:25:30 AM] ✅ accounts.txt updated — 2540 remaining
+[2:25:51 AM] 🗑️ Removed gg11758 (PROCESSED) from accounts.txt
+[2:25:51 AM] ✅ accounts.txt updated — 2539 remaining
+[2:26:10 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:27:42 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:29:13 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:29:15 AM] 🗑️ Removed gewko (PROCESSED) from accounts.txt
+[2:29:15 AM] ✅ accounts.txt updated — 2538 remaining
+[2:29:36 AM] 🗑️ Removed gh4h (PROCESSED) from accounts.txt
+[2:29:36 AM] ✅ accounts.txt updated — 2537 remaining
+[2:29:57 AM] 🗑️ Removed ghill67 (PROCESSED) from accounts.txt
+[2:29:57 AM] ✅ accounts.txt updated — 2536 remaining
+[2:30:19 AM] 🗑️ Removed ghtrterwrte (PROCESSED) from accounts.txt
+[2:30:19 AM] ✅ accounts.txt updated — 2535 remaining
+[2:30:40 AM] 🗑️ Removed giaa14 (PROCESSED) from accounts.txt
+[2:30:40 AM] ✅ accounts.txt updated — 2534 remaining
+[2:31:01 AM] 🗑️ Removed gie63 (PROCESSED) from accounts.txt
+[2:31:01 AM] ✅ accounts.txt updated — 2533 remaining
+[2:31:20 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:32:51 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:32:52 AM] 🗑️ Removed giannaqueen507 (PROCESSED) from accounts.txt
+[2:32:52 AM] ✅ accounts.txt updated — 2532 remaining
+[2:33:13 AM] 🗑️ Removed gigamann (PROCESSED) from accounts.txt
+[2:33:13 AM] ✅ accounts.txt updated — 2531 remaining
+[2:33:32 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:35:04 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:35:06 AM] 🗑️ Removed gigibr55 (PROCESSED) from accounts.txt
+[2:35:06 AM] ✅ accounts.txt updated — 2530 remaining
+[2:35:27 AM] 🗑️ Removed gigifofa9 (PROCESSED) from accounts.txt
+[2:35:27 AM] ✅ accounts.txt updated — 2529 remaining
+[2:35:48 AM] 🗑️ Removed gigigigigigigiigigig (PROCESSED) from accounts.txt
+[2:35:48 AM] ✅ accounts.txt updated — 2528 remaining
+[2:36:10 AM] 🗑️ Removed ginasticabalemari855 (PROCESSED) from accounts.txt
+[2:36:10 AM] ✅ accounts.txt updated — 2527 remaining
+[2:36:31 AM] 🗑️ Removed gimena5879 (PROCESSED) from accounts.txt
+[2:36:31 AM] ✅ accounts.txt updated — 2526 remaining
+[2:36:52 AM] 🗑️ Removed gillimlg (PROCESSED) from accounts.txt
+[2:36:52 AM] ✅ accounts.txt updated — 2525 remaining
+[2:37:11 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:38:42 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:38:44 AM] 🗑️ Removed gingerkid8 (PROCESSED) from accounts.txt
+[2:38:44 AM] ✅ accounts.txt updated — 2524 remaining
+[2:39:06 AM] 🗑️ Removed ginny63 (PROCESSED) from accounts.txt
+[2:39:06 AM] ✅ accounts.txt updated — 2523 remaining
+[2:39:24 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:40:56 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:40:58 AM] 🗑️ Removed giovanna134 (PROCESSED) from accounts.txt
+[2:40:58 AM] ✅ accounts.txt updated — 2522 remaining
+[2:41:19 AM] 🗑️ Removed girlboy112 (PROCESSED) from accounts.txt
+[2:41:19 AM] ✅ accounts.txt updated — 2521 remaining
+[2:41:40 AM] 🗑️ Removed giselle19080 (PROCESSED) from accounts.txt
+[2:41:40 AM] ✅ accounts.txt updated — 2520 remaining
+[2:42:02 AM] 🗑️ Removed gloria1245 (PROCESSED) from accounts.txt
+[2:42:02 AM] ✅ accounts.txt updated — 2519 remaining
+[2:42:23 AM] 🗑️ Removed globito (PROCESSED) from accounts.txt
+[2:42:23 AM] ✅ accounts.txt updated — 2518 remaining
+[2:42:45 AM] 🗑️ Removed goarkansa (PROCESSED) from accounts.txt
+[2:42:45 AM] ✅ accounts.txt updated — 2517 remaining
+[2:43:06 AM] 🗑️ Removed goku66 (PROCESSED) from accounts.txt
+[2:43:06 AM] ✅ accounts.txt updated — 2516 remaining
+[2:43:25 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:44:56 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:44:59 AM] 🗑️ Removed goku2290 (PROCESSED) from accounts.txt
+[2:44:59 AM] ✅ accounts.txt updated — 2515 remaining
+[2:45:20 AM] 🗑️ Removed gokudios3 (PROCESSED) from accounts.txt
+[2:45:20 AM] ✅ accounts.txt updated — 2514 remaining
+[2:45:41 AM] 🗑️ Removed golden766 (PROCESSED) from accounts.txt
+[2:45:41 AM] ✅ accounts.txt updated — 2513 remaining
+[2:46:00 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:47:31 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:47:34 AM] 🗑️ Removed goldenleaf31 (PROCESSED) from accounts.txt
+[2:47:34 AM] ✅ accounts.txt updated — 2512 remaining
+[2:47:54 AM] 🗑️ Removed goldengirlsrule (PROCESSED) from accounts.txt
+[2:47:54 AM] ✅ accounts.txt updated — 2511 remaining
+[2:48:16 AM] 🗑️ Removed goldentemplerabbit (PROCESSED) from accounts.txt
+[2:48:16 AM] ✅ accounts.txt updated — 2510 remaining
+[2:48:37 AM] 🗑️ Removed goldigging (PROCESSED) from accounts.txt
+[2:48:37 AM] ✅ accounts.txt updated — 2509 remaining
+[2:48:58 AM] 🗑️ Removed goldthe40 (PROCESSED) from accounts.txt
+[2:48:58 AM] ✅ accounts.txt updated — 2508 remaining
+[2:49:19 AM] 🗑️ Removed goldthefox2 (PROCESSED) from accounts.txt
+[2:49:19 AM] ✅ accounts.txt updated — 2507 remaining
+[2:49:39 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:51:10 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:51:12 AM] 🗑️ Removed goldzebra123 (PROCESSED) from accounts.txt
+[2:51:12 AM] ✅ accounts.txt updated — 2506 remaining
+[2:51:33 AM] 🗑️ Removed gomi46 (PROCESSED) from accounts.txt
+[2:51:33 AM] ✅ accounts.txt updated — 2505 remaining
+[2:51:54 AM] 🗑️ Removed golumberto20 (PROCESSED) from accounts.txt
+[2:51:54 AM] ✅ accounts.txt updated — 2504 remaining
+[2:52:13 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:53:44 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:53:46 AM] 🗑️ Removed gonz3 (PROCESSED) from accounts.txt
+[2:53:46 AM] ✅ accounts.txt updated — 2503 remaining
+[2:54:07 AM] 🗑️ Removed gonjnl267 (PROCESSED) from accounts.txt
+[2:54:07 AM] ✅ accounts.txt updated — 2502 remaining
+[2:54:28 AM] 🗑️ Removed goodwishes (PROCESSED) from accounts.txt
+[2:54:28 AM] ✅ accounts.txt updated — 2501 remaining
+[2:54:47 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:56:19 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:56:20 AM] 🗑️ Removed goodmomjacob (PROCESSED) from accounts.txt
+[2:56:20 AM] ✅ accounts.txt updated — 2500 remaining
+[2:56:42 AM] 🗑️ Removed gordi35 (PROCESSED) from accounts.txt
+[2:56:42 AM] ✅ accounts.txt updated — 2499 remaining
+[2:57:03 AM] 🗑️ Removed gorutogamer35 (PROCESSED) from accounts.txt
+[2:57:03 AM] ✅ accounts.txt updated — 2498 remaining
+[2:57:24 AM] 🗑️ Removed gopie7 (PROCESSED) from accounts.txt
+[2:57:24 AM] ✅ accounts.txt updated — 2497 remaining
+[2:57:45 AM] 🗑️ Removed goul5 (PROCESSED) from accounts.txt
+[2:57:45 AM] ✅ accounts.txt updated — 2496 remaining
+[2:58:04 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:59:35 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:59:37 AM] 🗑️ Removed goy2013 (PROCESSED) from accounts.txt
+[2:59:37 AM] ✅ accounts.txt updated — 2495 remaining
+[2:59:59 AM] 🗑️ Removed gpa4daisy (PROCESSED) from accounts.txt
+[2:59:59 AM] ✅ accounts.txt updated — 2494 remaining
+[3:00:20 AM] 🗑️ Removed graceful777 (PROCESSED) from accounts.txt
+[3:00:20 AM] ✅ accounts.txt updated — 2493 remaining
+[3:00:39 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:02:11 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:02:13 AM] 🗑️ Removed gracelove131 (PROCESSED) from accounts.txt
+[3:02:13 AM] ✅ accounts.txt updated — 2492 remaining
+[3:02:35 AM] 🗑️ Removed grancy1 (PROCESSED) from accounts.txt
+[3:02:35 AM] ✅ accounts.txt updated — 2491 remaining
+[3:02:56 AM] 🗑️ Removed gracynn41 (PROCESSED) from accounts.txt
+[3:02:56 AM] ✅ accounts.txt updated — 2490 remaining
+[3:03:18 AM] 🗑️ Removed gracietacocat (PROCESSED) from accounts.txt
+[3:03:18 AM] ✅ accounts.txt updated — 2489 remaining
+[3:03:39 AM] 🗑️ Removed grans587 (PROCESSED) from accounts.txt
+[3:03:39 AM] ✅ accounts.txt updated — 2488 remaining
+[3:04:00 AM] 🗑️ Removed grasser678jt (PROCESSED) from accounts.txt
+[3:04:00 AM] ✅ accounts.txt updated — 2487 remaining
+[3:04:21 AM] 🗑️ Removed gravity11 (PROCESSED) from accounts.txt
+[3:04:21 AM] ✅ accounts.txt updated — 2486 remaining
+[3:04:40 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:06:12 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:06:14 AM] 🗑️ Removed graziella42 (PROCESSED) from accounts.txt
+[3:06:14 AM] ✅ accounts.txt updated — 2485 remaining
+[3:06:33 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:08:04 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:08:06 AM] 🗑️ Removed greentiki28 (PROCESSED) from accounts.txt
+[3:08:06 AM] ✅ accounts.txt updated — 2484 remaining
+[3:08:28 AM] 🗑️ Removed greenhop52 (PROCESSED) from accounts.txt
+[3:08:28 AM] ✅ accounts.txt updated — 2483 remaining
+[3:08:49 AM] 🗑️ Removed griffy58 (PROCESSED) from accounts.txt
+[3:08:49 AM] ✅ accounts.txt updated — 2482 remaining
+[3:09:11 AM] 🗑️ Removed grillo21 (PROCESSED) from accounts.txt
+[3:09:11 AM] ✅ accounts.txt updated — 2481 remaining
+[3:09:32 AM] 🗑️ Removed gsn15 (PROCESSED) from accounts.txt
+[3:09:32 AM] ✅ accounts.txt updated — 2480 remaining
+[3:09:53 AM] 🗑️ Removed guarana41 (PROCESSED) from accounts.txt
+[3:09:53 AM] ✅ accounts.txt updated — 2479 remaining
+[3:10:14 AM] 🗑️ Removed guapeton2 (PROCESSED) from accounts.txt
+[3:10:14 AM] ✅ accounts.txt updated — 2478 remaining
+[3:10:35 AM] 🗑️ Removed guillermina50 (PROCESSED) from accounts.txt
+[3:10:35 AM] ✅ accounts.txt updated — 2477 remaining
+[3:10:55 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:12:26 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:13:58 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:14:01 AM] 🗑️ Removed guji2 (PROCESSED) from accounts.txt
+[3:14:01 AM] ✅ accounts.txt updated — 2476 remaining
+[3:14:22 AM] 🗑️ Removed gummybeargirl12034 (PROCESSED) from accounts.txt
+[3:14:22 AM] ✅ accounts.txt updated — 2475 remaining
+[3:14:44 AM] 🗑️ Removed gwapo0911 (PROCESSED) from accounts.txt
+[3:14:44 AM] ✅ accounts.txt updated — 2474 remaining
+[3:15:05 AM] 🗑️ Removed gutho (PROCESSED) from accounts.txt
+[3:15:05 AM] ✅ accounts.txt updated — 2473 remaining
+[3:15:27 AM] 🗑️ Removed gutato007 (PROCESSED) from accounts.txt
+[3:15:27 AM] ✅ accounts.txt updated — 2472 remaining
+[3:15:48 AM] 🗑️ Removed h0neyluvx (PROCESSED) from accounts.txt
+[3:15:48 AM] ✅ accounts.txt updated — 2471 remaining
+[3:16:09 AM] 🗑️ Removed gwynn0 (PROCESSED) from accounts.txt
+[3:16:09 AM] ✅ accounts.txt updated — 2470 remaining
+[3:16:31 AM] 🗑️ Removed gxdziila (PROCESSED) from accounts.txt
+[3:16:31 AM] ✅ accounts.txt updated — 2469 remaining
+[3:16:52 AM] 🗑️ Removed hafsa39 (PROCESSED) from accounts.txt
+[3:16:52 AM] ✅ accounts.txt updated — 2468 remaining
+[3:17:14 AM] 🗑️ Removed hafrff (PROCESSED) from accounts.txt
+[3:17:14 AM] ✅ accounts.txt updated — 2467 remaining
+[3:17:33 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:19:05 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:20:36 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:20:39 AM] 🗑️ Removed hairo125gamer (PROCESSED) from accounts.txt
+[3:20:39 AM] ✅ accounts.txt updated — 2466 remaining
+[3:21:00 AM] 🗑️ Removed haileyj6 (PROCESSED) from accounts.txt
+[3:21:00 AM] ✅ accounts.txt updated — 2465 remaining
+[3:21:21 AM] 🗑️ Removed hallonicetameetya457 (PROCESSED) from accounts.txt
+[3:21:21 AM] ✅ accounts.txt updated — 2464 remaining
+[3:21:43 AM] 🗑️ Removed halym101 (PROCESSED) from accounts.txt
+[3:21:43 AM] ✅ accounts.txt updated — 2463 remaining
+[3:22:04 AM] 🗑️ Removed hanman777 (PROCESSED) from accounts.txt
+[3:22:04 AM] ✅ accounts.txt updated — 2462 remaining
+[3:22:25 AM] 🗑️ Removed hania456 (PROCESSED) from accounts.txt
+[3:22:25 AM] ✅ accounts.txt updated — 2461 remaining
+[3:22:47 AM] 🗑️ Removed happy453 (PROCESSED) from accounts.txt
+[3:22:47 AM] ✅ accounts.txt updated — 2460 remaining
+[3:23:08 AM] 🗑️ Removed hannt19 (PROCESSED) from accounts.txt
+[3:23:08 AM] ✅ accounts.txt updated — 2459 remaining
+[3:23:29 AM] 🗑️ Removed haphea12 (PROCESSED) from accounts.txt
+[3:23:29 AM] ✅ accounts.txt updated — 2458 remaining
+[3:23:48 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:25:20 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:26:51 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:26:53 AM] 🗑️ Removed happyjoyouspenguin (PROCESSED) from accounts.txt
+[3:26:53 AM] ✅ accounts.txt updated — 2457 remaining
+[3:27:14 AM] 🗑️ Removed happypanda1 (PROCESSED) from accounts.txt
+[3:27:14 AM] ✅ accounts.txt updated — 2456 remaining
+[3:27:36 AM] 🗑️ Removed happykid70953 (PROCESSED) from accounts.txt
+[3:27:36 AM] ✅ accounts.txt updated — 2455 remaining
+[3:27:57 AM] 🗑️ Removed happypaws1205 (PROCESSED) from accounts.txt
+[3:27:57 AM] ✅ accounts.txt updated — 2454 remaining
+[3:28:18 AM] 🗑️ Removed happywander85 (PROCESSED) from accounts.txt
+[3:28:18 AM] ✅ accounts.txt updated — 2453 remaining
+[3:28:39 AM] 🗑️ Removed happywolfmmm (PROCESSED) from accounts.txt
+[3:28:39 AM] ✅ accounts.txt updated — 2452 remaining
+[3:29:00 AM] 🗑️ Removed harliejohn123 (PROCESSED) from accounts.txt
+[3:29:00 AM] ✅ accounts.txt updated — 2451 remaining
+[3:29:22 AM] 🗑️ Removed harmonyfuntime (PROCESSED) from accounts.txt
+[3:29:22 AM] ✅ accounts.txt updated — 2450 remaining
+[3:29:41 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:31:12 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:32:43 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:32:46 AM] 🗑️ Removed haru141 (PROCESSED) from accounts.txt
+[3:32:46 AM] ✅ accounts.txt updated — 2449 remaining
+[3:33:07 AM] 🗑️ Removed harvey2011 (PROCESSED) from accounts.txt
+[3:33:07 AM] ✅ accounts.txt updated — 2448 remaining
+[3:33:28 AM] 🗑️ Removed haso38 (PROCESSED) from accounts.txt
+[3:33:28 AM] ✅ accounts.txt updated — 2447 remaining
+[3:33:49 AM] 🗑️ Removed haybay12344 (PROCESSED) from accounts.txt
+[3:33:49 AM] ✅ accounts.txt updated — 2446 remaining
+[3:34:10 AM] 🗑️ Removed haydenball (PROCESSED) from accounts.txt
+[3:34:10 AM] ✅ accounts.txt updated — 2445 remaining
+[3:34:31 AM] 🗑️ Removed haylienl (PROCESSED) from accounts.txt
+[3:34:31 AM] ✅ accounts.txt updated — 2444 remaining
+[3:34:52 AM] 🗑️ Removed hazel61 (PROCESSED) from accounts.txt
+[3:34:52 AM] ✅ accounts.txt updated — 2443 remaining
+[3:35:13 AM] 🗑️ Removed hazel5483 (PROCESSED) from accounts.txt
+[3:35:13 AM] ✅ accounts.txt updated — 2442 remaining
+[3:35:32 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:37:03 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:38:35 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:38:38 AM] 🗑️ Removed hazane14 (PROCESSED) from accounts.txt
+[3:38:38 AM] ✅ accounts.txt updated — 2441 remaining
+[3:38:59 AM] 🗑️ Removed hayleighm268 (PROCESSED) from accounts.txt
+[3:38:59 AM] ✅ accounts.txt updated — 2440 remaining
+[3:39:20 AM] 🗑️ Removed headghogman (PROCESSED) from accounts.txt
+[3:39:20 AM] ✅ accounts.txt updated — 2439 remaining
+[3:39:42 AM] 🗑️ Removed hdjs9 (PROCESSED) from accounts.txt
+[3:39:42 AM] ✅ accounts.txt updated — 2438 remaining
+[3:40:03 AM] 🗑️ Removed heavenandgod0 (PROCESSED) from accounts.txt
+[3:40:03 AM] ✅ accounts.txt updated — 2437 remaining
+[3:40:24 AM] 🗑️ Removed heartlover64 (PROCESSED) from accounts.txt
+[3:40:24 AM] ✅ accounts.txt updated — 2436 remaining
+[3:40:45 AM] 🗑️ Removed helena11655 (PROCESSED) from accounts.txt
+[3:40:45 AM] ✅ accounts.txt updated — 2435 remaining
+[3:41:07 AM] 🗑️ Removed hedderivy (PROCESSED) from accounts.txt
+[3:41:07 AM] ✅ accounts.txt updated — 2434 remaining
+[3:41:28 AM] 🗑️ Removed hello11152 (PROCESSED) from accounts.txt
+[3:41:28 AM] ✅ accounts.txt updated — 2433 remaining
+[3:41:47 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:43:18 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:44:50 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:44:52 AM] 🗑️ Removed helloheaddress (PROCESSED) from accounts.txt
+[3:44:52 AM] ✅ accounts.txt updated — 2432 remaining
+[3:45:13 AM] 🗑️ Removed hellowindow (PROCESSED) from accounts.txt
+[3:45:13 AM] ✅ accounts.txt updated — 2431 remaining
+[3:45:34 AM] 🗑️ Removed hfbt54 (PROCESSED) from accounts.txt
+[3:45:34 AM] ✅ accounts.txt updated — 2430 remaining
+[3:45:56 AM] 🗑️ Removed heyoitsmayo (PROCESSED) from accounts.txt
+[3:45:56 AM] ✅ accounts.txt updated — 2429 remaining
+[3:46:17 AM] 🗑️ Removed hiba1223 (PROCESSED) from accounts.txt
+[3:46:17 AM] ✅ accounts.txt updated — 2428 remaining
+[3:46:38 AM] 🗑️ Removed hiha1960 (PROCESSED) from accounts.txt
+[3:46:38 AM] ✅ accounts.txt updated — 2427 remaining
+[3:46:59 AM] 🗑️ Removed hiiking154 (PROCESSED) from accounts.txt
+[3:46:59 AM] ✅ accounts.txt updated — 2426 remaining
+[3:47:20 AM] 🗑️ Removed hihieh97 (PROCESSED) from accounts.txt
+[3:47:20 AM] ✅ accounts.txt updated — 2425 remaining
+[3:47:42 AM] 🗑️ Removed hiking30 (PROCESSED) from accounts.txt
+[3:47:42 AM] ✅ accounts.txt updated — 2424 remaining
+[3:48:01 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:49:32 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:51:03 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:51:05 AM] 🗑️ Removed hinemaiatetai9 (PROCESSED) from accounts.txt
+[3:51:05 AM] ✅ accounts.txt updated — 2423 remaining
+[3:51:27 AM] 🗑️ Removed hipdisplacement1 (PROCESSED) from accounts.txt
+[3:51:27 AM] ✅ accounts.txt updated — 2422 remaining
+[3:51:49 AM] 🗑️ Removed hinata179 (PROCESSED) from accounts.txt
+[3:51:49 AM] ✅ accounts.txt updated — 2421 remaining
+[3:52:10 AM] 🗑️ Removed hippo01 (PROCESSED) from accounts.txt
+[3:52:10 AM] ✅ accounts.txt updated — 2420 remaining
+[3:52:31 AM] 🗑️ Removed hiwinder (PROCESSED) from accounts.txt
+[3:52:31 AM] ✅ accounts.txt updated — 2419 remaining
+[3:52:52 AM] 🗑️ Removed hjkg11 (PROCESSED) from accounts.txt
+[3:52:52 AM] ✅ accounts.txt updated — 2418 remaining
+[3:53:14 AM] 🗑️ Removed hisis55 (PROCESSED) from accounts.txt
+[3:53:14 AM] ✅ accounts.txt updated — 2417 remaining
+[3:53:35 AM] 🗑️ Removed hjy21 (PROCESSED) from accounts.txt
+[3:53:35 AM] ✅ accounts.txt updated — 2416 remaining
+[3:53:56 AM] 🗑️ Removed hlittle33 (PROCESSED) from accounts.txt
+[3:53:56 AM] ✅ accounts.txt updated — 2415 remaining
+[3:54:15 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:55:46 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:57:17 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:57:20 AM] 🗑️ Removed hoco35 (PROCESSED) from accounts.txt
+[3:57:20 AM] ✅ accounts.txt updated — 2414 remaining
+[3:57:41 AM] 🗑️ Removed holaamiga24 (PROCESSED) from accounts.txt
+[3:57:41 AM] ✅ accounts.txt updated — 2413 remaining
+[3:58:02 AM] 🗑️ Removed holasoydecolombia (PROCESSED) from accounts.txt
+[3:58:02 AM] ✅ accounts.txt updated — 2412 remaining
+[3:58:23 AM] 🗑️ Removed holasoygerman66 (PROCESSED) from accounts.txt
+[3:58:23 AM] ✅ accounts.txt updated — 2411 remaining
+[3:58:44 AM] 🗑️ Removed holasoydecolombia7 (PROCESSED) from accounts.txt
+[3:58:44 AM] ✅ accounts.txt updated — 2410 remaining
+[3:59:05 AM] 🗑️ Removed holasoydeuruguay (PROCESSED) from accounts.txt
+[3:59:05 AM] ✅ accounts.txt updated — 2409 remaining
+[3:59:27 AM] 🗑️ Removed homem41 (PROCESSED) from accounts.txt
+[3:59:27 AM] ✅ accounts.txt updated — 2408 remaining
+[3:59:49 AM] 🗑️ Removed honnybunny2314 (PROCESSED) from accounts.txt
+[3:59:49 AM] ✅ accounts.txt updated — 2407 remaining
+[4:00:10 AM] 🗑️ Removed honeypuppy123 (PROCESSED) from accounts.txt
+[4:00:10 AM] ✅ accounts.txt updated — 2406 remaining
+[4:00:29 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:02:01 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:03:32 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:03:35 AM] 🗑️ Removed hooty612 (PROCESSED) from accounts.txt
+[4:03:35 AM] ✅ accounts.txt updated — 2405 remaining
+[4:03:56 AM] 🗑️ Removed hood18 (PROCESSED) from accounts.txt
+[4:03:56 AM] ✅ accounts.txt updated — 2404 remaining
+[4:04:17 AM] 🗑️ Removed hop13839 (PROCESSED) from accounts.txt
+[4:04:17 AM] ✅ accounts.txt updated — 2403 remaining
+[4:04:39 AM] 🗑️ Removed hoor123 (PROCESSED) from accounts.txt
+[4:04:39 AM] ✅ accounts.txt updated — 2402 remaining
+[4:05:00 AM] 🗑️ Removed hoppingyas (PROCESSED) from accounts.txt
+[4:05:00 AM] ✅ accounts.txt updated — 2401 remaining
+[4:05:21 AM] 🗑️ Removed horn10 (PROCESSED) from accounts.txt
+[4:05:21 AM] ✅ accounts.txt updated — 2400 remaining
+[4:05:42 AM] 🗑️ Removed hopps144 (PROCESSED) from accounts.txt
+[4:05:42 AM] ✅ accounts.txt updated — 2399 remaining
+[4:06:04 AM] 🗑️ Removed horsekeeper72 (PROCESSED) from accounts.txt
+[4:06:04 AM] ✅ accounts.txt updated — 2398 remaining
+[4:06:25 AM] 🗑️ Removed horselovertylar4 (PROCESSED) from accounts.txt
+[4:06:25 AM] ✅ accounts.txt updated — 2397 remaining
+[4:06:44 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:08:15 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:09:46 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:09:48 AM] 🗑️ Removed horse75333 (PROCESSED) from accounts.txt
+[4:09:48 AM] ✅ accounts.txt updated — 2396 remaining
+[4:10:10 AM] 🗑️ Removed horseridergirl33 (PROCESSED) from accounts.txt
+[4:10:10 AM] ✅ accounts.txt updated — 2395 remaining
+[4:10:31 AM] 🗑️ Removed hot96 (PROCESSED) from accounts.txt
+[4:10:31 AM] ✅ accounts.txt updated — 2394 remaining
+[4:10:53 AM] 🗑️ Removed horsesarethebest4 (PROCESSED) from accounts.txt
+[4:10:53 AM] ✅ accounts.txt updated — 2393 remaining
+[4:11:14 AM] 🗑️ Removed hotdogdance3 (PROCESSED) from accounts.txt
+[4:11:14 AM] ✅ accounts.txt updated — 2392 remaining
+[4:11:35 AM] 🗑️ Removed hotcheetofries (PROCESSED) from accounts.txt
+[4:11:35 AM] ✅ accounts.txt updated — 2391 remaining
+[4:11:56 AM] 🗑️ Removed hudd97 (PROCESSED) from accounts.txt
+[4:11:56 AM] ✅ accounts.txt updated — 2390 remaining
+[4:12:18 AM] 🗑️ Removed htinha0 (PROCESSED) from accounts.txt
+[4:12:18 AM] ✅ accounts.txt updated — 2389 remaining
+[4:12:39 AM] 🗑️ Removed htyrr (PROCESSED) from accounts.txt
+[4:12:39 AM] ✅ accounts.txt updated — 2388 remaining
+[4:12:58 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:14:29 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:16:00 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:16:02 AM] 🗑️ Removed htyler8 (PROCESSED) from accounts.txt
+[4:16:02 AM] ✅ accounts.txt updated — 2387 remaining
+[4:16:23 AM] 🗑️ Removed hunter23026 (PROCESSED) from accounts.txt
+[4:16:23 AM] ✅ accounts.txt updated — 2386 remaining
+[4:16:44 AM] 🗑️ Removed huntly897 (PROCESSED) from accounts.txt
+[4:16:44 AM] ✅ accounts.txt updated — 2385 remaining
+[4:17:07 AM] 🗑️ Removed huskykiddabest (PROCESSED) from accounts.txt
+[4:17:07 AM] ✅ accounts.txt updated — 2384 remaining
+[4:17:28 AM] 🗑️ Removed hyper86 (PROCESSED) from accounts.txt
+[4:17:28 AM] ✅ accounts.txt updated — 2383 remaining
+[4:17:49 AM] 🗑️ Removed hvfhgc (PROCESSED) from accounts.txt
+[4:17:49 AM] ✅ accounts.txt updated — 2382 remaining
+[4:18:11 AM] 🗑️ Removed huza2007 (PROCESSED) from accounts.txt
+[4:18:11 AM] ✅ accounts.txt updated — 2381 remaining
+[4:18:32 AM] 🗑️ Removed i22love22bts22 (PROCESSED) from accounts.txt
+[4:18:32 AM] ✅ accounts.txt updated — 2380 remaining
+[4:18:51 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:20:22 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:21:53 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:21:55 AM] 🗑️ Removed iamanewanimal (PROCESSED) from accounts.txt
+[4:21:55 AM] ✅ accounts.txt updated — 2379 remaining
+[4:22:17 AM] 🗑️ Removed iamtheseal111 (PROCESSED) from accounts.txt
+[4:22:17 AM] ✅ accounts.txt updated — 2378 remaining
+[4:22:38 AM] 🗑️ Removed ian137 (PROCESSED) from accounts.txt
+[4:22:38 AM] ✅ accounts.txt updated — 2377 remaining
+[4:22:59 AM] 🗑️ Removed ibrain (PROCESSED) from accounts.txt
+[4:22:59 AM] ✅ accounts.txt updated — 2376 remaining
+[4:23:20 AM] 🗑️ Removed iarajeje (PROCESSED) from accounts.txt
+[4:23:20 AM] ✅ accounts.txt updated — 2375 remaining
+[4:23:42 AM] 🗑️ Removed iaraa19 (PROCESSED) from accounts.txt
+[4:23:42 AM] ✅ accounts.txt updated — 2374 remaining
+[4:24:04 AM] 🗑️ Removed icecannon26 (PROCESSED) from accounts.txt
+[4:24:04 AM] ✅ accounts.txt updated — 2373 remaining
+[4:24:25 AM] 🗑️ Removed icecream318 (PROCESSED) from accounts.txt
+[4:24:25 AM] ✅ accounts.txt updated — 2372 remaining
+[4:24:47 AM] 🗑️ Removed icecream23088 (PROCESSED) from accounts.txt
+[4:24:47 AM] ✅ accounts.txt updated — 2371 remaining
+[4:25:06 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:26:37 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:28:08 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:28:11 AM] 🗑️ Removed iceejean (PROCESSED) from accounts.txt
+[4:28:11 AM] ✅ accounts.txt updated — 2370 remaining
+[4:28:32 AM] 🗑️ Removed iceypaws6 (PROCESSED) from accounts.txt
+[4:28:32 AM] ✅ accounts.txt updated — 2369 remaining
+[4:28:53 AM] 🗑️ Removed iceunicorn78 (PROCESSED) from accounts.txt
+[4:28:53 AM] ✅ accounts.txt updated — 2368 remaining
+[4:29:15 AM] 🗑️ Removed icereamgumdrop (PROCESSED) from accounts.txt
+[4:29:15 AM] ✅ accounts.txt updated — 2367 remaining
+[4:29:36 AM] 🗑️ Removed iceyfox15 (PROCESSED) from accounts.txt
+[4:29:36 AM] ✅ accounts.txt updated — 2366 remaining
+[4:29:57 AM] 🗑️ Removed ieh33 (PROCESSED) from accounts.txt
+[4:29:57 AM] ✅ accounts.txt updated — 2365 remaining
+[4:30:19 AM] 🗑️ Removed iiiiiiiii41 (PROCESSED) from accounts.txt
+[4:30:19 AM] ✅ accounts.txt updated — 2364 remaining
+[4:30:40 AM] 🗑️ Removed ihanif12 (PROCESSED) from accounts.txt
+[4:30:40 AM] ✅ accounts.txt updated — 2363 remaining
+[4:31:01 AM] 🗑️ Removed ikram50 (PROCESSED) from accounts.txt
+[4:31:01 AM] ✅ accounts.txt updated — 2362 remaining
+[4:31:20 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:32:52 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:34:23 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:34:25 AM] 🗑️ Removed ilay46 (PROCESSED) from accounts.txt
+[4:34:25 AM] ✅ accounts.txt updated — 2361 remaining
+[4:34:46 AM] 🗑️ Removed ikna (PROCESSED) from accounts.txt
+[4:34:46 AM] ✅ accounts.txt updated — 2360 remaining
+[4:35:08 AM] 🗑️ Removed ilikecats2009 (PROCESSED) from accounts.txt
+[4:35:08 AM] ✅ accounts.txt updated — 2359 remaining
+[4:35:30 AM] 🗑️ Removed iloveanimals20244 (PROCESSED) from accounts.txt
+[4:35:30 AM] ✅ accounts.txt updated — 2358 remaining
+[4:35:51 AM] 🗑️ Removed iloveajpw (PROCESSED) from accounts.txt
+[4:35:51 AM] ✅ accounts.txt updated — 2357 remaining
+[4:36:12 AM] 🗑️ Removed illcris (PROCESSED) from accounts.txt
+[4:36:12 AM] ✅ accounts.txt updated — 2356 remaining
+[4:36:34 AM] 🗑️ Removed ilovebutterflyslol (PROCESSED) from accounts.txt
+[4:36:34 AM] ✅ accounts.txt updated — 2355 remaining
+[4:36:56 AM] 🗑️ Removed ilovemashedpotato (PROCESSED) from accounts.txt
+[4:36:56 AM] ✅ accounts.txt updated — 2354 remaining
+[4:37:17 AM] 🗑️ Removed ilovelpslikecraz178 (PROCESSED) from accounts.txt
+[4:37:17 AM] ✅ accounts.txt updated — 2353 remaining
+[4:37:35 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:39:06 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:40:38 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:40:40 AM] 🗑️ Removed iloveroblox111 (PROCESSED) from accounts.txt
+[4:40:40 AM] ✅ accounts.txt updated — 2352 remaining
+[4:41:01 AM] 🗑️ Removed imaprettysavage21 (PROCESSED) from accounts.txt
+[4:41:01 AM] ✅ accounts.txt updated — 2351 remaining
+[4:41:22 AM] 🗑️ Removed imfunny1345 (PROCESSED) from accounts.txt
+[4:41:22 AM] ✅ accounts.txt updated — 2350 remaining
+[4:41:44 AM] 🗑️ Removed indah50 (PROCESSED) from accounts.txt
+[4:41:44 AM] ✅ accounts.txt updated — 2349 remaining
+[4:42:05 AM] 🗑️ Removed increiblevampira (PROCESSED) from accounts.txt
+[4:42:05 AM] ✅ accounts.txt updated — 2348 remaining
+[4:42:26 AM] 🗑️ Removed indian60 (PROCESSED) from accounts.txt
+[4:42:26 AM] ✅ accounts.txt updated — 2347 remaining
+[4:42:47 AM] 🗑️ Removed inc50 (PROCESSED) from accounts.txt
+[4:42:47 AM] ✅ accounts.txt updated — 2346 remaining
+[4:43:09 AM] 🗑️ Removed infinityman122 (PROCESSED) from accounts.txt
+[4:43:09 AM] ✅ accounts.txt updated — 2345 remaining
+[4:43:30 AM] 🗑️ Removed infinito3 (PROCESSED) from accounts.txt
+[4:43:30 AM] ✅ accounts.txt updated — 2344 remaining
+[4:43:49 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:45:20 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:46:51 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:46:54 AM] 🗑️ Removed iobo16 (PROCESSED) from accounts.txt
+[4:46:54 AM] ✅ accounts.txt updated — 2343 remaining
+[4:47:15 AM] 🗑️ Removed inseo0821 (PROCESSED) from accounts.txt
+[4:47:15 AM] ✅ accounts.txt updated — 2342 remaining
+[4:47:36 AM] 🗑️ Removed insenity6 (PROCESSED) from accounts.txt
+[4:47:36 AM] ✅ accounts.txt updated — 2341 remaining
+[4:47:57 AM] 🗑️ Removed inygui (PROCESSED) from accounts.txt
+[4:47:57 AM] ✅ accounts.txt updated — 2340 remaining
+[4:48:18 AM] 🗑️ Removed insenity8 (PROCESSED) from accounts.txt
+[4:48:18 AM] ✅ accounts.txt updated — 2339 remaining
+[4:48:39 AM] 🗑️ Removed ioi116 (PROCESSED) from accounts.txt
+[4:48:39 AM] ✅ accounts.txt updated — 2338 remaining
+[4:49:01 AM] 🗑️ Removed ire126 (PROCESSED) from accounts.txt
+[4:49:01 AM] ✅ accounts.txt updated — 2337 remaining
+[4:49:22 AM] 🗑️ Removed irenegizmo2 (PROCESSED) from accounts.txt
+[4:49:22 AM] ✅ accounts.txt updated — 2336 remaining
+[4:49:43 AM] 🗑️ Removed iriannys8 (PROCESSED) from accounts.txt
+[4:49:43 AM] ✅ accounts.txt updated — 2335 remaining
+[4:50:05 AM] 🗑️ Removed irule33 (PROCESSED) from accounts.txt
+[4:50:05 AM] ✅ accounts.txt updated — 2334 remaining
+[4:50:24 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:51:55 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:53:27 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:53:30 AM] 🗑️ Removed isa20208 (PROCESSED) from accounts.txt
+[4:53:30 AM] ✅ accounts.txt updated — 2333 remaining
+[4:53:51 AM] 🗑️ Removed isaa59 (PROCESSED) from accounts.txt
+[4:53:51 AM] ✅ accounts.txt updated — 2332 remaining
+[4:54:12 AM] 🗑️ Removed is1413 (PROCESSED) from accounts.txt
+[4:54:12 AM] ✅ accounts.txt updated — 2331 remaining
+[4:54:33 AM] 🗑️ Removed isabella79900 (PROCESSED) from accounts.txt
+[4:54:33 AM] ✅ accounts.txt updated — 2330 remaining
+[4:54:55 AM] 🗑️ Removed isabelladay (PROCESSED) from accounts.txt
+[4:54:55 AM] ✅ accounts.txt updated — 2329 remaining
+[4:55:16 AM] 🗑️ Removed isabelle2019 (PROCESSED) from accounts.txt
+[4:55:16 AM] ✅ accounts.txt updated — 2328 remaining
+[4:55:37 AM] 🗑️ Removed isabelleloboo (PROCESSED) from accounts.txt
+[4:55:37 AM] ✅ accounts.txt updated — 2327 remaining
+[4:55:58 AM] 🗑️ Removed isabelymaioli2018 (PROCESSED) from accounts.txt
+[4:55:58 AM] ✅ accounts.txt updated — 2326 remaining
+[4:56:19 AM] 🗑️ Removed isadorabiella27 (PROCESSED) from accounts.txt
+[4:56:19 AM] ✅ accounts.txt updated — 2325 remaining
+[4:56:39 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:58:10 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:59:41 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:59:43 AM] 🗑️ Removed isaisha (PROCESSED) from accounts.txt
+[4:59:43 AM] ✅ accounts.txt updated — 2324 remaining
+[5:00:04 AM] 🗑️ Removed isagata10 (PROCESSED) from accounts.txt
+[5:00:04 AM] ✅ accounts.txt updated — 2323 remaining
+[5:00:26 AM] 🗑️ Removed isamar28 (PROCESSED) from accounts.txt
+[5:00:26 AM] ✅ accounts.txt updated — 2322 remaining
+[5:00:48 AM] 🗑️ Removed isi1509 (PROCESSED) from accounts.txt
+[5:00:48 AM] ✅ accounts.txt updated — 2321 remaining
+[5:01:09 AM] 🗑️ Removed itech9 (PROCESSED) from accounts.txt
+[5:01:09 AM] ✅ accounts.txt updated — 2320 remaining
+[5:01:31 AM] 🗑️ Removed italo0921 (PROCESSED) from accounts.txt
+[5:01:31 AM] ✅ accounts.txt updated — 2319 remaining
+[5:01:52 AM] 🗑️ Removed itan58 (PROCESSED) from accounts.txt
+[5:01:52 AM] ✅ accounts.txt updated — 2318 remaining
+[5:02:13 AM] 🗑️ Removed itzmaemae1011 (PROCESSED) from accounts.txt
+[5:02:13 AM] ✅ accounts.txt updated — 2317 remaining
+[5:02:32 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:04:03 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:05:35 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[5:05:37 AM] 🗑️ Removed itzel58 (PROCESSED) from accounts.txt
+[5:05:37 AM] ✅ accounts.txt updated — 2316 remaining
+[5:05:58 AM] 🗑️ Removed ivanelianxp (PROCESSED) from accounts.txt
+[5:05:58 AM] ✅ accounts.txt updated — 2315 remaining
+[5:06:19 AM] 🗑️ Removed ivanazela (PROCESSED) from accounts.txt
+[5:06:19 AM] ✅ accounts.txt updated — 2314 remaining
+[5:06:41 AM] 🗑️ Removed iwan39 (PROCESSED) from accounts.txt
+[5:06:41 AM] ✅ accounts.txt updated — 2313 remaining
+[5:07:02 AM] 🗑️ Removed izak88 (PROCESSED) from accounts.txt
+[5:07:02 AM] ✅ accounts.txt updated — 2312 remaining
+[5:07:23 AM] 🗑️ Removed izadora111 (PROCESSED) from accounts.txt
+[5:07:23 AM] ✅ accounts.txt updated — 2311 remaining
+[5:07:45 AM] 🗑️ Removed izzy19545 (PROCESSED) from accounts.txt
+[5:07:45 AM] ✅ accounts.txt updated — 2310 remaining
+[5:08:06 AM] 🗑️ Removed izzyq124 (PROCESSED) from accounts.txt
+[5:08:06 AM] ✅ accounts.txt updated — 2309 remaining
+[5:08:28 AM] 🗑️ Removed jacare800 (PROCESSED) from accounts.txt
+[5:08:28 AM] ✅ accounts.txt updated — 2308 remaining
+[5:08:50 AM] 🗑️ Removed jabi345 (PROCESSED) from accounts.txt
+[5:08:50 AM] ✅ accounts.txt updated — 2307 remaining
+[5:09:08 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:10:40 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:12:11 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[5:12:13 AM] 🗑️ Removed jackiedog6 (PROCESSED) from accounts.txt
+[5:12:13 AM] ✅ accounts.txt updated — 2306 remaining
+[5:12:34 AM] 🗑️ Removed jachu9 (PROCESSED) from accounts.txt
+[5:12:34 AM] ✅ accounts.txt updated — 2305 remaining
+[5:12:56 AM] 🗑️ Removed jacmat2010 (PROCESSED) from accounts.txt
+[5:12:56 AM] ✅ accounts.txt updated — 2304 remaining
+[5:13:19 AM] 🗑️ Removed jaecken (PROCESSED) from accounts.txt
+[5:13:19 AM] ✅ accounts.txt updated — 2303 remaining
+[5:13:40 AM] 🗑️ Removed jailin (PROCESSED) from accounts.txt
+[5:13:40 AM] ✅ accounts.txt updated — 2302 remaining
+[5:14:01 AM] 🗑️ Removed jaidon11 (PROCESSED) from accounts.txt
+[5:14:01 AM] ✅ accounts.txt updated — 2301 remaining
+[5:14:23 AM] 🗑️ Removed jaey4 (PROCESSED) from accounts.txt
+[5:14:23 AM] ✅ accounts.txt updated — 2300 remaining
+[5:14:44 AM] 🗑️ Removed jaimaha (PROCESSED) from accounts.txt
+[5:14:44 AM] ✅ accounts.txt updated — 2299 remaining
+[5:15:03 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:16:34 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:18:05 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[5:18:08 AM] 🗑️ Removed jagodina1 (PROCESSED) from accounts.txt
+[5:18:08 AM] ✅ accounts.txt updated — 2298 remaining
+[5:18:29 AM] 🗑️ Removed jakefireblue (PROCESSED) from accounts.txt
+[5:18:29 AM] ✅ accounts.txt updated — 2297 remaining
+[5:18:50 AM] 🗑️ Removed jairoyao (PROCESSED) from accounts.txt
+[5:18:50 AM] ✅ accounts.txt updated — 2296 remaining
+[5:19:12 AM] 🗑️ Removed jaker12 (PROCESSED) from accounts.txt
+[5:19:12 AM] ✅ accounts.txt updated — 2295 remaining
+[5:19:33 AM] 🗑️ Removed jamalauki3445 (PROCESSED) from accounts.txt
+[5:19:33 AM] ✅ accounts.txt updated — 2294 remaining
+[5:19:54 AM] 🗑️ Removed jamerbeta123 (PROCESSED) from accounts.txt
+[5:19:54 AM] ✅ accounts.txt updated — 2293 remaining
+[5:20:16 AM] 🗑️ Removed jamero3 (PROCESSED) from accounts.txt
+[5:20:16 AM] ✅ accounts.txt updated — 2292 remaining
+[5:20:37 AM] 🗑️ Removed jamcooki3 (PROCESSED) from accounts.txt
+[5:20:37 AM] ✅ accounts.txt updated — 2291 remaining
+[5:20:58 AM] 🗑️ Removed jammer0607 (PROCESSED) from accounts.txt
+[5:20:58 AM] ✅ accounts.txt updated — 2290 remaining
+[5:21:17 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:22:48 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:24:19 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[5:24:21 AM] 🗑️ Removed jamkoala16 (PROCESSED) from accounts.txt
+[5:24:21 AM] ✅ accounts.txt updated — 2289 remaining
+[5:24:43 AM] 🗑️ Removed jamjamjam111 (PROCESSED) from accounts.txt
+[5:24:43 AM] ✅ accounts.txt updated — 2288 remaining
+[5:25:04 AM] 🗑️ Removed jammer3d78g (PROCESSED) from accounts.txt
+[5:25:04 AM] ✅ accounts.txt updated — 2287 remaining
+[5:25:25 AM] 🗑️ Removed jammer97091okl (PROCESSED) from accounts.txt
+[5:25:25 AM] ✅ accounts.txt updated — 2286 remaining
+[5:25:46 AM] 🗑️ Removed jamminjog45 (PROCESSED) from accounts.txt
+[5:25:46 AM] ✅ accounts.txt updated — 2285 remaining
+[5:26:07 AM] 🗑️ Removed jan078 (PROCESSED) from accounts.txt
+[5:26:07 AM] ✅ accounts.txt updated — 2284 remaining
+[5:26:29 AM] 🗑️ Removed jamsa (PROCESSED) from accounts.txt
+[5:26:29 AM] ✅ accounts.txt updated — 2283 remaining
+[5:26:50 AM] 🗑️ Removed janel1550 (PROCESSED) from accounts.txt
+[5:26:50 AM] ✅ accounts.txt updated — 2282 remaining
+[5:27:11 AM] 🗑️ Removed janelle20082 (PROCESSED) from accounts.txt
+[5:27:11 AM] ✅ accounts.txt updated — 2281 remaining
+[5:27:30 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:29:02 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:30:33 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[5:30:35 AM] 🗑️ Removed janelysp9 (PROCESSED) from accounts.txt
+[5:30:35 AM] ✅ accounts.txt updated — 2280 remaining
+[5:30:57 AM] 🗑️ Removed jangra614 (PROCESSED) from accounts.txt
+[5:30:57 AM] ✅ accounts.txt updated — 2279 remaining
+[5:31:17 AM] 🗑️ Removed janmilc (PROCESSED) from accounts.txt
+[5:31:17 AM] ✅ accounts.txt updated — 2278 remaining
+[5:31:39 AM] 🗑️ Removed janja72 (PROCESSED) from accounts.txt
+[5:31:39 AM] ✅ accounts.txt updated — 2277 remaining
+[5:32:00 AM] 🗑️ Removed jansia11 (PROCESSED) from accounts.txt
+[5:32:00 AM] ✅ accounts.txt updated — 2276 remaining
+[5:32:22 AM] 🗑️ Removed janjan1705 (PROCESSED) from accounts.txt
+[5:32:22 AM] ✅ accounts.txt updated — 2275 remaining
+[5:32:43 AM] 🗑️ Removed jasir6 (PROCESSED) from accounts.txt
+[5:32:43 AM] ✅ accounts.txt updated — 2274 remaining
+[5:33:05 AM] 🗑️ Removed jasmine114 (PROCESSED) from accounts.txt
+[5:33:05 AM] ✅ accounts.txt updated — 2273 remaining
+[5:33:26 AM] 🗑️ Removed jasmineale22287 (PROCESSED) from accounts.txt
+[5:33:26 AM] ✅ accounts.txt updated — 2272 remaining
+[5:33:45 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:35:16 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:36:47 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[5:36:49 AM] 🗑️ Removed jasonandcat (PROCESSED) from accounts.txt
+[5:36:49 AM] ✅ accounts.txt updated — 2271 remaining
+[5:37:10 AM] 🗑️ Removed javi433 (PROCESSED) from accounts.txt
+[5:37:10 AM] ✅ accounts.txt updated — 2270 remaining
+[5:37:32 AM] 🗑️ Removed javieraandrea18 (PROCESSED) from accounts.txt
+[5:37:32 AM] ✅ accounts.txt updated — 2269 remaining
+[5:37:53 AM] 🗑️ Removed jaxiel24 (PROCESSED) from accounts.txt
+[5:37:53 AM] ✅ accounts.txt updated — 2268 remaining
+[5:38:15 AM] 🗑️ Removed javix30 (PROCESSED) from accounts.txt
+[5:38:15 AM] ✅ accounts.txt updated — 2267 remaining
+[5:38:36 AM] 🗑️ Removed jayde1661 (PROCESSED) from accounts.txt
+[5:38:36 AM] ✅ accounts.txt updated — 2266 remaining
+[5:38:57 AM] 🗑️ Removed jaydenr9 (PROCESSED) from accounts.txt
+[5:38:57 AM] ✅ accounts.txt updated — 2265 remaining
+[5:39:18 AM] 🗑️ Removed jaydenr2408 (PROCESSED) from accounts.txt
+[5:39:18 AM] ✅ accounts.txt updated — 2264 remaining
+[5:39:37 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:41:08 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:42:39 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[5:42:42 AM] 🗑️ Removed jayleen22 (PROCESSED) from accounts.txt
+[5:42:42 AM] ✅ accounts.txt updated — 2263 remaining
+[5:43:03 AM] 🗑️ Removed jazmijoji (PROCESSED) from accounts.txt
+[5:43:03 AM] ✅ accounts.txt updated — 2262 remaining
+[5:43:24 AM] 🗑️ Removed jazmanjoe (PROCESSED) from accounts.txt
+[5:43:24 AM] ✅ accounts.txt updated — 2261 remaining
+[5:43:45 AM] 🗑️ Removed jc56 (PROCESSED) from accounts.txt
+[5:43:45 AM] ✅ accounts.txt updated — 2260 remaining
+[5:44:07 AM] 🗑️ Removed jcolleen (PROCESSED) from accounts.txt
+[5:44:07 AM] ✅ accounts.txt updated — 2259 remaining
+[5:44:28 AM] 🗑️ Removed jeansly11 (PROCESSED) from accounts.txt
+[5:44:28 AM] ✅ accounts.txt updated — 2258 remaining
+[5:44:50 AM] 🗑️ Removed jeanne201 (PROCESSED) from accounts.txt
+[5:44:50 AM] ✅ accounts.txt updated — 2257 remaining
+[5:45:11 AM] 🗑️ Removed jeff73 (PROCESSED) from accounts.txt
+[5:45:11 AM] ✅ accounts.txt updated — 2256 remaining
+[5:45:30 AM] 🗑️ Removed jeik90 (UNKNOWN_LOGIN_ERROR) from accounts.txt
+[5:45:30 AM] ✅ accounts.txt updated — 2255 remaining
+[5:45:41 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:47:12 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:48:44 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[5:48:46 AM] 🗑️ Removed jemping1933 (PROCESSED) from accounts.txt
+[5:48:46 AM] ✅ accounts.txt updated — 2254 remaining
+[5:49:07 AM] 🗑️ Removed jenifer12 (PROCESSED) from accounts.txt
+[5:49:07 AM] ✅ accounts.txt updated — 2253 remaining
+[5:49:28 AM] 🗑️ Removed jen190 (PROCESSED) from accounts.txt
+[5:49:28 AM] ✅ accounts.txt updated — 2252 remaining
+[5:49:49 AM] 🗑️ Removed jeno13 (PROCESSED) from accounts.txt
+[5:49:49 AM] ✅ accounts.txt updated — 2251 remaining
+[5:50:11 AM] 🗑️ Removed jeraldine13 (PROCESSED) from accounts.txt
+[5:50:11 AM] ✅ accounts.txt updated — 2250 remaining
+[5:50:32 AM] 🗑️ Removed jeromino789 (PROCESSED) from accounts.txt
+[5:50:32 AM] ✅ accounts.txt updated — 2249 remaining
+[5:50:53 AM] 🗑️ Removed jewelpancakes (PROCESSED) from accounts.txt
+[5:50:53 AM] ✅ accounts.txt updated — 2248 remaining
+[5:51:15 AM] 🗑️ Removed jfrre (PROCESSED) from accounts.txt
+[5:51:15 AM] ✅ accounts.txt updated — 2247 remaining
+[5:51:36 AM] 🗑️ Removed jeyaaang (PROCESSED) from accounts.txt
+[5:51:36 AM] ✅ accounts.txt updated — 2246 remaining
+[5:51:55 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:53:26 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:54:57 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[5:54:59 AM] 🗑️ Removed jhare87 (PROCESSED) from accounts.txt
+[5:54:59 AM] ✅ accounts.txt updated — 2245 remaining
+[5:55:20 AM] 🗑️ Removed jhamel5 (PROCESSED) from accounts.txt
+[5:55:20 AM] ✅ accounts.txt updated — 2244 remaining
+[5:55:42 AM] 🗑️ Removed jhonfreddy7 (PROCESSED) from accounts.txt
+[5:55:42 AM] ✅ accounts.txt updated — 2243 remaining
+[5:56:03 AM] 🗑️ Removed jhin8659 (PROCESSED) from accounts.txt
+[5:56:03 AM] ✅ accounts.txt updated — 2242 remaining
+[5:56:24 AM] 🗑️ Removed jhoniel (PROCESSED) from accounts.txt
+[5:56:24 AM] ✅ accounts.txt updated — 2241 remaining
+[5:56:45 AM] 🗑️ Removed jhoan12334 (PROCESSED) from accounts.txt
+[5:56:45 AM] ✅ accounts.txt updated — 2240 remaining
+[5:57:06 AM] 🗑️ Removed jhoncito (PROCESSED) from accounts.txt
+[5:57:06 AM] ✅ accounts.txt updated — 2239 remaining
+[5:57:27 AM] 🗑️ Removed jhopeplayz (PROCESSED) from accounts.txt
+[5:57:27 AM] ✅ accounts.txt updated — 2238 remaining
+[5:57:46 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:59:17 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:00:49 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[6:00:51 AM] 🗑️ Removed ji1320 (PROCESSED) from accounts.txt
+[6:00:51 AM] ✅ accounts.txt updated — 2237 remaining
+[6:01:12 AM] 🗑️ Removed jhulie24 (PROCESSED) from accounts.txt
+[6:01:12 AM] ✅ accounts.txt updated — 2236 remaining
+[6:01:33 AM] 🗑️ Removed jiellian (PROCESSED) from accounts.txt
+[6:01:33 AM] ✅ accounts.txt updated — 2235 remaining
+[6:01:55 AM] 🗑️ Removed jihan2015 (PROCESSED) from accounts.txt
+[6:01:55 AM] ✅ accounts.txt updated — 2234 remaining
+[6:02:16 AM] 🗑️ Removed jigglyjelly21 (PROCESSED) from accounts.txt
+[6:02:16 AM] ✅ accounts.txt updated — 2233 remaining
+[6:02:38 AM] 🗑️ Removed jills10 (PROCESSED) from accounts.txt
+[6:02:38 AM] ✅ accounts.txt updated — 2232 remaining
+[6:02:59 AM] 🗑️ Removed jimmya40 (PROCESSED) from accounts.txt
+[6:02:59 AM] ✅ accounts.txt updated — 2231 remaining
+[6:03:20 AM] 🗑️ Removed jinxx54 (PROCESSED) from accounts.txt
+[6:03:20 AM] ✅ accounts.txt updated — 2230 remaining
+[6:03:41 AM] 🗑️ Removed jj2245 (PROCESSED) from accounts.txt
+[6:03:41 AM] ✅ accounts.txt updated — 2229 remaining
+[6:04:00 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:05:32 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:07:03 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[6:07:05 AM] 🗑️ Removed jj758 (PROCESSED) from accounts.txt
+[6:07:05 AM] ✅ accounts.txt updated — 2228 remaining
+[6:07:26 AM] 🗑️ Removed jjgjn (PROCESSED) from accounts.txt
+[6:07:26 AM] ✅ accounts.txt updated — 2227 remaining
+[6:07:48 AM] 🗑️ Removed jjhe0 (PROCESSED) from accounts.txt
+[6:07:48 AM] ✅ accounts.txt updated — 2226 remaining
+[6:08:09 AM] 🗑️ Removed jjjppp31 (PROCESSED) from accounts.txt
+[6:08:09 AM] ✅ accounts.txt updated — 2225 remaining
+[6:08:30 AM] 🗑️ Removed jjoojojo (PROCESSED) from accounts.txt
+[6:08:30 AM] ✅ accounts.txt updated — 2224 remaining
+[6:08:52 AM] 🗑️ Removed jkmop1 (PROCESSED) from accounts.txt
+[6:08:52 AM] ✅ accounts.txt updated — 2223 remaining
+[6:09:13 AM] 🗑️ Removed jk64389 (PROCESSED) from accounts.txt
+[6:09:13 AM] ✅ accounts.txt updated — 2222 remaining
+[6:09:35 AM] 🗑️ Removed jksilveira (PROCESSED) from accounts.txt
+[6:09:35 AM] ✅ accounts.txt updated — 2221 remaining
+[6:09:54 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:11:25 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:12:56 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[6:12:58 AM] 🗑️ Removed jmcute0 (PROCESSED) from accounts.txt
+[6:12:58 AM] ✅ accounts.txt updated — 2220 remaining
+[6:13:20 AM] 🗑️ Removed jkv28 (PROCESSED) from accounts.txt
+[6:13:20 AM] ✅ accounts.txt updated — 2219 remaining
+[6:13:41 AM] 🗑️ Removed jkvcucy (PROCESSED) from accounts.txt
+[6:13:41 AM] ✅ accounts.txt updated — 2218 remaining
+[6:14:02 AM] 🗑️ Removed jm345 (PROCESSED) from accounts.txt
+[6:14:02 AM] ✅ accounts.txt updated — 2217 remaining
+[6:14:23 AM] 🗑️ Removed jnb27 (PROCESSED) from accounts.txt
+[6:14:23 AM] ✅ accounts.txt updated — 2216 remaining
+[6:14:44 AM] 🗑️ Removed joao425 (PROCESSED) from accounts.txt
+[6:14:44 AM] ✅ accounts.txt updated — 2215 remaining
+[6:15:06 AM] 🗑️ Removed joaogsk (PROCESSED) from accounts.txt
+[6:15:06 AM] ✅ accounts.txt updated — 2214 remaining
+[6:15:27 AM] 🗑️ Removed joaogabrieul30 (PROCESSED) from accounts.txt
+[6:15:27 AM] ✅ accounts.txt updated — 2213 remaining
+[6:15:48 AM] 🗑️ Removed joaozinho82 (PROCESSED) from accounts.txt
+[6:15:48 AM] ✅ accounts.txt updated — 2212 remaining
+[6:16:07 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:17:38 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:19:10 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[6:19:12 AM] 🗑️ Removed joaquir8589 (PROCESSED) from accounts.txt
+[6:19:12 AM] ✅ accounts.txt updated — 2211 remaining
+[6:19:33 AM] 🗑️ Removed joh138 (PROCESSED) from accounts.txt
+[6:19:33 AM] ✅ accounts.txt updated — 2210 remaining
+[6:19:54 AM] 🗑️ Removed johacam1 (PROCESSED) from accounts.txt
+[6:19:54 AM] ✅ accounts.txt updated — 2209 remaining
+[6:20:16 AM] 🗑️ Removed joeyislit1 (PROCESSED) from accounts.txt
+[6:20:16 AM] ✅ accounts.txt updated — 2208 remaining
+[6:20:36 AM] 🗑️ Removed johana15 (PROCESSED) from accounts.txt
+[6:20:36 AM] ✅ accounts.txt updated — 2207 remaining
+[6:20:57 AM] 🗑️ Removed johnloue (PROCESSED) from accounts.txt
+[6:20:57 AM] ✅ accounts.txt updated — 2206 remaining
+[6:21:19 AM] 🗑️ Removed jojo327 (PROCESSED) from accounts.txt
+[6:21:19 AM] ✅ accounts.txt updated — 2205 remaining
+[6:21:41 AM] 🗑️ Removed jojovika78 (PROCESSED) from accounts.txt
+[6:21:41 AM] ✅ accounts.txt updated — 2204 remaining
+[6:22:02 AM] 🗑️ Removed jonal12w (PROCESSED) from accounts.txt
+[6:22:02 AM] ✅ accounts.txt updated — 2203 remaining
+[6:22:21 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:23:52 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:25:23 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[6:25:25 AM] 🗑️ Removed jonm63 (PROCESSED) from accounts.txt
+[6:25:25 AM] ✅ accounts.txt updated — 2202 remaining
+[6:25:47 AM] 🗑️ Removed jonatan2763 (PROCESSED) from accounts.txt
+[6:25:47 AM] ✅ accounts.txt updated — 2201 remaining
+[6:26:08 AM] 🗑️ Removed jorden1224 (PROCESSED) from accounts.txt
+[6:26:08 AM] ✅ accounts.txt updated — 2200 remaining
+[6:26:29 AM] 🗑️ Removed jonzeta (PROCESSED) from accounts.txt
+[6:26:29 AM] ✅ accounts.txt updated — 2199 remaining
+[6:26:50 AM] 🗑️ Removed jorgitoalex (PROCESSED) from accounts.txt
+[6:26:50 AM] ✅ accounts.txt updated — 2198 remaining
+[6:27:11 AM] 🗑️ Removed josed40 (PROCESSED) from accounts.txt
+[6:27:11 AM] ✅ accounts.txt updated — 2197 remaining
+[6:27:33 AM] 🗑️ Removed jose20110 (PROCESSED) from accounts.txt
+[6:27:33 AM] ✅ accounts.txt updated — 2196 remaining
+[6:27:54 AM] 🗑️ Removed jose4000 (PROCESSED) from accounts.txt
+[6:27:54 AM] ✅ accounts.txt updated — 2195 remaining
+[6:28:15 AM] 🗑️ Removed joseph8 (PROCESSED) from accounts.txt
+[6:28:15 AM] ✅ accounts.txt updated — 2194 remaining
+[6:28:34 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:30:05 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:31:37 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[6:31:39 AM] 🗑️ Removed josen9 (PROCESSED) from accounts.txt
+[6:31:39 AM] ✅ accounts.txt updated — 2193 remaining
+[6:32:01 AM] 🗑️ Removed josie849 (PROCESSED) from accounts.txt
+[6:32:01 AM] ✅ accounts.txt updated — 2192 remaining
+[6:32:22 AM] 🗑️ Removed joseyremi (PROCESSED) from accounts.txt
+[6:32:22 AM] ✅ accounts.txt updated — 2191 remaining
+[6:32:43 AM] 🗑️ Removed josesandra (PROCESSED) from accounts.txt
+[6:32:43 AM] ✅ accounts.txt updated — 2190 remaining
+[6:33:04 AM] 🗑️ Removed joseroberto33 (PROCESSED) from accounts.txt
+[6:33:04 AM] ✅ accounts.txt updated — 2189 remaining
+[6:33:25 AM] 🗑️ Removed josph132 (PROCESSED) from accounts.txt
+[6:33:25 AM] ✅ accounts.txt updated — 2188 remaining
+[6:33:47 AM] 🗑️ Removed journeygirl21 (PROCESSED) from accounts.txt
+[6:33:47 AM] ✅ accounts.txt updated — 2187 remaining
+[6:34:08 AM] 🗑️ Removed jovit31 (PROCESSED) from accounts.txt
+[6:34:08 AM] ✅ accounts.txt updated — 2186 remaining
+[6:34:30 AM] 🗑️ Removed jp631 (PROCESSED) from accounts.txt
+[6:34:30 AM] ✅ accounts.txt updated — 2185 remaining
+[6:34:49 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:36:20 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:37:52 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[6:37:54 AM] 🗑️ Removed ju097 (PROCESSED) from accounts.txt
+[6:37:54 AM] ✅ accounts.txt updated — 2184 remaining
+[6:38:15 AM] 🗑️ Removed juan154 (PROCESSED) from accounts.txt
+[6:38:15 AM] ✅ accounts.txt updated — 2183 remaining
+[6:38:37 AM] 🗑️ Removed juan10000 (PROCESSED) from accounts.txt
+[6:38:37 AM] ✅ accounts.txt updated — 2182 remaining
+[6:38:58 AM] 🗑️ Removed juamanuel77 (PROCESSED) from accounts.txt
+[6:38:58 AM] ✅ accounts.txt updated — 2181 remaining
+[6:39:20 AM] 🗑️ Removed juaana (PROCESSED) from accounts.txt
+[6:39:20 AM] ✅ accounts.txt updated — 2180 remaining
+[6:39:41 AM] 🗑️ Removed juan777 (PROCESSED) from accounts.txt
+[6:39:41 AM] ✅ accounts.txt updated — 2179 remaining
+[6:40:03 AM] 🗑️ Removed juanfelipe10kl (PROCESSED) from accounts.txt
+[6:40:03 AM] ✅ accounts.txt updated — 2178 remaining
+[6:40:24 AM] 🗑️ Removed juanpa5 (PROCESSED) from accounts.txt
+[6:40:24 AM] ✅ accounts.txt updated — 2177 remaining
+[6:40:43 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:42:15 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:43:46 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[6:43:49 AM] 🗑️ Removed juanjc (PROCESSED) from accounts.txt
+[6:43:49 AM] ✅ accounts.txt updated — 2176 remaining
+[6:44:10 AM] 🗑️ Removed juanrap123 (PROCESSED) from accounts.txt
+[6:44:10 AM] ✅ accounts.txt updated — 2175 remaining
+[6:44:31 AM] 🗑️ Removed juba66 (PROCESSED) from accounts.txt
+[6:44:31 AM] ✅ accounts.txt updated — 2174 remaining
+[6:44:53 AM] 🗑️ Removed juapa107 (PROCESSED) from accounts.txt
+[6:44:53 AM] ✅ accounts.txt updated — 2173 remaining
+[6:45:14 AM] 🗑️ Removed juaquin70 (PROCESSED) from accounts.txt
+[6:45:14 AM] ✅ accounts.txt updated — 2172 remaining
+[6:45:35 AM] 🗑️ Removed juaum80 (PROCESSED) from accounts.txt
+[6:45:35 AM] ✅ accounts.txt updated — 2171 remaining
+[6:45:57 AM] 🗑️ Removed judah127 (PROCESSED) from accounts.txt
+[6:45:57 AM] ✅ accounts.txt updated — 2170 remaining
+[6:46:18 AM] 🗑️ Removed juaquin52 (PROCESSED) from accounts.txt
+[6:46:18 AM] ✅ accounts.txt updated — 2169 remaining
+[6:46:39 AM] 🗑️ Removed juditha5 (PROCESSED) from accounts.txt
+[6:46:39 AM] ✅ accounts.txt updated — 2168 remaining
+[6:47:01 AM] 🗑️ Removed judoca6 (PROCESSED) from accounts.txt
+[6:47:01 AM] ✅ accounts.txt updated — 2167 remaining
+[6:47:20 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:48:51 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:50:22 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[6:50:24 AM] 🗑️ Removed juju5474 (PROCESSED) from accounts.txt
+[6:50:24 AM] ✅ accounts.txt updated — 2166 remaining
+[6:50:46 AM] 🗑️ Removed jujucleide (PROCESSED) from accounts.txt
+[6:50:46 AM] ✅ accounts.txt updated — 2165 remaining
+[6:51:07 AM] 🗑️ Removed jujubinha0008 (PROCESSED) from accounts.txt
+[6:51:07 AM] ✅ accounts.txt updated — 2164 remaining
+[6:51:28 AM] 🗑️ Removed jujukawaii32 (PROCESSED) from accounts.txt
+[6:51:28 AM] ✅ accounts.txt updated — 2163 remaining
+[6:51:50 AM] 🗑️ Removed julia45622 (PROCESSED) from accounts.txt
+[6:51:50 AM] ✅ accounts.txt updated — 2162 remaining
+[6:52:11 AM] 🗑️ Removed juliacatt90 (PROCESSED) from accounts.txt
+[6:52:11 AM] ✅ accounts.txt updated — 2161 remaining
+[6:52:32 AM] 🗑️ Removed julia400 (PROCESSED) from accounts.txt
+[6:52:32 AM] ✅ accounts.txt updated — 2160 remaining
+[6:52:54 AM] 🗑️ Removed julia3599 (PROCESSED) from accounts.txt
+[6:52:54 AM] ✅ accounts.txt updated — 2159 remaining
+[6:53:13 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:54:44 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:56:15 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[6:56:17 AM] 🗑️ Removed juliaaaaa16 (PROCESSED) from accounts.txt
+[6:56:17 AM] ✅ accounts.txt updated — 2158 remaining
+[6:56:38 AM] 🗑️ Removed juliajuju102 (PROCESSED) from accounts.txt
+[6:56:38 AM] ✅ accounts.txt updated — 2157 remaining
+[6:56:59 AM] 🗑️ Removed juliannaq (PROCESSED) from accounts.txt
+[6:56:59 AM] ✅ accounts.txt updated — 2156 remaining
+[6:57:21 AM] 🗑️ Removed juliana876 (PROCESSED) from accounts.txt
+[6:57:21 AM] ✅ accounts.txt updated — 2155 remaining
+[6:57:42 AM] 🗑️ Removed julie8932 (PROCESSED) from accounts.txt
+[6:57:42 AM] ✅ accounts.txt updated — 2154 remaining
+[6:58:04 AM] 🗑️ Removed julie651 (PROCESSED) from accounts.txt
+[6:58:04 AM] ✅ accounts.txt updated — 2153 remaining
+[6:58:25 AM] 🗑️ Removed julien499 (PROCESSED) from accounts.txt
+[6:58:25 AM] ✅ accounts.txt updated — 2152 remaining
+[6:58:47 AM] 🗑️ Removed julieta4 (PROCESSED) from accounts.txt
+[6:58:47 AM] ✅ accounts.txt updated — 2151 remaining
+[6:59:05 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:00:37 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:02:08 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[7:02:10 AM] 🗑️ Removed julieta1209 (PROCESSED) from accounts.txt
+[7:02:10 AM] ✅ accounts.txt updated — 2150 remaining
+[7:02:32 AM] 🗑️ Removed julietalinda (PROCESSED) from accounts.txt
+[7:02:32 AM] ✅ accounts.txt updated — 2149 remaining
+[7:02:53 AM] 🗑️ Removed julioloko (PROCESSED) from accounts.txt
+[7:02:53 AM] ✅ accounts.txt updated — 2148 remaining
+[7:03:15 AM] 🗑️ Removed julinhaab6 (PROCESSED) from accounts.txt
+[7:03:15 AM] ✅ accounts.txt updated — 2147 remaining
+[7:03:36 AM] 🗑️ Removed julipi23 (PROCESSED) from accounts.txt
+[7:03:36 AM] ✅ accounts.txt updated — 2146 remaining
+[7:03:58 AM] 🗑️ Removed julisu (PROCESSED) from accounts.txt
+[7:03:58 AM] ✅ accounts.txt updated — 2145 remaining
+[7:04:19 AM] 🗑️ Removed julistm (PROCESSED) from accounts.txt
+[7:04:19 AM] ✅ accounts.txt updated — 2144 remaining
+[7:04:40 AM] 🗑️ Removed jumil8 (PROCESSED) from accounts.txt
+[7:04:40 AM] ✅ accounts.txt updated — 2143 remaining
+[7:05:02 AM] 🗑️ Removed junicorn18 (PROCESSED) from accounts.txt
+[7:05:02 AM] ✅ accounts.txt updated — 2142 remaining
+[7:05:21 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:06:52 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:08:23 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[7:08:25 AM] 🗑️ Removed juniorcutetiger (PROCESSED) from accounts.txt
+[7:08:25 AM] ✅ accounts.txt updated — 2141 remaining
+[7:08:46 AM] 🗑️ Removed justen89 (PROCESSED) from accounts.txt
+[7:08:46 AM] ✅ accounts.txt updated — 2140 remaining
+[7:09:08 AM] 🗑️ Removed junrick5688 (PROCESSED) from accounts.txt
+[7:09:08 AM] ✅ accounts.txt updated — 2139 remaining
+[7:09:29 AM] 🗑️ Removed justyn9 (PROCESSED) from accounts.txt
+[7:09:29 AM] ✅ accounts.txt updated — 2138 remaining
+[7:09:50 AM] 🗑️ Removed justoceforgeorge (PROCESSED) from accounts.txt
+[7:09:50 AM] ✅ accounts.txt updated — 2137 remaining
+[7:10:11 AM] 🗑️ Removed justkpopstuff46 (PROCESSED) from accounts.txt
+[7:10:11 AM] ✅ accounts.txt updated — 2136 remaining
+[7:10:33 AM] 🗑️ Removed jvcty (PROCESSED) from accounts.txt
+[7:10:33 AM] ✅ accounts.txt updated — 2135 remaining
+[7:10:55 AM] 🗑️ Removed jv1234br (PROCESSED) from accounts.txt
+[7:10:55 AM] ✅ accounts.txt updated — 2134 remaining
+[7:11:14 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:12:45 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:14:17 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[7:14:19 AM] 🗑️ Removed kadfle14 (PROCESSED) from accounts.txt
+[7:14:19 AM] ✅ accounts.txt updated — 2133 remaining
+[7:14:40 AM] 🗑️ Removed kaiiw13 (PROCESSED) from accounts.txt
+[7:14:40 AM] ✅ accounts.txt updated — 2132 remaining
+[7:15:01 AM] 🗑️ Removed kahu75 (PROCESSED) from accounts.txt
+[7:15:01 AM] ✅ accounts.txt updated — 2131 remaining
+[7:15:23 AM] 🗑️ Removed kaily320 (PROCESSED) from accounts.txt
+[7:15:23 AM] ✅ accounts.txt updated — 2130 remaining
+[7:15:44 AM] 🗑️ Removed kaitlynelizabeth12 (PROCESSED) from accounts.txt
+[7:15:44 AM] ✅ accounts.txt updated — 2129 remaining
+[7:16:06 AM] 🗑️ Removed kaiquem01 (PROCESSED) from accounts.txt
+[7:16:06 AM] ✅ accounts.txt updated — 2128 remaining
+[7:16:26 AM] 🗑️ Removed kaira25 (PROCESSED) from accounts.txt
+[7:16:26 AM] ✅ accounts.txt updated — 2127 remaining
+[7:16:47 AM] 🗑️ Removed kakoczkib10 (PROCESSED) from accounts.txt
+[7:16:47 AM] ✅ accounts.txt updated — 2126 remaining
+[7:17:08 AM] 🗑️ Removed kakuy37 (PROCESSED) from accounts.txt
+[7:17:08 AM] ✅ accounts.txt updated — 2125 remaining
+[7:17:27 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:18:58 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:20:30 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[7:20:32 AM] 🗑️ Removed kaj70 (PROCESSED) from accounts.txt
+[7:20:32 AM] ✅ accounts.txt updated — 2124 remaining
+[7:20:52 AM] 🗑️ Removed kalit (PROCESSED) from accounts.txt
+[7:20:52 AM] ✅ accounts.txt updated — 2123 remaining
+[7:21:13 AM] 🗑️ Removed kamjo37 (PROCESSED) from accounts.txt
+[7:21:13 AM] ✅ accounts.txt updated — 2122 remaining
+[7:21:34 AM] 🗑️ Removed kallyponc16 (PROCESSED) from accounts.txt
+[7:21:34 AM] ✅ accounts.txt updated — 2121 remaining
+[7:21:55 AM] 🗑️ Removed kaneky30 (PROCESSED) from accounts.txt
+[7:21:55 AM] ✅ accounts.txt updated — 2120 remaining
+[7:22:16 AM] 🗑️ Removed kanen561 (PROCESSED) from accounts.txt
+[7:22:16 AM] ✅ accounts.txt updated — 2119 remaining
+[7:22:38 AM] 🗑️ Removed kapppen000 (PROCESSED) from accounts.txt
+[7:22:38 AM] ✅ accounts.txt updated — 2118 remaining
+[7:22:59 AM] 🗑️ Removed kaoticalinda (PROCESSED) from accounts.txt
+[7:22:59 AM] ✅ accounts.txt updated — 2117 remaining
+[7:23:20 AM] 🗑️ Removed karkar15 (PROCESSED) from accounts.txt
+[7:23:20 AM] ✅ accounts.txt updated — 2116 remaining
+[7:23:39 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:25:11 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:26:42 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[7:26:45 AM] 🗑️ Removed karlee56 (PROCESSED) from accounts.txt
+[7:26:45 AM] ✅ accounts.txt updated — 2115 remaining
+[7:27:06 AM] 🗑️ Removed karol02 (PROCESSED) from accounts.txt
+[7:27:06 AM] ✅ accounts.txt updated — 2114 remaining
+[7:27:28 AM] 🗑️ Removed kasimir9 (PROCESSED) from accounts.txt
+[7:27:28 AM] ✅ accounts.txt updated — 2113 remaining
+[7:27:49 AM] 🗑️ Removed kasshas (PROCESSED) from accounts.txt
+[7:27:49 AM] ✅ accounts.txt updated — 2112 remaining
+[7:28:10 AM] 🗑️ Removed katykoala12 (PROCESSED) from accounts.txt
+[7:28:10 AM] ✅ accounts.txt updated — 2111 remaining
+[7:28:32 AM] 🗑️ Removed katyakitten (PROCESSED) from accounts.txt
+[7:28:32 AM] ✅ accounts.txt updated — 2110 remaining
+[7:28:53 AM] 🗑️ Removed katy5458 (PROCESSED) from accounts.txt
+[7:28:53 AM] ✅ accounts.txt updated — 2109 remaining
+[7:29:14 AM] 🗑️ Removed kauan00231 (PROCESSED) from accounts.txt
+[7:29:14 AM] ✅ accounts.txt updated — 2108 remaining
+[7:29:33 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:31:04 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:32:36 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[7:32:38 AM] 🗑️ Removed kauagg7 (PROCESSED) from accounts.txt
+[7:32:38 AM] ✅ accounts.txt updated — 2107 remaining
+[7:32:59 AM] 🗑️ Removed kawaii505 (PROCESSED) from accounts.txt
+[7:32:59 AM] ✅ accounts.txt updated — 2106 remaining
+[7:33:20 AM] 🗑️ Removed kawaaii65 (PROCESSED) from accounts.txt
+[7:33:20 AM] ✅ accounts.txt updated — 2105 remaining
+[7:33:42 AM] 🗑️ Removed kawaiikoala1108 (PROCESSED) from accounts.txt
+[7:33:42 AM] ✅ accounts.txt updated — 2104 remaining
+[7:34:03 AM] 🗑️ Removed kawii655 (PROCESSED) from accounts.txt
+[7:34:03 AM] ✅ accounts.txt updated — 2103 remaining
+[7:34:24 AM] 🗑️ Removed kawaiiredpandasnow (PROCESSED) from accounts.txt
+[7:34:24 AM] ✅ accounts.txt updated — 2102 remaining
+[7:34:46 AM] 🗑️ Removed kawiiunie (PROCESSED) from accounts.txt
+[7:34:46 AM] ✅ accounts.txt updated — 2101 remaining
+[7:35:07 AM] 🗑️ Removed kayu780 (PROCESSED) from accounts.txt
+[7:35:07 AM] ✅ accounts.txt updated — 2100 remaining
+[7:35:28 AM] 🗑️ Removed kayn63 (PROCESSED) from accounts.txt
+[7:35:28 AM] ✅ accounts.txt updated — 2099 remaining
+[7:35:50 AM] 🗑️ Removed kaylap43 (PROCESSED) from accounts.txt
+[7:35:50 AM] ✅ accounts.txt updated — 2098 remaining
+[7:36:08 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:37:40 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:39:11 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[7:39:13 AM] 🗑️ Removed kazer77 (PROCESSED) from accounts.txt
+[7:39:13 AM] ✅ accounts.txt updated — 2097 remaining
+[7:39:34 AM] 🗑️ Removed kcreamo (PROCESSED) from accounts.txt
+[7:39:34 AM] ✅ accounts.txt updated — 2096 remaining
+[7:39:55 AM] 🗑️ Removed kee667 (PROCESSED) from accounts.txt
+[7:39:55 AM] ✅ accounts.txt updated — 2095 remaining
+[7:40:15 AM] 🗑️ Removed keilabr (PROCESSED) from accounts.txt
+[7:40:15 AM] ✅ accounts.txt updated — 2094 remaining
+[7:40:37 AM] 🗑️ Removed keirsten7 (PROCESSED) from accounts.txt
+[7:40:37 AM] ✅ accounts.txt updated — 2093 remaining
+[7:40:57 AM] 🗑️ Removed keiki49 (PROCESSED) from accounts.txt
+[7:40:57 AM] ✅ accounts.txt updated — 2092 remaining
+[7:41:18 AM] 🗑️ Removed keiths2009 (PROCESSED) from accounts.txt
+[7:41:18 AM] ✅ accounts.txt updated — 2091 remaining
+[7:41:40 AM] 🗑️ Removed kemilly036 (PROCESSED) from accounts.txt
+[7:41:40 AM] ✅ accounts.txt updated — 2090 remaining
+[7:42:01 AM] 🗑️ Removed kemjam (PROCESSED) from accounts.txt
+[7:42:01 AM] ✅ accounts.txt updated — 2089 remaining
+[7:42:20 AM] 🗑️ Removed kemily31 (UNKNOWN_LOGIN_ERROR) from accounts.txt
+[7:42:20 AM] ✅ accounts.txt updated — 2088 remaining
+[7:42:31 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:44:02 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:45:33 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[7:45:35 AM] 🗑️ Removed kemerson10 (PROCESSED) from accounts.txt
+[7:45:35 AM] ✅ accounts.txt updated — 2087 remaining
+[7:45:56 AM] 🗑️ Removed kemily0 (PROCESSED) from accounts.txt
+[7:45:56 AM] ✅ accounts.txt updated — 2086 remaining
+[7:46:17 AM] 🗑️ Removed kemily115 (PROCESSED) from accounts.txt
+[7:46:17 AM] ✅ accounts.txt updated — 2085 remaining
+[7:46:37 AM] 🗑️ Removed kepp33 (PROCESSED) from accounts.txt
+[7:46:37 AM] ✅ accounts.txt updated — 2084 remaining
+[7:46:58 AM] 🗑️ Removed kenzie2thick (PROCESSED) from accounts.txt
+[7:46:58 AM] ✅ accounts.txt updated — 2083 remaining
+[7:47:19 AM] 🗑️ Removed ket130 (PROCESSED) from accounts.txt
+[7:47:19 AM] ✅ accounts.txt updated — 2082 remaining
+[7:47:40 AM] 🗑️ Removed kerryk8 (PROCESSED) from accounts.txt
+[7:47:40 AM] ✅ accounts.txt updated — 2081 remaining
+[7:48:02 AM] 🗑️ Removed kesllen07 (PROCESSED) from accounts.txt
+[7:48:02 AM] ✅ accounts.txt updated — 2080 remaining
+[7:48:21 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:49:52 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:51:24 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[7:51:26 AM] 🗑️ Removed ketlynfofa7 (PROCESSED) from accounts.txt
+[7:51:26 AM] ✅ accounts.txt updated — 2079 remaining
+[7:51:47 AM] 🗑️ Removed keyshawn20 (PROCESSED) from accounts.txt
+[7:51:47 AM] ✅ accounts.txt updated — 2078 remaining
+[7:52:08 AM] 🗑️ Removed kgilove (PROCESSED) from accounts.txt
+[7:52:08 AM] ✅ accounts.txt updated — 2077 remaining
+[7:52:30 AM] 🗑️ Removed keyzi11 (PROCESSED) from accounts.txt
+[7:52:30 AM] ✅ accounts.txt updated — 2076 remaining
+[7:52:51 AM] 🗑️ Removed khawaja374 (PROCESSED) from accounts.txt
+[7:52:51 AM] ✅ accounts.txt updated — 2075 remaining
+[7:53:12 AM] 🗑️ Removed khjyu (PROCESSED) from accounts.txt
+[7:53:12 AM] ✅ accounts.txt updated — 2074 remaining
+[7:53:33 AM] 🗑️ Removed khiyar (PROCESSED) from accounts.txt
+[7:53:33 AM] ✅ accounts.txt updated — 2073 remaining
+[7:53:54 AM] 🗑️ Removed khalia2006 (PROCESSED) from accounts.txt
+[7:53:54 AM] ✅ accounts.txt updated — 2072 remaining
+[7:54:13 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:55:44 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:57:15 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[7:57:17 AM] 🗑️ Removed khen13 (PROCESSED) from accounts.txt
+[7:57:17 AM] ✅ accounts.txt updated — 2071 remaining
+[7:57:39 AM] 🗑️ Removed khloeiscool (PROCESSED) from accounts.txt
+[7:57:39 AM] ✅ accounts.txt updated — 2070 remaining
+[7:58:00 AM] 🗑️ Removed kiaara9 (PROCESSED) from accounts.txt
+[7:58:00 AM] ✅ accounts.txt updated — 2069 remaining
+[7:58:22 AM] 🗑️ Removed kiara2209 (PROCESSED) from accounts.txt
+[7:58:22 AM] ✅ accounts.txt updated — 2068 remaining
+[7:58:43 AM] 🗑️ Removed kiara045 (PROCESSED) from accounts.txt
+[7:58:43 AM] ✅ accounts.txt updated — 2067 remaining
+[7:59:04 AM] 🗑️ Removed kid80 (PROCESSED) from accounts.txt
+[7:59:04 AM] ✅ accounts.txt updated — 2066 remaining
+[7:59:26 AM] 🗑️ Removed kiaraa4 (PROCESSED) from accounts.txt
+[7:59:26 AM] ✅ accounts.txt updated — 2065 remaining
+[7:59:47 AM] 🗑️ Removed kiansacares0 (PROCESSED) from accounts.txt
+[7:59:47 AM] ✅ accounts.txt updated — 2064 remaining
+[8:00:06 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:01:37 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:03:08 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:03:11 AM] 🗑️ Removed kidd80 (PROCESSED) from accounts.txt
+[8:03:11 AM] ✅ accounts.txt updated — 2063 remaining
+[8:03:32 AM] 🗑️ Removed kidfury7689 (PROCESSED) from accounts.txt
+[8:03:32 AM] ✅ accounts.txt updated — 2062 remaining
+[8:03:53 AM] 🗑️ Removed kids28 (PROCESSED) from accounts.txt
+[8:03:53 AM] ✅ accounts.txt updated — 2061 remaining
+[8:04:14 AM] 🗑️ Removed kiklj (PROCESSED) from accounts.txt
+[8:04:14 AM] ✅ accounts.txt updated — 2060 remaining
+[8:04:35 AM] 🗑️ Removed kiloblaze868 (PROCESSED) from accounts.txt
+[8:04:35 AM] ✅ accounts.txt updated — 2059 remaining
+[8:04:57 AM] 🗑️ Removed kila9876 (PROCESSED) from accounts.txt
+[8:04:57 AM] ✅ accounts.txt updated — 2058 remaining
+[8:05:18 AM] 🗑️ Removed kilven500 (PROCESSED) from accounts.txt
+[8:05:18 AM] ✅ accounts.txt updated — 2057 remaining
+[8:05:40 AM] 🗑️ Removed kimlan44 (PROCESSED) from accounts.txt
+[8:05:40 AM] ✅ accounts.txt updated — 2056 remaining
+[8:06:01 AM] 🗑️ Removed kimbee50 (PROCESSED) from accounts.txt
+[8:06:01 AM] ✅ accounts.txt updated — 2055 remaining
+[8:06:20 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:07:51 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:09:23 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:09:25 AM] 🗑️ Removed kimpador715 (PROCESSED) from accounts.txt
+[8:09:25 AM] ✅ accounts.txt updated — 2054 remaining
+[8:09:46 AM] 🗑️ Removed kinan43 (PROCESSED) from accounts.txt
+[8:09:46 AM] ✅ accounts.txt updated — 2053 remaining
+[8:10:08 AM] 🗑️ Removed kimrules001 (PROCESSED) from accounts.txt
+[8:10:08 AM] ✅ accounts.txt updated — 2052 remaining
+[8:10:29 AM] 🗑️ Removed kindkoala83 (PROCESSED) from accounts.txt
+[8:10:29 AM] ✅ accounts.txt updated — 2051 remaining
+[8:10:50 AM] 🗑️ Removed kimminah16 (PROCESSED) from accounts.txt
+[8:10:50 AM] ✅ accounts.txt updated — 2050 remaining
+[8:11:11 AM] 🗑️ Removed king0403 (PROCESSED) from accounts.txt
+[8:11:11 AM] ✅ accounts.txt updated — 2049 remaining
+[8:11:33 AM] 🗑️ Removed king831 (PROCESSED) from accounts.txt
+[8:11:33 AM] ✅ accounts.txt updated — 2048 remaining
+[8:11:54 AM] 🗑️ Removed kine66 (PROCESSED) from accounts.txt
+[8:11:54 AM] ✅ accounts.txt updated — 2047 remaining
+[8:12:15 AM] 🗑️ Removed kingfrozensun24 (PROCESSED) from accounts.txt
+[8:12:15 AM] ✅ accounts.txt updated — 2046 remaining
+[8:12:34 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:14:05 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:15:36 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:15:39 AM] 🗑️ Removed kingking85 (PROCESSED) from accounts.txt
+[8:15:39 AM] ✅ accounts.txt updated — 2045 remaining
+[8:16:00 AM] 🗑️ Removed kingjammer51812 (PROCESSED) from accounts.txt
+[8:16:00 AM] ✅ accounts.txt updated — 2044 remaining
+[8:16:22 AM] 🗑️ Removed kingi88 (PROCESSED) from accounts.txt
+[8:16:22 AM] ✅ accounts.txt updated — 2043 remaining
+[8:16:43 AM] 🗑️ Removed kingofthedragon2 (PROCESSED) from accounts.txt
+[8:16:43 AM] ✅ accounts.txt updated — 2042 remaining
+[8:17:05 AM] 🗑️ Removed kingtyler12 (PROCESSED) from accounts.txt
+[8:17:05 AM] ✅ accounts.txt updated — 2041 remaining
+[8:17:26 AM] 🗑️ Removed kingtome (PROCESSED) from accounts.txt
+[8:17:26 AM] ✅ accounts.txt updated — 2040 remaining
+[8:17:47 AM] 🗑️ Removed kingtiger64 (PROCESSED) from accounts.txt
+[8:17:47 AM] ✅ accounts.txt updated — 2039 remaining
+[8:18:08 AM] 🗑️ Removed kiolobo1 (PROCESSED) from accounts.txt
+[8:18:08 AM] ✅ accounts.txt updated — 2038 remaining
+[8:18:29 AM] 🗑️ Removed kitkat1452 (PROCESSED) from accounts.txt
+[8:18:29 AM] ✅ accounts.txt updated — 2037 remaining
+[8:18:48 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:20:19 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:21:50 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:21:53 AM] 🗑️ Removed kitsune008 (PROCESSED) from accounts.txt
+[8:21:53 AM] ✅ accounts.txt updated — 2036 remaining
+[8:22:14 AM] 🗑️ Removed kittdmeo (PROCESSED) from accounts.txt
+[8:22:14 AM] ✅ accounts.txt updated — 2035 remaining
+[8:22:35 AM] 🗑️ Removed kitt2212 (PROCESSED) from accounts.txt
+[8:22:35 AM] ✅ accounts.txt updated — 2034 remaining
+[8:22:57 AM] 🗑️ Removed kittyheart17 (PROCESSED) from accounts.txt
+[8:22:57 AM] ✅ accounts.txt updated — 2033 remaining
+[8:23:19 AM] 🗑️ Removed kittylagatita (PROCESSED) from accounts.txt
+[8:23:19 AM] ✅ accounts.txt updated — 2032 remaining
+[8:23:40 AM] 🗑️ Removed kittylove180 (PROCESSED) from accounts.txt
+[8:23:40 AM] ✅ accounts.txt updated — 2031 remaining
+[8:24:02 AM] 🗑️ Removed kittyprety (PROCESSED) from accounts.txt
+[8:24:02 AM] ✅ accounts.txt updated — 2030 remaining
+[8:24:24 AM] 🗑️ Removed kjhg101 (PROCESSED) from accounts.txt
+[8:24:24 AM] ✅ accounts.txt updated — 2029 remaining
+[8:24:45 AM] 🗑️ Removed kkcute18 (PROCESSED) from accounts.txt
+[8:24:45 AM] ✅ accounts.txt updated — 2028 remaining
+[8:25:04 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:26:35 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:28:06 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:28:09 AM] 🗑️ Removed kkkkrdhhm (PROCESSED) from accounts.txt
+[8:28:09 AM] ✅ accounts.txt updated — 2027 remaining
+[8:28:31 AM] 🗑️ Removed kkkaty23 (PROCESSED) from accounts.txt
+[8:28:31 AM] ✅ accounts.txt updated — 2026 remaining
+[8:28:52 AM] 🗑️ Removed kkmila18 (PROCESSED) from accounts.txt
+[8:28:52 AM] ✅ accounts.txt updated — 2025 remaining
+[8:29:13 AM] 🗑️ Removed knamjoon90 (PROCESSED) from accounts.txt
+[8:29:13 AM] ✅ accounts.txt updated — 2024 remaining
+[8:29:34 AM] 🗑️ Removed koala2452 (PROCESSED) from accounts.txt
+[8:29:34 AM] ✅ accounts.txt updated — 2023 remaining
+[8:29:55 AM] 🗑️ Removed kmila1314 (PROCESSED) from accounts.txt
+[8:29:55 AM] ✅ accounts.txt updated — 2022 remaining
+[8:30:16 AM] 🗑️ Removed koalaalex56 (PROCESSED) from accounts.txt
+[8:30:16 AM] ✅ accounts.txt updated — 2021 remaining
+[8:30:38 AM] 🗑️ Removed koalaha5 (PROCESSED) from accounts.txt
+[8:30:38 AM] ✅ accounts.txt updated — 2020 remaining
+[8:30:57 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:32:28 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:34:00 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:34:03 AM] 🗑️ Removed koalagirl70 (PROCESSED) from accounts.txt
+[8:34:03 AM] ✅ accounts.txt updated — 2019 remaining
+[8:34:24 AM] 🗑️ Removed koberip27 (PROCESSED) from accounts.txt
+[8:34:24 AM] ✅ accounts.txt updated — 2018 remaining
+[8:34:46 AM] 🗑️ Removed koalathekute (PROCESSED) from accounts.txt
+[8:34:46 AM] ✅ accounts.txt updated — 2017 remaining
+[8:35:08 AM] 🗑️ Removed koalasrthebest101 (PROCESSED) from accounts.txt
+[8:35:08 AM] ✅ accounts.txt updated — 2016 remaining
+[8:35:29 AM] 🗑️ Removed koco57 (PROCESSED) from accounts.txt
+[8:35:29 AM] ✅ accounts.txt updated — 2015 remaining
+[8:35:50 AM] 🗑️ Removed kokolove1111 (PROCESSED) from accounts.txt
+[8:35:50 AM] ✅ accounts.txt updated — 2014 remaining
+[8:36:11 AM] 🗑️ Removed koma123 (PROCESSED) from accounts.txt
+[8:36:11 AM] ✅ accounts.txt updated — 2013 remaining
+[8:36:33 AM] 🗑️ Removed kokolove111 (PROCESSED) from accounts.txt
+[8:36:33 AM] ✅ accounts.txt updated — 2012 remaining
+[8:36:52 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:38:23 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:39:54 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:39:56 AM] 🗑️ Removed konnor65 (PROCESSED) from accounts.txt
+[8:39:56 AM] ✅ accounts.txt updated — 2011 remaining
+[8:40:17 AM] 🗑️ Removed kolapeguin (PROCESSED) from accounts.txt
+[8:40:17 AM] ✅ accounts.txt updated — 2010 remaining
+[8:40:39 AM] 🗑️ Removed kolathecool (PROCESSED) from accounts.txt
+[8:40:39 AM] ✅ accounts.txt updated — 2009 remaining
+[8:41:00 AM] 🗑️ Removed kokopo23 (PROCESSED) from accounts.txt
+[8:41:00 AM] ✅ accounts.txt updated — 2008 remaining
+[8:41:22 AM] 🗑️ Removed kooki68 (PROCESSED) from accounts.txt
+[8:41:22 AM] ✅ accounts.txt updated — 2007 remaining
+[8:41:43 AM] 🗑️ Removed kookiecookiemode8 (PROCESSED) from accounts.txt
+[8:41:43 AM] ✅ accounts.txt updated — 2006 remaining
+[8:42:04 AM] 🗑️ Removed kookoosugerpetal (PROCESSED) from accounts.txt
+[8:42:04 AM] ✅ accounts.txt updated — 2005 remaining
+[8:42:26 AM] 🗑️ Removed kork3 (PROCESSED) from accounts.txt
+[8:42:26 AM] ✅ accounts.txt updated — 2004 remaining
+[8:42:45 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:44:16 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:45:48 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:45:50 AM] 🗑️ Removed kooqie (PROCESSED) from accounts.txt
+[8:45:50 AM] ✅ accounts.txt updated — 2003 remaining
+[8:46:11 AM] 🗑️ Removed koyama123 (PROCESSED) from accounts.txt
+[8:46:11 AM] ✅ accounts.txt updated — 2002 remaining
+[8:46:32 AM] 🗑️ Removed kostis24 (PROCESSED) from accounts.txt
+[8:46:32 AM] ✅ accounts.txt updated — 2001 remaining
+[8:46:53 AM] 🗑️ Removed kpuryear66 (PROCESSED) from accounts.txt
+[8:46:53 AM] ✅ accounts.txt updated — 2000 remaining
+[8:47:14 AM] 🗑️ Removed krestyl10 (PROCESSED) from accounts.txt
+[8:47:14 AM] ✅ accounts.txt updated — 1999 remaining
+[8:47:36 AM] 🗑️ Removed krono31 (PROCESSED) from accounts.txt
+[8:47:36 AM] ✅ accounts.txt updated — 1998 remaining
+[8:47:57 AM] 🗑️ Removed kuk35 (PROCESSED) from accounts.txt
+[8:47:57 AM] ✅ accounts.txt updated — 1997 remaining
+[8:48:18 AM] 🗑️ Removed kueenfire (PROCESSED) from accounts.txt
+[8:48:18 AM] ✅ accounts.txt updated — 1996 remaining
+[8:48:39 AM] 🗑️ Removed ksmitty07 (PROCESSED) from accounts.txt
+[8:48:39 AM] ✅ accounts.txt updated — 1995 remaining
+[8:48:58 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:50:29 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:52:01 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:52:03 AM] 🗑️ Removed kun66 (PROCESSED) from accounts.txt
+[8:52:03 AM] ✅ accounts.txt updated — 1994 remaining
+[8:52:24 AM] 🗑️ Removed kupkake7 (PROCESSED) from accounts.txt
+[8:52:24 AM] ✅ accounts.txt updated — 1993 remaining
+[8:52:45 AM] 🗑️ Removed kunnife2 (PROCESSED) from accounts.txt
+[8:52:45 AM] ✅ accounts.txt updated — 1992 remaining
+[8:53:07 AM] 🗑️ Removed kupkake1359 (PROCESSED) from accounts.txt
+[8:53:07 AM] ✅ accounts.txt updated — 1991 remaining
+[8:53:28 AM] 🗑️ Removed kukkie2 (PROCESSED) from accounts.txt
+[8:53:28 AM] ✅ accounts.txt updated — 1990 remaining
+[8:53:49 AM] 🗑️ Removed kwanli (PROCESSED) from accounts.txt
+[8:53:49 AM] ✅ accounts.txt updated — 1989 remaining
+[8:54:10 AM] 🗑️ Removed kymren (PROCESSED) from accounts.txt
+[8:54:10 AM] ✅ accounts.txt updated — 1988 remaining
+[8:54:31 AM] 🗑️ Removed kylieprice0207 (PROCESSED) from accounts.txt
+[8:54:32 AM] ✅ accounts.txt updated — 1987 remaining
+[8:54:50 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:56:21 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:57:53 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:57:55 AM] 🗑️ Removed kyleigh20011 (PROCESSED) from accounts.txt
+[8:57:55 AM] ✅ accounts.txt updated — 1986 remaining
+[8:58:16 AM] 🗑️ Removed lacaballeradelzodiac (PROCESSED) from accounts.txt
+[8:58:16 AM] ✅ accounts.txt updated — 1985 remaining
+[8:58:37 AM] 🗑️ Removed ladybug32165 (PROCESSED) from accounts.txt
+[8:58:37 AM] ✅ accounts.txt updated — 1984 remaining
+[8:58:58 AM] 🗑️ Removed ladybugychatnoir33 (PROCESSED) from accounts.txt
+[8:58:58 AM] ✅ accounts.txt updated — 1983 remaining
+[8:59:19 AM] 🗑️ Removed lahermanadejiminbts (PROCESSED) from accounts.txt
+[8:59:19 AM] ✅ accounts.txt updated — 1982 remaining
+[8:59:40 AM] 🗑️ Removed lairinde (PROCESSED) from accounts.txt
+[8:59:40 AM] ✅ accounts.txt updated — 1981 remaining
+[9:00:02 AM] 🗑️ Removed laia945 (PROCESSED) from accounts.txt
+[9:00:02 AM] ✅ accounts.txt updated — 1980 remaining
+[9:00:23 AM] 🗑️ Removed laila52 (PROCESSED) from accounts.txt
+[9:00:23 AM] ✅ accounts.txt updated — 1979 remaining
+[9:00:42 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:02:13 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:03:44 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:03:47 AM] 🗑️ Removed lakoalamasbella (PROCESSED) from accounts.txt
+[9:03:47 AM] ✅ accounts.txt updated — 1978 remaining
+[9:04:08 AM] 🗑️ Removed lalabug39 (PROCESSED) from accounts.txt
+[9:04:08 AM] ✅ accounts.txt updated — 1977 remaining
+[9:04:28 AM] 🗑️ Removed lali44 (PROCESSED) from accounts.txt
+[9:04:28 AM] ✅ accounts.txt updated — 1976 remaining
+[9:04:50 AM] 🗑️ Removed lali78 (PROCESSED) from accounts.txt
+[9:04:50 AM] ✅ accounts.txt updated — 1975 remaining
+[9:05:11 AM] 🗑️ Removed lalelin005 (PROCESSED) from accounts.txt
+[9:05:11 AM] ✅ accounts.txt updated — 1974 remaining
+[9:05:32 AM] 🗑️ Removed lalelin4 (PROCESSED) from accounts.txt
+[9:05:32 AM] ✅ accounts.txt updated — 1973 remaining
+[9:05:54 AM] 🗑️ Removed lalsao14 (PROCESSED) from accounts.txt
+[9:05:54 AM] ✅ accounts.txt updated — 1972 remaining
+[9:06:16 AM] 🗑️ Removed lalito502 (PROCESSED) from accounts.txt
+[9:06:16 AM] ✅ accounts.txt updated — 1971 remaining
+[9:06:34 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:08:05 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:09:37 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:09:39 AM] 🗑️ Removed lalisa2704 (PROCESSED) from accounts.txt
+[9:09:39 AM] ✅ accounts.txt updated — 1970 remaining
+[9:10:01 AM] 🗑️ Removed lamaschiquitadeanima (PROCESSED) from accounts.txt
+[9:10:01 AM] ✅ accounts.txt updated — 1969 remaining
+[9:10:22 AM] 🗑️ Removed lanae12 (PROCESSED) from accounts.txt
+[9:10:22 AM] ✅ accounts.txt updated — 1968 remaining
+[9:10:43 AM] 🗑️ Removed landidon26 (PROCESSED) from accounts.txt
+[9:10:43 AM] ✅ accounts.txt updated — 1967 remaining
+[9:11:04 AM] 🗑️ Removed laparata13 (PROCESSED) from accounts.txt
+[9:11:04 AM] ✅ accounts.txt updated — 1966 remaining
+[9:11:25 AM] 🗑️ Removed lapeorra (PROCESSED) from accounts.txt
+[9:11:25 AM] ✅ accounts.txt updated — 1965 remaining
+[9:11:46 AM] 🗑️ Removed laprofe14 (PROCESSED) from accounts.txt
+[9:11:46 AM] ✅ accounts.txt updated — 1964 remaining
+[9:12:07 AM] 🗑️ Removed lareinadelflow565 (PROCESSED) from accounts.txt
+[9:12:07 AM] ✅ accounts.txt updated — 1963 remaining
+[9:12:28 AM] 🗑️ Removed larapink6358 (PROCESSED) from accounts.txt
+[9:12:28 AM] ✅ accounts.txt updated — 1962 remaining
+[9:12:48 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:14:18 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:15:50 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:15:52 AM] 🗑️ Removed largeblueguy (PROCESSED) from accounts.txt
+[9:15:52 AM] ✅ accounts.txt updated — 1961 remaining
+[9:16:14 AM] 🗑️ Removed larrience1 (PROCESSED) from accounts.txt
+[9:16:14 AM] ✅ accounts.txt updated — 1960 remaining
+[9:16:35 AM] 🗑️ Removed larisslili23 (PROCESSED) from accounts.txt
+[9:16:35 AM] ✅ accounts.txt updated — 1959 remaining
+[9:16:56 AM] 🗑️ Removed larrisa120 (PROCESSED) from accounts.txt
+[9:16:56 AM] ✅ accounts.txt updated — 1958 remaining
+[9:17:17 AM] 🗑️ Removed laryssa6 (PROCESSED) from accounts.txt
+[9:17:17 AM] ✅ accounts.txt updated — 1957 remaining
+[9:17:38 AM] 🗑️ Removed laughynni (PROCESSED) from accounts.txt
+[9:17:38 AM] ✅ accounts.txt updated — 1956 remaining
+[9:17:59 AM] 🗑️ Removed laura1803 (PROCESSED) from accounts.txt
+[9:17:59 AM] ✅ accounts.txt updated — 1955 remaining
+[9:18:20 AM] 🗑️ Removed laura67t25 (PROCESSED) from accounts.txt
+[9:18:20 AM] ✅ accounts.txt updated — 1954 remaining
+[9:18:41 AM] 🗑️ Removed laurabr2009 (PROCESSED) from accounts.txt
+[9:18:41 AM] ✅ accounts.txt updated — 1953 remaining
+[9:19:00 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:20:31 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:22:02 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:22:04 AM] 🗑️ Removed lauradj (PROCESSED) from accounts.txt
+[9:22:04 AM] ✅ accounts.txt updated — 1952 remaining
+[9:22:25 AM] 🗑️ Removed lauragamer24 (PROCESSED) from accounts.txt
+[9:22:25 AM] ✅ accounts.txt updated — 1951 remaining
+[9:22:46 AM] 🗑️ Removed lauren914 (PROCESSED) from accounts.txt
+[9:22:46 AM] ✅ accounts.txt updated — 1950 remaining
+[9:23:08 AM] 🗑️ Removed lautypepe (PROCESSED) from accounts.txt
+[9:23:08 AM] ✅ accounts.txt updated — 1949 remaining
+[9:23:29 AM] 🗑️ Removed laurpophi1234 (PROCESSED) from accounts.txt
+[9:23:29 AM] ✅ accounts.txt updated — 1948 remaining
+[9:23:50 AM] 🗑️ Removed laurykawaii503 (PROCESSED) from accounts.txt
+[9:23:50 AM] ✅ accounts.txt updated — 1947 remaining
+[9:24:12 AM] 🗑️ Removed lauti32 (PROCESSED) from accounts.txt
+[9:24:12 AM] ✅ accounts.txt updated — 1946 remaining
+[9:24:33 AM] 🗑️ Removed lauryn161 (PROCESSED) from accounts.txt
+[9:24:33 AM] ✅ accounts.txt updated — 1945 remaining
+[9:24:54 AM] 🗑️ Removed lavina42 (PROCESSED) from accounts.txt
+[9:24:54 AM] ✅ accounts.txt updated — 1944 remaining
+[9:25:13 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:26:44 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:28:15 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:28:17 AM] 🗑️ Removed lavawolfxdaj (PROCESSED) from accounts.txt
+[9:28:17 AM] ✅ accounts.txt updated — 1943 remaining
+[9:28:38 AM] 🗑️ Removed lawrence123456 (PROCESSED) from accounts.txt
+[9:28:38 AM] ✅ accounts.txt updated — 1942 remaining
+[9:28:59 AM] 🗑️ Removed laydi11 (PROCESSED) from accounts.txt
+[9:28:59 AM] ✅ accounts.txt updated — 1941 remaining
+[9:29:19 AM] 🗑️ Removed lawrence135 (PROCESSED) from accounts.txt
+[9:29:19 AM] ✅ accounts.txt updated — 1940 remaining
+[9:29:41 AM] 🗑️ Removed laylah2665 (PROCESSED) from accounts.txt
+[9:29:41 AM] ✅ accounts.txt updated — 1939 remaining
+[9:30:02 AM] 🗑️ Removed lazy84 (PROCESSED) from accounts.txt
+[9:30:02 AM] ✅ accounts.txt updated — 1938 remaining
+[9:30:24 AM] 🗑️ Removed laysagabri2018 (PROCESSED) from accounts.txt
+[9:30:24 AM] ✅ accounts.txt updated — 1937 remaining
+[9:30:46 AM] 🗑️ Removed lcoffee (PROCESSED) from accounts.txt
+[9:30:46 AM] ✅ accounts.txt updated — 1936 remaining
+[9:31:04 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:32:35 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:34:07 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:34:09 AM] 🗑️ Removed ldwest5000 (PROCESSED) from accounts.txt
+[9:34:09 AM] ✅ accounts.txt updated — 1935 remaining
+[9:34:30 AM] 🗑️ Removed leahashepinklover9 (PROCESSED) from accounts.txt
+[9:34:30 AM] ✅ accounts.txt updated — 1934 remaining
+[9:34:51 AM] 🗑️ Removed leaha14 (PROCESSED) from accounts.txt
+[9:34:51 AM] ✅ accounts.txt updated — 1933 remaining
+[9:35:13 AM] 🗑️ Removed leander6 (PROCESSED) from accounts.txt
+[9:35:13 AM] ✅ accounts.txt updated — 1932 remaining
+[9:35:34 AM] 🗑️ Removed leandroelmejor32 (PROCESSED) from accounts.txt
+[9:35:34 AM] ✅ accounts.txt updated — 1931 remaining
+[9:35:56 AM] 🗑️ Removed leanne121 (PROCESSED) from accounts.txt
+[9:35:56 AM] ✅ accounts.txt updated — 1930 remaining
+[9:36:17 AM] 🗑️ Removed lebra7575 (PROCESSED) from accounts.txt
+[9:36:17 AM] ✅ accounts.txt updated — 1929 remaining
+[9:36:37 AM] 🗑️ Removed legoomaster (PROCESSED) from accounts.txt
+[9:36:37 AM] ✅ accounts.txt updated — 1928 remaining
+[9:36:58 AM] 🗑️ Removed legopolice (PROCESSED) from accounts.txt
+[9:36:58 AM] ✅ accounts.txt updated — 1927 remaining
+[9:37:17 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:38:49 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:40:20 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:40:22 AM] 🗑️ Removed leiadajedi2 (PROCESSED) from accounts.txt
+[9:40:22 AM] ✅ accounts.txt updated — 1926 remaining
+[9:40:43 AM] 🗑️ Removed lei49 (PROCESSED) from accounts.txt
+[9:40:43 AM] ✅ accounts.txt updated — 1925 remaining
+[9:41:05 AM] 🗑️ Removed leidigaga (PROCESSED) from accounts.txt
+[9:41:05 AM] ✅ accounts.txt updated — 1924 remaining
+[9:41:26 AM] 🗑️ Removed lehiburi (PROCESSED) from accounts.txt
+[9:41:26 AM] ✅ accounts.txt updated — 1923 remaining
+[9:41:47 AM] 🗑️ Removed leiker1 (PROCESSED) from accounts.txt
+[9:41:47 AM] ✅ accounts.txt updated — 1922 remaining
+[9:42:08 AM] 🗑️ Removed leiratherandom (PROCESSED) from accounts.txt
+[9:42:08 AM] ✅ accounts.txt updated — 1921 remaining
+[9:42:29 AM] 🗑️ Removed leite148 (PROCESSED) from accounts.txt
+[9:42:29 AM] ✅ accounts.txt updated — 1920 remaining
+[9:42:49 AM] 🗑️ Removed lelan (PROCESSED) from accounts.txt
+[9:42:49 AM] ✅ accounts.txt updated — 1919 remaining
+[9:43:10 AM] 🗑️ Removed leko (PROCESSED) from accounts.txt
+[9:43:10 AM] ✅ accounts.txt updated — 1918 remaining
+[9:43:29 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:45:00 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:46:32 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:46:34 AM] 🗑️ Removed lelephant (PROCESSED) from accounts.txt
+[9:46:34 AM] ✅ accounts.txt updated — 1917 remaining
+[9:46:55 AM] 🗑️ Removed lelo47 (PROCESSED) from accounts.txt
+[9:46:55 AM] ✅ accounts.txt updated — 1916 remaining
+[9:47:16 AM] 🗑️ Removed lemoncakesdrops (PROCESSED) from accounts.txt
+[9:47:16 AM] ✅ accounts.txt updated — 1915 remaining
+[9:47:37 AM] 🗑️ Removed leme6 (PROCESSED) from accounts.txt
+[9:47:37 AM] ✅ accounts.txt updated — 1914 remaining
+[9:47:58 AM] 🗑️ Removed lemongirl122 (PROCESSED) from accounts.txt
+[9:47:58 AM] ✅ accounts.txt updated — 1913 remaining
+[9:48:19 AM] 🗑️ Removed lenab14 (PROCESSED) from accounts.txt
+[9:48:19 AM] ✅ accounts.txt updated — 1912 remaining
+[9:48:40 AM] 🗑️ Removed leon36 (PROCESSED) from accounts.txt
+[9:48:40 AM] ✅ accounts.txt updated — 1911 remaining
+[9:49:01 AM] 🗑️ Removed leo30099 (PROCESSED) from accounts.txt
+[9:49:01 AM] ✅ accounts.txt updated — 1910 remaining
+[9:49:20 AM] 🗑️ Removed leonvalen (UNKNOWN_LOGIN_ERROR) from accounts.txt
+[9:49:20 AM] ✅ accounts.txt updated — 1909 remaining
+[9:49:31 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:51:02 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:52:33 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:52:35 AM] 🗑️ Removed leopardo1223 (PROCESSED) from accounts.txt
+[9:52:35 AM] ✅ accounts.txt updated — 1908 remaining
+[9:52:55 AM] 🗑️ Removed lepa42 (PROCESSED) from accounts.txt
+[9:52:55 AM] ✅ accounts.txt updated — 1907 remaining
+[9:53:15 AM] 🗑️ Removed leslipolinecia (PROCESSED) from accounts.txt
+[9:53:15 AM] ✅ accounts.txt updated — 1906 remaining
+[9:53:36 AM] 🗑️ Removed letichalakpa (PROCESSED) from accounts.txt
+[9:53:36 AM] ✅ accounts.txt updated — 1905 remaining
+[9:53:57 AM] 🗑️ Removed lesfdc (PROCESSED) from accounts.txt
+[9:53:57 AM] ✅ accounts.txt updated — 1904 remaining
+[9:54:18 AM] 🗑️ Removed lesl15 (PROCESSED) from accounts.txt
+[9:54:18 AM] ✅ accounts.txt updated — 1903 remaining
+[9:54:39 AM] 🗑️ Removed letsjam5875 (PROCESSED) from accounts.txt
+[9:54:39 AM] ✅ accounts.txt updated — 1902 remaining
+[9:55:00 AM] 🗑️ Removed leticia01 (PROCESSED) from accounts.txt
+[9:55:00 AM] ✅ accounts.txt updated — 1901 remaining
+[9:55:21 AM] 🗑️ Removed lets1234 (PROCESSED) from accounts.txt
+[9:55:21 AM] ✅ accounts.txt updated — 1900 remaining
+[9:55:40 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:57:11 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:58:42 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:58:44 AM] 🗑️ Removed lexi8977 (PROCESSED) from accounts.txt
+[9:58:44 AM] ✅ accounts.txt updated — 1899 remaining
+[9:59:05 AM] 🗑️ Removed leyla156 (PROCESSED) from accounts.txt
+[9:59:05 AM] ✅ accounts.txt updated — 1898 remaining
+[9:59:25 AM] 🗑️ Removed li49 (PROCESSED) from accounts.txt
+[9:59:25 AM] ✅ accounts.txt updated — 1897 remaining
+[9:59:46 AM] 🗑️ Removed lexloo22 (PROCESSED) from accounts.txt
+[9:59:46 AM] ✅ accounts.txt updated — 1896 remaining
+[10:00:06 AM] 🗑️ Removed libecea (PROCESSED) from accounts.txt
+[10:00:06 AM] ✅ accounts.txt updated — 1895 remaining
+[10:00:27 AM] 🗑️ Removed liberty123456789 (PROCESSED) from accounts.txt
+[10:00:27 AM] ✅ accounts.txt updated — 1894 remaining
+[10:00:48 AM] 🗑️ Removed lidny (PROCESSED) from accounts.txt
+[10:00:48 AM] ✅ accounts.txt updated — 1893 remaining
+[10:01:08 AM] 🗑️ Removed lieneze15 (PROCESSED) from accounts.txt
+[10:01:08 AM] ✅ accounts.txt updated — 1892 remaining
+[10:01:29 AM] 🗑️ Removed lila2013s (PROCESSED) from accounts.txt
+[10:01:29 AM] ✅ accounts.txt updated — 1891 remaining
+[10:01:48 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:03:18 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:04:50 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:04:52 AM] 🗑️ Removed ligia109 (PROCESSED) from accounts.txt
+[10:04:52 AM] ✅ accounts.txt updated — 1890 remaining
+[10:05:12 AM] 🗑️ Removed likeryan8 (PROCESSED) from accounts.txt
+[10:05:12 AM] ✅ accounts.txt updated — 1889 remaining
+[10:05:33 AM] 🗑️ Removed like34 (PROCESSED) from accounts.txt
+[10:05:33 AM] ✅ accounts.txt updated — 1888 remaining
+[10:05:54 AM] 🗑️ Removed lilac662 (PROCESSED) from accounts.txt
+[10:05:54 AM] ✅ accounts.txt updated — 1887 remaining
+[10:06:15 AM] 🗑️ Removed lilacthecutebunny (PROCESSED) from accounts.txt
+[10:06:15 AM] ✅ accounts.txt updated — 1886 remaining
+[10:06:36 AM] 🗑️ Removed lilauwu7w7 (PROCESSED) from accounts.txt
+[10:06:36 AM] ✅ accounts.txt updated — 1885 remaining
+[10:06:57 AM] 🗑️ Removed lilcat28160 (PROCESSED) from accounts.txt
+[10:06:57 AM] ✅ accounts.txt updated — 1884 remaining
+[10:07:18 AM] 🗑️ Removed lili32953 (PROCESSED) from accounts.txt
+[10:07:18 AM] ✅ accounts.txt updated — 1883 remaining
+[10:07:39 AM] 🗑️ Removed lilet8 (PROCESSED) from accounts.txt
+[10:07:39 AM] ✅ accounts.txt updated — 1882 remaining
+[10:07:58 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:09:29 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:11:00 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:11:02 AM] 🗑️ Removed lili980 (PROCESSED) from accounts.txt
+[10:11:02 AM] ✅ accounts.txt updated — 1881 remaining
+[10:11:23 AM] 🗑️ Removed lili00899 (PROCESSED) from accounts.txt
+[10:11:23 AM] ✅ accounts.txt updated — 1880 remaining
+[10:11:44 AM] 🗑️ Removed lilic26 (PROCESSED) from accounts.txt
+[10:11:44 AM] ✅ accounts.txt updated — 1879 remaining
+[10:12:05 AM] 🗑️ Removed liliana1435 (PROCESSED) from accounts.txt
+[10:12:05 AM] ✅ accounts.txt updated — 1878 remaining
+[10:12:25 AM] 🗑️ Removed lililo25 (PROCESSED) from accounts.txt
+[10:12:25 AM] ✅ accounts.txt updated — 1877 remaining
+[10:12:46 AM] 🗑️ Removed lilinoeforl1fe (PROCESSED) from accounts.txt
+[10:12:46 AM] ✅ accounts.txt updated — 1876 remaining
+[10:13:08 AM] 🗑️ Removed lilica091 (PROCESSED) from accounts.txt
+[10:13:08 AM] ✅ accounts.txt updated — 1875 remaining
+[10:13:28 AM] 🗑️ Removed lillard52 (PROCESSED) from accounts.txt
+[10:13:28 AM] ✅ accounts.txt updated — 1874 remaining
+[10:13:49 AM] 🗑️ Removed lilkevin89 (PROCESSED) from accounts.txt
+[10:13:49 AM] ✅ accounts.txt updated — 1873 remaining
+[10:14:08 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:15:39 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:17:10 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:17:12 AM] 🗑️ Removed lilkary (PROCESSED) from accounts.txt
+[10:17:12 AM] ✅ accounts.txt updated — 1872 remaining
+[10:17:32 AM] 🗑️ Removed lilly162 (PROCESSED) from accounts.txt
+[10:17:32 AM] ✅ accounts.txt updated — 1871 remaining
+[10:17:53 AM] 🗑️ Removed lilly89047of (PROCESSED) from accounts.txt
+[10:17:53 AM] ✅ accounts.txt updated — 1870 remaining
+[10:18:14 AM] 🗑️ Removed lilly87774 (PROCESSED) from accounts.txt
+[10:18:14 AM] ✅ accounts.txt updated — 1869 remaining
+[10:18:35 AM] 🗑️ Removed lilmessiah (PROCESSED) from accounts.txt
+[10:18:35 AM] ✅ accounts.txt updated — 1868 remaining
+[10:18:56 AM] 🗑️ Removed lilope32 (PROCESSED) from accounts.txt
+[10:18:56 AM] ✅ accounts.txt updated — 1867 remaining
+[10:19:17 AM] 🗑️ Removed lily4945 (PROCESSED) from accounts.txt
+[10:19:17 AM] ✅ accounts.txt updated — 1866 remaining
+[10:19:38 AM] 🗑️ Removed lilydaniel (PROCESSED) from accounts.txt
+[10:19:38 AM] ✅ accounts.txt updated — 1865 remaining
+[10:19:57 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:21:27 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:22:59 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:23:01 AM] 🗑️ Removed lilybrain097 (PROCESSED) from accounts.txt
+[10:23:01 AM] ✅ accounts.txt updated — 1864 remaining
+[10:23:22 AM] 🗑️ Removed lilythewolf108 (PROCESSED) from accounts.txt
+[10:23:22 AM] ✅ accounts.txt updated — 1863 remaining
+[10:23:43 AM] 🗑️ Removed lilyrarrr (PROCESSED) from accounts.txt
+[10:23:43 AM] ✅ accounts.txt updated — 1862 remaining
+[10:24:04 AM] 🗑️ Removed lilypily19227 (PROCESSED) from accounts.txt
+[10:24:04 AM] ✅ accounts.txt updated — 1861 remaining
+[10:24:25 AM] 🗑️ Removed lilypaw61 (PROCESSED) from accounts.txt
+[10:24:25 AM] ✅ accounts.txt updated — 1860 remaining
+[10:24:46 AM] 🗑️ Removed linapop00 (PROCESSED) from accounts.txt
+[10:24:46 AM] ✅ accounts.txt updated — 1859 remaining
+[10:25:07 AM] 🗑️ Removed limonsito40 (PROCESSED) from accounts.txt
+[10:25:07 AM] ✅ accounts.txt updated — 1858 remaining
+[10:25:27 AM] 🗑️ Removed linda47000 (PROCESSED) from accounts.txt
+[10:25:27 AM] ✅ accounts.txt updated — 1857 remaining
+[10:25:46 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:27:17 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:28:48 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:28:51 AM] 🗑️ Removed lindameninamarinha (PROCESSED) from accounts.txt
+[10:28:51 AM] ✅ accounts.txt updated — 1856 remaining
+[10:29:12 AM] 🗑️ Removed linden19 (PROCESSED) from accounts.txt
+[10:29:12 AM] ✅ accounts.txt updated — 1855 remaining
+[10:29:33 AM] 🗑️ Removed lindaxxzsasaddf (PROCESSED) from accounts.txt
+[10:29:33 AM] ✅ accounts.txt updated — 1854 remaining
+[10:29:55 AM] 🗑️ Removed lindatigre9 (PROCESSED) from accounts.txt
+[10:29:55 AM] ✅ accounts.txt updated — 1853 remaining
+[10:30:17 AM] 🗑️ Removed lindayt17 (PROCESSED) from accounts.txt
+[10:30:17 AM] ✅ accounts.txt updated — 1852 remaining
+[10:30:38 AM] 🗑️ Removed linenes35 (PROCESSED) from accounts.txt
+[10:30:38 AM] ✅ accounts.txt updated — 1851 remaining
+[10:30:59 AM] 🗑️ Removed lindoanimalitobebe (PROCESSED) from accounts.txt
+[10:30:59 AM] ✅ accounts.txt updated — 1850 remaining
+[10:31:20 AM] 🗑️ Removed lindser101 (PROCESSED) from accounts.txt
+[10:31:20 AM] ✅ accounts.txt updated — 1849 remaining
+[10:31:42 AM] 🗑️ Removed lint22 (PROCESSED) from accounts.txt
+[10:31:42 AM] ✅ accounts.txt updated — 1848 remaining
+[10:32:01 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:33:32 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:35:04 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:35:06 AM] 🗑️ Removed linkpro735 (PROCESSED) from accounts.txt
+[10:35:06 AM] ✅ accounts.txt updated — 1847 remaining
+[10:35:27 AM] 🗑️ Removed lionking902 (PROCESSED) from accounts.txt
+[10:35:27 AM] ✅ accounts.txt updated — 1846 remaining
+[10:35:48 AM] 🗑️ Removed lionfire4 (PROCESSED) from accounts.txt
+[10:35:48 AM] ✅ accounts.txt updated — 1845 remaining
+[10:36:09 AM] 🗑️ Removed lipao3 (PROCESSED) from accounts.txt
+[10:36:09 AM] ✅ accounts.txt updated — 1844 remaining
+[10:36:31 AM] 🗑️ Removed liora16 (PROCESSED) from accounts.txt
+[10:36:31 AM] ✅ accounts.txt updated — 1843 remaining
+[10:36:52 AM] 🗑️ Removed liria42 (PROCESSED) from accounts.txt
+[10:36:52 AM] ✅ accounts.txt updated — 1842 remaining
+[10:37:14 AM] 🗑️ Removed lirila34 (PROCESSED) from accounts.txt
+[10:37:14 AM] ✅ accounts.txt updated — 1841 remaining
+[10:37:35 AM] 🗑️ Removed lisaybart (PROCESSED) from accounts.txt
+[10:37:35 AM] ✅ accounts.txt updated — 1840 remaining
+[10:37:54 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:39:25 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:40:57 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:40:59 AM] 🗑️ Removed liroy46 (PROCESSED) from accounts.txt
+[10:40:59 AM] ✅ accounts.txt updated — 1839 remaining
+[10:41:20 AM] 🗑️ Removed liriokawaii21 (PROCESSED) from accounts.txt
+[10:41:20 AM] ✅ accounts.txt updated — 1838 remaining
+[10:41:41 AM] 🗑️ Removed lisa3095 (PROCESSED) from accounts.txt
+[10:41:41 AM] ✅ accounts.txt updated — 1837 remaining
+[10:42:02 AM] 🗑️ Removed litkil12 (PROCESSED) from accounts.txt
+[10:42:02 AM] ✅ accounts.txt updated — 1836 remaining
+[10:42:24 AM] 🗑️ Removed littalroes (PROCESSED) from accounts.txt
+[10:42:24 AM] ✅ accounts.txt updated — 1835 remaining
+[10:42:45 AM] 🗑️ Removed littleblu30 (PROCESSED) from accounts.txt
+[10:42:45 AM] ✅ accounts.txt updated — 1834 remaining
+[10:43:06 AM] 🗑️ Removed littiger64 (PROCESSED) from accounts.txt
+[10:43:06 AM] ✅ accounts.txt updated — 1833 remaining
+[10:43:27 AM] 🗑️ Removed littiger1 (PROCESSED) from accounts.txt
+[10:43:27 AM] ✅ accounts.txt updated — 1832 remaining
+[10:43:49 AM] 🗑️ Removed littlebunnyyy9 (PROCESSED) from accounts.txt
+[10:43:49 AM] ✅ accounts.txt updated — 1831 remaining
+[10:44:08 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:45:39 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:47:11 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:47:13 AM] 🗑️ Removed littlecesar64 (PROCESSED) from accounts.txt
+[10:47:13 AM] ✅ accounts.txt updated — 1830 remaining
+[10:47:34 AM] 🗑️ Removed littlebunny851 (PROCESSED) from accounts.txt
+[10:47:34 AM] ✅ accounts.txt updated — 1829 remaining
+[10:47:55 AM] 🗑️ Removed littlekatte41 (PROCESSED) from accounts.txt
+[10:47:55 AM] ✅ accounts.txt updated — 1828 remaining
+[10:48:17 AM] 🗑️ Removed littlekitty863 (PROCESSED) from accounts.txt
+[10:48:17 AM] ✅ accounts.txt updated — 1827 remaining
+[10:48:38 AM] 🗑️ Removed littlemargirl17 (PROCESSED) from accounts.txt
+[10:48:38 AM] ✅ accounts.txt updated — 1826 remaining
+[10:48:59 AM] 🗑️ Removed littlerainyfox (PROCESSED) from accounts.txt
+[10:48:59 AM] ✅ accounts.txt updated — 1825 remaining
+[10:49:21 AM] 🗑️ Removed livius0 (PROCESSED) from accounts.txt
+[10:49:21 AM] ✅ accounts.txt updated — 1824 remaining
+[10:49:42 AM] 🗑️ Removed livvy1326 (PROCESSED) from accounts.txt
+[10:49:42 AM] ✅ accounts.txt updated — 1823 remaining
+[10:50:01 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:51:32 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:53:03 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:53:05 AM] 🗑️ Removed liz450 (PROCESSED) from accounts.txt
+[10:53:05 AM] ✅ accounts.txt updated — 1822 remaining
+[10:53:27 AM] 🗑️ Removed lizgrimaltlg (PROCESSED) from accounts.txt
+[10:53:27 AM] ✅ accounts.txt updated — 1821 remaining
+[10:53:48 AM] 🗑️ Removed ljbean700 (PROCESSED) from accounts.txt
+[10:53:48 AM] ✅ accounts.txt updated — 1820 remaining
+[10:54:09 AM] 🗑️ Removed lizirman (PROCESSED) from accounts.txt
+[10:54:09 AM] ✅ accounts.txt updated — 1819 remaining
+[10:54:30 AM] 🗑️ Removed ljhhigo (PROCESSED) from accounts.txt
+[10:54:30 AM] ✅ accounts.txt updated — 1818 remaining
+[10:54:52 AM] 🗑️ Removed lkjhgfdsa12345 (PROCESSED) from accounts.txt
+[10:54:52 AM] ✅ accounts.txt updated — 1817 remaining
+[10:55:13 AM] 🗑️ Removed llquade (PROCESSED) from accounts.txt
+[10:55:13 AM] ✅ accounts.txt updated — 1816 remaining
+[10:55:34 AM] 🗑️ Removed llmlp20 (PROCESSED) from accounts.txt
+[10:55:34 AM] ✅ accounts.txt updated — 1815 remaining
+[10:55:55 AM] 🗑️ Removed loal124 (PROCESSED) from accounts.txt
+[10:55:55 AM] ✅ accounts.txt updated — 1814 remaining
+[10:56:17 AM] 🗑️ Removed loba0918 (PROCESSED) from accounts.txt
+[10:56:17 AM] ✅ accounts.txt updated — 1813 remaining
+[10:56:35 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:58:06 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:59:38 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:59:40 AM] 🗑️ Removed lmdaddy4 (PROCESSED) from accounts.txt
+[10:59:40 AM] ✅ accounts.txt updated — 1812 remaining
+[11:00:01 AM] 🗑️ Removed loaba0 (PROCESSED) from accounts.txt
+[11:00:01 AM] ✅ accounts.txt updated — 1811 remaining
+[11:00:22 AM] 🗑️ Removed loba739e (PROCESSED) from accounts.txt
+[11:00:22 AM] ✅ accounts.txt updated — 1810 remaining
+[11:00:45 AM] 🗑️ Removed lobafeliz20 (PROCESSED) from accounts.txt
+[11:00:45 AM] ✅ accounts.txt updated — 1809 remaining
+[11:01:06 AM] 🗑️ Removed loba364 (PROCESSED) from accounts.txt
+[11:01:06 AM] ✅ accounts.txt updated — 1808 remaining
+[11:01:27 AM] 🗑️ Removed lobalinda1620 (PROCESSED) from accounts.txt
+[11:01:27 AM] ✅ accounts.txt updated — 1807 remaining
+[11:01:49 AM] 🗑️ Removed lobamelinajaja (PROCESSED) from accounts.txt
+[11:01:49 AM] ✅ accounts.txt updated — 1806 remaining
+[11:02:10 AM] 🗑️ Removed lobakawaii777 (PROCESSED) from accounts.txt
+[11:02:10 AM] ✅ accounts.txt updated — 1805 remaining
+[11:02:32 AM] 🗑️ Removed lobamia (PROCESSED) from accounts.txt
+[11:02:32 AM] ✅ accounts.txt updated — 1804 remaining
+[11:02:51 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:04:22 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:05:53 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[11:05:56 AM] 🗑️ Removed lobapro500 (PROCESSED) from accounts.txt
+[11:05:56 AM] ✅ accounts.txt updated — 1803 remaining
+[11:06:17 AM] 🗑️ Removed lobas9 (PROCESSED) from accounts.txt
+[11:06:17 AM] ✅ accounts.txt updated — 1802 remaining
+[11:06:38 AM] 🗑️ Removed lobinhakawaii1010 (PROCESSED) from accounts.txt
+[11:06:38 AM] ✅ accounts.txt updated — 1801 remaining
+[11:07:00 AM] 🗑️ Removed lobido2 (PROCESSED) from accounts.txt
+[11:07:00 AM] ✅ accounts.txt updated — 1800 remaining
+[11:07:21 AM] 🗑️ Removed lobinhawolf4 (PROCESSED) from accounts.txt
+[11:07:21 AM] ✅ accounts.txt updated — 1799 remaining
+[11:07:42 AM] 🗑️ Removed lobina154 (PROCESSED) from accounts.txt
+[11:07:42 AM] ✅ accounts.txt updated — 1798 remaining
+[11:08:04 AM] 🗑️ Removed lobinhafofa023 (PROCESSED) from accounts.txt
+[11:08:04 AM] ✅ accounts.txt updated — 1797 remaining
+[11:08:25 AM] 🗑️ Removed lobita11kl (PROCESSED) from accounts.txt
+[11:08:25 AM] ✅ accounts.txt updated — 1796 remaining
+[11:08:44 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:10:15 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:11:46 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[11:11:49 AM] 🗑️ Removed lobito10kl (PROCESSED) from accounts.txt
+[11:11:49 AM] ✅ accounts.txt updated — 1795 remaining
+[11:12:10 AM] 🗑️ Removed lobitakawii33 (PROCESSED) from accounts.txt
+[11:12:10 AM] ✅ accounts.txt updated — 1794 remaining
+[11:12:31 AM] 🗑️ Removed lobo31xp1 (PROCESSED) from accounts.txt
+[11:12:31 AM] ✅ accounts.txt updated — 1793 remaining
+[11:12:53 AM] 🗑️ Removed lobito8899 (PROCESSED) from accounts.txt
+[11:12:53 AM] ✅ accounts.txt updated — 1792 remaining
+[11:13:14 AM] 🗑️ Removed lobo31v39 (PROCESSED) from accounts.txt
+[11:13:14 AM] ✅ accounts.txt updated — 1791 remaining
+[11:13:35 AM] 🗑️ Removed lobitos132 (PROCESSED) from accounts.txt
+[11:13:35 AM] ✅ accounts.txt updated — 1790 remaining
+[11:13:57 AM] 🗑️ Removed lobo1011 (PROCESSED) from accounts.txt
+[11:13:57 AM] ✅ accounts.txt updated — 1789 remaining
+[11:14:18 AM] 🗑️ Removed loboalfa3 (PROCESSED) from accounts.txt
+[11:14:18 AM] ✅ accounts.txt updated — 1788 remaining
+[11:14:39 AM] 🗑️ Removed lobobo9 (PROCESSED) from accounts.txt
+[11:14:39 AM] ✅ accounts.txt updated — 1787 remaining
+[11:14:58 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:16:29 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:18:02 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[11:18:04 AM] 🗑️ Removed loboazul12 (PROCESSED) from accounts.txt
+[11:18:04 AM] ✅ accounts.txt updated — 1786 remaining
+[11:18:26 AM] 🗑️ Removed lobo31xp (PROCESSED) from accounts.txt
+[11:18:26 AM] ✅ accounts.txt updated — 1785 remaining
+[11:18:47 AM] 🗑️ Removed lobocoelho1 (PROCESSED) from accounts.txt
+[11:18:47 AM] ✅ accounts.txt updated — 1784 remaining
+[11:19:08 AM] 🗑️ Removed lobofeliz137 (PROCESSED) from accounts.txt
+[11:19:08 AM] ✅ accounts.txt updated — 1783 remaining
+[11:19:29 AM] 🗑️ Removed lobofantasma42 (PROCESSED) from accounts.txt
+[11:19:29 AM] ✅ accounts.txt updated — 1782 remaining
+[11:19:50 AM] 🗑️ Removed loboloco123 (PROCESSED) from accounts.txt
+[11:19:50 AM] ✅ accounts.txt updated — 1781 remaining
+[11:20:12 AM] 🗑️ Removed lobonick (PROCESSED) from accounts.txt
+[11:20:12 AM] ✅ accounts.txt updated — 1780 remaining
+[11:20:33 AM] 🗑️ Removed lobom65 (PROCESSED) from accounts.txt
+[11:20:33 AM] ✅ accounts.txt updated — 1779 remaining
+[11:20:52 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:22:23 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:23:54 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[11:23:57 AM] 🗑️ Removed lobouwu35 (PROCESSED) from accounts.txt
+[11:23:57 AM] ✅ accounts.txt updated — 1778 remaining
+[11:24:18 AM] 🗑️ Removed lobox45 (PROCESSED) from accounts.txt
+[11:24:18 AM] ✅ accounts.txt updated — 1777 remaining
+[11:24:39 AM] 🗑️ Removed lodas (PROCESSED) from accounts.txt
+[11:24:39 AM] ✅ accounts.txt updated — 1776 remaining
+[11:25:01 AM] 🗑️ Removed loganj15 (PROCESSED) from accounts.txt
+[11:25:01 AM] ✅ accounts.txt updated — 1775 remaining
+[11:25:22 AM] 🗑️ Removed lojlnuhykhj (PROCESSED) from accounts.txt
+[11:25:22 AM] ✅ accounts.txt updated — 1774 remaining
+[11:25:43 AM] 🗑️ Removed lol51313 (PROCESSED) from accounts.txt
+[11:25:43 AM] ✅ accounts.txt updated — 1773 remaining
+[11:26:05 AM] 🗑️ Removed lolbit161 (PROCESSED) from accounts.txt
+[11:26:05 AM] ✅ accounts.txt updated — 1772 remaining
+[11:26:26 AM] 🗑️ Removed lolamom4 (PROCESSED) from accounts.txt
+[11:26:26 AM] ✅ accounts.txt updated — 1771 remaining
+[11:26:45 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:28:16 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:29:47 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[11:29:50 AM] 🗑️ Removed lolalove46 (PROCESSED) from accounts.txt
+[11:29:50 AM] ✅ accounts.txt updated — 1770 remaining
+[11:30:11 AM] 🗑️ Removed lolalobo (PROCESSED) from accounts.txt
+[11:30:11 AM] ✅ accounts.txt updated — 1769 remaining
+[11:30:32 AM] 🗑️ Removed lolbitxox (PROCESSED) from accounts.txt
+[11:30:32 AM] ✅ accounts.txt updated — 1768 remaining
+[11:30:53 AM] 🗑️ Removed loldog16 (PROCESSED) from accounts.txt
+[11:30:53 AM] ✅ accounts.txt updated — 1767 remaining
+[11:31:14 AM] 🗑️ Removed lolis246 (PROCESSED) from accounts.txt
+[11:31:14 AM] ✅ accounts.txt updated — 1766 remaining
+[11:31:36 AM] 🗑️ Removed lolo97465 (PROCESSED) from accounts.txt
+[11:31:36 AM] ✅ accounts.txt updated — 1765 remaining
+[11:31:58 AM] 🗑️ Removed lolpopy3 (PROCESSED) from accounts.txt
+[11:31:58 AM] ✅ accounts.txt updated — 1764 remaining
+[11:32:20 AM] 🗑️ Removed lolorabbit (PROCESSED) from accounts.txt
+[11:32:20 AM] ✅ accounts.txt updated — 1763 remaining
+[11:32:41 AM] 🗑️ Removed lonewolfie15 (PROCESSED) from accounts.txt
+[11:32:41 AM] ✅ accounts.txt updated — 1762 remaining
+[11:32:59 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:34:31 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:36:02 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[11:36:04 AM] 🗑️ Removed lolz174 (PROCESSED) from accounts.txt
+[11:36:04 AM] ✅ accounts.txt updated — 1761 remaining
+[11:36:24 AM] 🗑️ Removed lomilomi (PROCESSED) from accounts.txt
+[11:36:24 AM] ✅ accounts.txt updated — 1760 remaining
+[11:36:46 AM] 🗑️ Removed loohoo15 (PROCESSED) from accounts.txt
+[11:36:46 AM] ✅ accounts.txt updated — 1759 remaining
+[11:37:07 AM] 🗑️ Removed loona107 (PROCESSED) from accounts.txt
+[11:37:07 AM] ✅ accounts.txt updated — 1758 remaining
+[11:37:27 AM] 🗑️ Removed loot105 (PROCESSED) from accounts.txt
+[11:37:27 AM] ✅ accounts.txt updated — 1757 remaining
+[11:37:48 AM] 🗑️ Removed lordelobo30 (PROCESSED) from accounts.txt
+[11:37:48 AM] ✅ accounts.txt updated — 1756 remaining
+[11:38:09 AM] 🗑️ Removed lorelisanabelle14 (PROCESSED) from accounts.txt
+[11:38:09 AM] ✅ accounts.txt updated — 1755 remaining
+[11:38:28 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:39:59 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[11:40:01 AM] 🗑️ Removed lorelisanabelle19 (PROCESSED) from accounts.txt
+[11:40:01 AM] ✅ accounts.txt updated — 1754 remaining
+[11:40:20 AM] 🗑️ Removed lorenagames3 (UNKNOWN_LOGIN_ERROR) from accounts.txt
+[11:40:20 AM] ✅ accounts.txt updated — 1753 remaining
+[11:40:31 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:42:02 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[11:42:04 AM] 🗑️ Removed lorenza47 (PROCESSED) from accounts.txt
+[11:42:04 AM] ✅ accounts.txt updated — 1752 remaining
+[11:42:26 AM] 🗑️ Removed loris15 (PROCESSED) from accounts.txt
+[11:42:26 AM] ✅ accounts.txt updated — 1751 remaining
+[11:42:47 AM] 🗑️ Removed lorenzgala (PROCESSED) from accounts.txt
+[11:42:47 AM] ✅ accounts.txt updated — 1750 remaining
+[11:43:08 AM] 🗑️ Removed lorosaplay145 (PROCESSED) from accounts.txt
+[11:43:08 AM] ✅ accounts.txt updated — 1749 remaining
+[11:43:29 AM] 🗑️ Removed losgeniales5 (PROCESSED) from accounts.txt
+[11:43:29 AM] ✅ accounts.txt updated — 1748 remaining
+[11:43:50 AM] 🗑️ Removed losmellis012 (PROCESSED) from accounts.txt
+[11:43:50 AM] ✅ accounts.txt updated — 1747 remaining
+[11:44:11 AM] 🗑️ Removed loupnou (PROCESSED) from accounts.txt
+[11:44:11 AM] ✅ accounts.txt updated — 1746 remaining
+[11:44:30 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:46:01 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[11:46:03 AM] 🗑️ Removed lou42 (PROCESSED) from accounts.txt
+[11:46:03 AM] ✅ accounts.txt updated — 1745 remaining
+[11:46:21 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:47:52 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[11:47:54 AM] 🗑️ Removed lourdes38 (PROCESSED) from accounts.txt
+[11:47:54 AM] ✅ accounts.txt updated — 1744 remaining
+[11:48:15 AM] 🗑️ Removed loveanimals7 (PROCESSED) from accounts.txt
+[11:48:15 AM] ✅ accounts.txt updated — 1743 remaining
+[11:48:36 AM] 🗑️ Removed lovebird91 (PROCESSED) from accounts.txt
+[11:48:36 AM] ✅ accounts.txt updated — 1742 remaining
+[11:48:57 AM] 🗑️ Removed lovebuns46 (PROCESSED) from accounts.txt
+[11:48:57 AM] ✅ accounts.txt updated — 1741 remaining
+[11:49:18 AM] 🗑️ Removed lovecats903 (PROCESSED) from accounts.txt
+[11:49:18 AM] ✅ accounts.txt updated — 1740 remaining
+[11:49:38 AM] 🗑️ Removed lovedog432 (PROCESSED) from accounts.txt
+[11:49:38 AM] ✅ accounts.txt updated — 1739 remaining
+[11:49:59 AM] 🗑️ Removed loveiscooly (PROCESSED) from accounts.txt
+[11:49:59 AM] ✅ accounts.txt updated — 1738 remaining
+[11:50:20 AM] 🗑️ Removed lovelies55 (PROCESSED) from accounts.txt
+[11:50:20 AM] ✅ accounts.txt updated — 1737 remaining
+[11:50:38 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:52:09 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:53:40 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[11:53:42 AM] 🗑️ Removed lovelove142 (PROCESSED) from accounts.txt
+[11:53:42 AM] ✅ accounts.txt updated — 1736 remaining
+[11:54:03 AM] 🗑️ Removed lover177 (PROCESSED) from accounts.txt
+[11:54:03 AM] ✅ accounts.txt updated — 1735 remaining
+[11:54:23 AM] 🗑️ Removed lovetatiana11 (PROCESSED) from accounts.txt
+[11:54:23 AM] ✅ accounts.txt updated — 1734 remaining
+[11:54:44 AM] 🗑️ Removed lovespae (PROCESSED) from accounts.txt
+[11:54:44 AM] ✅ accounts.txt updated — 1733 remaining
+[11:55:04 AM] 🗑️ Removed lovestoothless (PROCESSED) from accounts.txt
+[11:55:04 AM] ✅ accounts.txt updated — 1732 remaining
+[11:55:25 AM] 🗑️ Removed lovi2 (PROCESSED) from accounts.txt
+[11:55:25 AM] ✅ accounts.txt updated — 1731 remaining
+[11:55:46 AM] 🗑️ Removed loveze14 (PROCESSED) from accounts.txt
+[11:55:46 AM] ✅ accounts.txt updated — 1730 remaining
+[11:56:06 AM] 🗑️ Removed lovi51 (PROCESSED) from accounts.txt
+[11:56:06 AM] ✅ accounts.txt updated — 1729 remaining
+[11:56:27 AM] 🗑️ Removed lovitapinguina300 (PROCESSED) from accounts.txt
+[11:56:27 AM] ✅ accounts.txt updated — 1728 remaining
+[11:56:45 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:58:16 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:59:47 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[11:59:49 AM] 🗑️ Removed lovlybunny360 (PROCESSED) from accounts.txt
+[11:59:49 AM] ✅ accounts.txt updated — 1727 remaining
+[12:00:10 PM] 🗑️ Removed lovo400 (PROCESSED) from accounts.txt
+[12:00:10 PM] ✅ accounts.txt updated — 1726 remaining
+[12:00:31 PM] 🗑️ Removed lpsforeverxd24 (PROCESSED) from accounts.txt
+[12:00:31 PM] ✅ accounts.txt updated — 1725 remaining
+[12:00:52 PM] 🗑️ Removed lpsdebest (PROCESSED) from accounts.txt
+[12:00:52 PM] ✅ accounts.txt updated — 1724 remaining
+[12:01:13 PM] 🗑️ Removed lpswolfpup17 (PROCESSED) from accounts.txt
+[12:01:13 PM] ✅ accounts.txt updated — 1723 remaining
+[12:01:33 PM] 🗑️ Removed ltiger58 (PROCESSED) from accounts.txt
+[12:01:33 PM] ✅ accounts.txt updated — 1722 remaining
+[12:01:54 PM] 🗑️ Removed luaflor37 (PROCESSED) from accounts.txt
+[12:01:54 PM] ✅ accounts.txt updated — 1721 remaining
+[12:02:15 PM] 🗑️ Removed luadoceu18 (PROCESSED) from accounts.txt
+[12:02:15 PM] ✅ accounts.txt updated — 1720 remaining
+[12:02:34 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:04:05 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:05:36 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[12:05:38 PM] 🗑️ Removed luamoon40 (PROCESSED) from accounts.txt
+[12:05:38 PM] ✅ accounts.txt updated — 1719 remaining
+[12:05:58 PM] 🗑️ Removed lucasdasak (PROCESSED) from accounts.txt
+[12:05:58 PM] ✅ accounts.txt updated — 1718 remaining
+[12:06:19 PM] 🗑️ Removed lucas1075 (PROCESSED) from accounts.txt
+[12:06:19 PM] ✅ accounts.txt updated — 1717 remaining
+[12:06:40 PM] 🗑️ Removed lucasgamer156 (PROCESSED) from accounts.txt
+[12:06:40 PM] ✅ accounts.txt updated — 1716 remaining
+[12:07:00 PM] 🗑️ Removed lucasgabirel25q2 (PROCESSED) from accounts.txt
+[12:07:00 PM] ✅ accounts.txt updated — 1715 remaining
+[12:07:21 PM] 🗑️ Removed lucasgammer152 (PROCESSED) from accounts.txt
+[12:07:21 PM] ✅ accounts.txt updated — 1714 remaining
+[12:07:43 PM] 🗑️ Removed luchi20105 (PROCESSED) from accounts.txt
+[12:07:43 PM] ✅ accounts.txt updated — 1713 remaining
+[12:08:03 PM] 🗑️ Removed luci0000 (PROCESSED) from accounts.txt
+[12:08:03 PM] ✅ accounts.txt updated — 1712 remaining
+[12:08:22 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:09:53 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:11:24 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[12:11:26 PM] 🗑️ Removed lucia410 (PROCESSED) from accounts.txt
+[12:11:26 PM] ✅ accounts.txt updated — 1711 remaining
+[12:11:47 PM] 🗑️ Removed luci7y7 (PROCESSED) from accounts.txt
+[12:11:47 PM] ✅ accounts.txt updated — 1710 remaining
+[12:12:08 PM] 🗑️ Removed luciano9998 (PROCESSED) from accounts.txt
+[12:12:08 PM] ✅ accounts.txt updated — 1709 remaining
+[12:12:29 PM] 🗑️ Removed luciol64t (PROCESSED) from accounts.txt
+[12:12:29 PM] ✅ accounts.txt updated — 1708 remaining
+[12:12:49 PM] 🗑️ Removed luckasfalcao1 (PROCESSED) from accounts.txt
+[12:12:49 PM] ✅ accounts.txt updated — 1707 remaining
+[12:13:10 PM] 🗑️ Removed luckycutie107 (PROCESSED) from accounts.txt
+[12:13:10 PM] ✅ accounts.txt updated — 1706 remaining
+[12:13:31 PM] 🗑️ Removed luckystorm7 (PROCESSED) from accounts.txt
+[12:13:31 PM] ✅ accounts.txt updated — 1705 remaining
+[12:13:52 PM] 🗑️ Removed luckyyy2 (PROCESSED) from accounts.txt
+[12:13:52 PM] ✅ accounts.txt updated — 1704 remaining
+[12:14:10 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:15:41 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:17:12 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[12:17:14 PM] 🗑️ Removed luisana21 (PROCESSED) from accounts.txt
+[12:17:14 PM] ✅ accounts.txt updated — 1703 remaining
+[12:17:34 PM] 🗑️ Removed luisana152 (PROCESSED) from accounts.txt
+[12:17:34 PM] ✅ accounts.txt updated — 1702 remaining
+[12:17:55 PM] 🗑️ Removed luisfl (PROCESSED) from accounts.txt
+[12:17:55 PM] ✅ accounts.txt updated — 1701 remaining
+[12:18:16 PM] 🗑️ Removed lukecat (PROCESSED) from accounts.txt
+[12:18:16 PM] ✅ accounts.txt updated — 1700 remaining
+[12:18:37 PM] 🗑️ Removed luke55664 (PROCESSED) from accounts.txt
+[12:18:37 PM] ✅ accounts.txt updated — 1699 remaining
+[12:18:58 PM] 🗑️ Removed luizaplay11 (PROCESSED) from accounts.txt
+[12:18:58 PM] ✅ accounts.txt updated — 1698 remaining
+[12:19:19 PM] 🗑️ Removed luli09 (PROCESSED) from accounts.txt
+[12:19:19 PM] ✅ accounts.txt updated — 1697 remaining
+[12:19:40 PM] 🗑️ Removed lulu22395 (PROCESSED) from accounts.txt
+[12:19:40 PM] ✅ accounts.txt updated — 1696 remaining
+[12:20:01 PM] 🗑️ Removed lull8 (PROCESSED) from accounts.txt
+[12:20:01 PM] ✅ accounts.txt updated — 1695 remaining
+[12:20:20 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:21:51 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:23:22 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[12:23:25 PM] 🗑️ Removed lulu75856 (PROCESSED) from accounts.txt
+[12:23:25 PM] ✅ accounts.txt updated — 1694 remaining
+[12:23:46 PM] 🗑️ Removed lulu4123 (PROCESSED) from accounts.txt
+[12:23:46 PM] ✅ accounts.txt updated — 1693 remaining
+[12:24:07 PM] 🗑️ Removed lulu52568 (PROCESSED) from accounts.txt
+[12:24:07 PM] ✅ accounts.txt updated — 1692 remaining
+[12:24:28 PM] 🗑️ Removed lulu5564 (PROCESSED) from accounts.txt
+[12:24:28 PM] ✅ accounts.txt updated — 1691 remaining
+[12:24:49 PM] 🗑️ Removed lulu47597 (PROCESSED) from accounts.txt
+[12:24:49 PM] ✅ accounts.txt updated — 1690 remaining
+[12:25:10 PM] 🗑️ Removed lulusita22 (PROCESSED) from accounts.txt
+[12:25:10 PM] ✅ accounts.txt updated — 1689 remaining
+[12:25:32 PM] 🗑️ Removed lulusi9 (PROCESSED) from accounts.txt
+[12:25:32 PM] ✅ accounts.txt updated — 1688 remaining
+[12:25:54 PM] 🗑️ Removed lulumara (PROCESSED) from accounts.txt
+[12:25:54 PM] ✅ accounts.txt updated — 1687 remaining
+[12:26:13 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:27:44 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:29:15 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[12:29:17 PM] 🗑️ Removed lululabonitaxp (PROCESSED) from accounts.txt
+[12:29:17 PM] ✅ accounts.txt updated — 1686 remaining
+[12:29:39 PM] 🗑️ Removed lululoveca100 (PROCESSED) from accounts.txt
+[12:29:39 PM] ✅ accounts.txt updated — 1685 remaining
+[12:30:00 PM] 🗑️ Removed luna0328 (PROCESSED) from accounts.txt
+[12:30:00 PM] ✅ accounts.txt updated — 1684 remaining
+[12:30:22 PM] 🗑️ Removed lumatalia (PROCESSED) from accounts.txt
+[12:30:22 PM] ✅ accounts.txt updated — 1683 remaining
+[12:30:44 PM] 🗑️ Removed luluzinhagamerplay10 (PROCESSED) from accounts.txt
+[12:30:44 PM] ✅ accounts.txt updated — 1682 remaining
+[12:31:05 PM] 🗑️ Removed luluzinha157 (PROCESSED) from accounts.txt
+[12:31:05 PM] ✅ accounts.txt updated — 1681 remaining
+[12:31:27 PM] 🗑️ Removed luna7106 (PROCESSED) from accounts.txt
+[12:31:27 PM] ✅ accounts.txt updated — 1680 remaining
+[12:31:48 PM] 🗑️ Removed luna290 (PROCESSED) from accounts.txt
+[12:31:48 PM] ✅ accounts.txt updated — 1679 remaining
+[12:32:07 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:33:38 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:35:09 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[12:35:12 PM] 🗑️ Removed luna12798 (PROCESSED) from accounts.txt
+[12:35:12 PM] ✅ accounts.txt updated — 1678 remaining
+[12:35:33 PM] 🗑️ Removed luna7459 (PROCESSED) from accounts.txt
+[12:35:33 PM] ✅ accounts.txt updated — 1677 remaining
+[12:35:55 PM] 🗑️ Removed lunaadora22 (PROCESSED) from accounts.txt
+[12:35:55 PM] ✅ accounts.txt updated — 1676 remaining
+[12:36:17 PM] 🗑️ Removed lunaazul0 (PROCESSED) from accounts.txt
+[12:36:17 PM] ✅ accounts.txt updated — 1675 remaining
+[12:36:39 PM] 🗑️ Removed lunagirl147 (PROCESSED) from accounts.txt
+[12:36:39 PM] ✅ accounts.txt updated — 1674 remaining
+[12:37:00 PM] 🗑️ Removed lunaclaw22 (PROCESSED) from accounts.txt
+[12:37:00 PM] ✅ accounts.txt updated — 1673 remaining
+[12:37:22 PM] 🗑️ Removed lunaconfeti (PROCESSED) from accounts.txt
+[12:37:22 PM] ✅ accounts.txt updated — 1672 remaining
+[12:37:43 PM] 🗑️ Removed lunalulu3390 (PROCESSED) from accounts.txt
+[12:37:43 PM] ✅ accounts.txt updated — 1671 remaining
+[12:38:04 PM] 🗑️ Removed lunalobo34 (PROCESSED) from accounts.txt
+[12:38:04 PM] ✅ accounts.txt updated — 1670 remaining
+[12:38:23 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:39:55 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:41:26 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[12:41:28 PM] 🗑️ Removed lunamoon3619 (PROCESSED) from accounts.txt
+[12:41:28 PM] ✅ accounts.txt updated — 1669 remaining
+[12:41:49 PM] 🗑️ Removed lunamoon12345678910g (PROCESSED) from accounts.txt
+[12:41:49 PM] ✅ accounts.txt updated — 1668 remaining
+[12:42:11 PM] 🗑️ Removed lunamoon7321 (PROCESSED) from accounts.txt
+[12:42:11 PM] ✅ accounts.txt updated — 1667 remaining
+[12:42:31 PM] 🗑️ Removed lunamoon73210 (PROCESSED) from accounts.txt
+[12:42:31 PM] ✅ accounts.txt updated — 1666 remaining
+[12:42:53 PM] 🗑️ Removed lunamoon085 (PROCESSED) from accounts.txt
+[12:42:53 PM] ✅ accounts.txt updated — 1665 remaining
+[12:43:15 PM] 🗑️ Removed lunamoon741 (PROCESSED) from accounts.txt
+[12:43:15 PM] ✅ accounts.txt updated — 1664 remaining
+[12:43:37 PM] 🗑️ Removed lunamoon8569 (PROCESSED) from accounts.txt
+[12:43:37 PM] ✅ accounts.txt updated — 1663 remaining
+[12:43:58 PM] 🗑️ Removed lunamoon8765 (PROCESSED) from accounts.txt
+[12:43:58 PM] ✅ accounts.txt updated — 1662 remaining
+[12:44:17 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:45:49 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:47:20 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[12:47:22 PM] 🗑️ Removed lunamoon7432 (PROCESSED) from accounts.txt
+[12:47:22 PM] ✅ accounts.txt updated — 1661 remaining
+[12:47:43 PM] 🗑️ Removed lunamoon758 (PROCESSED) from accounts.txt
+[12:47:43 PM] ✅ accounts.txt updated — 1660 remaining
+[12:48:04 PM] 🗑️ Removed lunatica166 (PROCESSED) from accounts.txt
+[12:48:04 PM] ✅ accounts.txt updated — 1659 remaining
+[12:48:25 PM] 🗑️ Removed lunatheuppiepuppy (PROCESSED) from accounts.txt
+[12:48:25 PM] ✅ accounts.txt updated — 1658 remaining
+[12:48:46 PM] 🗑️ Removed lunaysol0 (PROCESSED) from accounts.txt
+[12:48:46 PM] ✅ accounts.txt updated — 1657 remaining
+[12:49:07 PM] 🗑️ Removed luninha005 (PROCESSED) from accounts.txt
+[12:49:07 PM] ✅ accounts.txt updated — 1656 remaining
+[12:49:29 PM] 🗑️ Removed lunnbhbjbjd (PROCESSED) from accounts.txt
+[12:49:29 PM] ✅ accounts.txt updated — 1655 remaining
+[12:49:50 PM] 🗑️ Removed lusiano19 (PROCESSED) from accounts.txt
+[12:49:50 PM] ✅ accounts.txt updated — 1654 remaining
+[12:50:12 PM] 🗑️ Removed lusiano11 (PROCESSED) from accounts.txt
+[12:50:12 PM] ✅ accounts.txt updated — 1653 remaining
+[12:50:31 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:52:02 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:53:34 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[12:53:36 PM] 🗑️ Removed lututi (PROCESSED) from accounts.txt
+[12:53:36 PM] ✅ accounts.txt updated — 1652 remaining
+[12:53:58 PM] 🗑️ Removed luv156 (PROCESSED) from accounts.txt
+[12:53:58 PM] ✅ accounts.txt updated — 1651 remaining
+[12:54:19 PM] 🗑️ Removed luz246 (PROCESSED) from accounts.txt
+[12:54:19 PM] ✅ accounts.txt updated — 1650 remaining
+[12:54:41 PM] 🗑️ Removed luz41214si (PROCESSED) from accounts.txt
+[12:54:41 PM] ✅ accounts.txt updated — 1649 remaining
+[12:55:03 PM] 🗑️ Removed lwo10 (PROCESSED) from accounts.txt
+[12:55:03 PM] ✅ accounts.txt updated — 1648 remaining
+[12:55:24 PM] 🗑️ Removed lydiacat343 (PROCESSED) from accounts.txt
+[12:55:24 PM] ✅ accounts.txt updated — 1647 remaining
+[12:55:45 PM] 🗑️ Removed lxgiwyl3 (PROCESSED) from accounts.txt
+[12:55:45 PM] ✅ accounts.txt updated — 1646 remaining
+[12:56:07 PM] 🗑️ Removed lxlenylxl (PROCESSED) from accounts.txt
+[12:56:07 PM] ✅ accounts.txt updated — 1645 remaining
+[12:56:28 PM] 🗑️ Removed lyka94 (PROCESSED) from accounts.txt
+[12:56:28 PM] ✅ accounts.txt updated — 1644 remaining
+[12:56:47 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:58:19 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:59:51 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[12:59:53 PM] 🗑️ Removed lylab7 (PROCESSED) from accounts.txt
+[12:59:53 PM] ✅ accounts.txt updated — 1643 remaining
+[1:00:14 PM] 🗑️ Removed lylli59 (PROCESSED) from accounts.txt
+[1:00:14 PM] ✅ accounts.txt updated — 1642 remaining
+[1:00:36 PM] 🗑️ Removed lylia57 (PROCESSED) from accounts.txt
+[1:00:36 PM] ✅ accounts.txt updated — 1641 remaining
+[1:00:57 PM] 🗑️ Removed lyna2343 (PROCESSED) from accounts.txt
+[1:00:57 PM] ✅ accounts.txt updated — 1640 remaining
+[1:01:19 PM] 🗑️ Removed lyna273 (PROCESSED) from accounts.txt
+[1:01:19 PM] ✅ accounts.txt updated — 1639 remaining
+[1:01:40 PM] 🗑️ Removed lyna181 (PROCESSED) from accounts.txt
+[1:01:40 PM] ✅ accounts.txt updated — 1638 remaining
+[1:02:02 PM] 🗑️ Removed macapaca8 (PROCESSED) from accounts.txt
+[1:02:02 PM] ✅ accounts.txt updated — 1637 remaining
+[1:02:23 PM] 🗑️ Removed macatac70 (PROCESSED) from accounts.txt
+[1:02:23 PM] ✅ accounts.txt updated — 1636 remaining
+[1:02:44 PM] 🗑️ Removed machai6 (PROCESSED) from accounts.txt
+[1:02:44 PM] ✅ accounts.txt updated — 1635 remaining
+[1:03:03 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:04:35 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:06:07 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:06:09 PM] 🗑️ Removed mack53 (PROCESSED) from accounts.txt
+[1:06:09 PM] ✅ accounts.txt updated — 1634 remaining
+[1:06:30 PM] 🗑️ Removed macatac (PROCESSED) from accounts.txt
+[1:06:30 PM] ✅ accounts.txt updated — 1633 remaining
+[1:06:52 PM] 🗑️ Removed macsimus (PROCESSED) from accounts.txt
+[1:06:52 PM] ✅ accounts.txt updated — 1632 remaining
+[1:07:13 PM] 🗑️ Removed maddie7665 (PROCESSED) from accounts.txt
+[1:07:13 PM] ✅ accounts.txt updated — 1631 remaining
+[1:07:34 PM] 🗑️ Removed maddi109 (PROCESSED) from accounts.txt
+[1:07:34 PM] ✅ accounts.txt updated — 1630 remaining
+[1:07:56 PM] 🗑️ Removed madelaine (PROCESSED) from accounts.txt
+[1:07:56 PM] ✅ accounts.txt updated — 1629 remaining
+[1:08:17 PM] 🗑️ Removed maddogpupcat (PROCESSED) from accounts.txt
+[1:08:17 PM] ✅ accounts.txt updated — 1628 remaining
+[1:08:39 PM] 🗑️ Removed maddiescool87 (PROCESSED) from accounts.txt
+[1:08:39 PM] ✅ accounts.txt updated — 1627 remaining
+[1:09:00 PM] 🗑️ Removed maddygirl23 (PROCESSED) from accounts.txt
+[1:09:00 PM] ✅ accounts.txt updated — 1626 remaining
+[1:09:19 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:10:51 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:12:23 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:12:25 PM] 🗑️ Removed madhatteralice (PROCESSED) from accounts.txt
+[1:12:25 PM] ✅ accounts.txt updated — 1625 remaining
+[1:12:46 PM] 🗑️ Removed madipandas299 (PROCESSED) from accounts.txt
+[1:12:46 PM] ✅ accounts.txt updated — 1624 remaining
+[1:13:07 PM] 🗑️ Removed madisonpet2 (PROCESSED) from accounts.txt
+[1:13:07 PM] ✅ accounts.txt updated — 1623 remaining
+[1:13:30 PM] 🗑️ Removed maf25 (PROCESSED) from accounts.txt
+[1:13:30 PM] ✅ accounts.txt updated — 1622 remaining
+[1:13:51 PM] 🗑️ Removed mafe1116 (PROCESSED) from accounts.txt
+[1:13:51 PM] ✅ accounts.txt updated — 1621 remaining
+[1:14:12 PM] 🗑️ Removed mafs0105 (PROCESSED) from accounts.txt
+[1:14:12 PM] ✅ accounts.txt updated — 1620 remaining
+[1:14:33 PM] 🗑️ Removed magic464 (PROCESSED) from accounts.txt
+[1:14:33 PM] ✅ accounts.txt updated — 1619 remaining
+[1:14:55 PM] 🗑️ Removed magichollowtree (PROCESSED) from accounts.txt
+[1:14:55 PM] ✅ accounts.txt updated — 1618 remaining
+[1:15:16 PM] 🗑️ Removed magoclow4 (PROCESSED) from accounts.txt
+[1:15:16 PM] ✅ accounts.txt updated — 1617 remaining
+[1:15:37 PM] 🗑️ Removed maglasang8 (PROCESSED) from accounts.txt
+[1:15:37 PM] ✅ accounts.txt updated — 1616 remaining
+[1:15:59 PM] 🗑️ Removed maia44k (PROCESSED) from accounts.txt
+[1:15:59 PM] ✅ accounts.txt updated — 1615 remaining
+[1:16:18 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:17:49 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:19:22 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:19:24 PM] 🗑️ Removed mahihi (PROCESSED) from accounts.txt
+[1:19:24 PM] ✅ accounts.txt updated — 1614 remaining
+[1:19:45 PM] 🗑️ Removed maicougamer2019 (PROCESSED) from accounts.txt
+[1:19:45 PM] ✅ accounts.txt updated — 1613 remaining
+[1:20:06 PM] 🗑️ Removed maialen36 (PROCESSED) from accounts.txt
+[1:20:06 PM] ✅ accounts.txt updated — 1612 remaining
+[1:20:28 PM] 🗑️ Removed maic99 (PROCESSED) from accounts.txt
+[1:20:28 PM] ✅ accounts.txt updated — 1611 remaining
+[1:20:49 PM] 🗑️ Removed maika145 (PROCESSED) from accounts.txt
+[1:20:49 PM] ✅ accounts.txt updated — 1610 remaining
+[1:21:11 PM] 🗑️ Removed maiapandora (PROCESSED) from accounts.txt
+[1:21:11 PM] ✅ accounts.txt updated — 1609 remaining
+[1:21:32 PM] 🗑️ Removed mailo27 (PROCESSED) from accounts.txt
+[1:21:32 PM] ✅ accounts.txt updated — 1608 remaining
+[1:21:54 PM] 🗑️ Removed maiumy3 (PROCESSED) from accounts.txt
+[1:21:54 PM] ✅ accounts.txt updated — 1607 remaining
+[1:22:15 PM] 🗑️ Removed majo465 (PROCESSED) from accounts.txt
+[1:22:15 PM] ✅ accounts.txt updated — 1606 remaining
+[1:22:34 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:24:06 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:25:38 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:25:41 PM] 🗑️ Removed maisymoopants (PROCESSED) from accounts.txt
+[1:25:41 PM] ✅ accounts.txt updated — 1605 remaining
+[1:26:02 PM] 🗑️ Removed mak129 (PROCESSED) from accounts.txt
+[1:26:02 PM] ✅ accounts.txt updated — 1604 remaining
+[1:26:23 PM] 🗑️ Removed majors9 (PROCESSED) from accounts.txt
+[1:26:23 PM] ✅ accounts.txt updated — 1603 remaining
+[1:26:45 PM] 🗑️ Removed maknae45 (PROCESSED) from accounts.txt
+[1:26:45 PM] ✅ accounts.txt updated — 1602 remaining
+[1:27:06 PM] 🗑️ Removed makomermaid2 (PROCESSED) from accounts.txt
+[1:27:06 PM] ✅ accounts.txt updated — 1601 remaining
+[1:27:28 PM] 🗑️ Removed male340 (PROCESSED) from accounts.txt
+[1:27:28 PM] ✅ accounts.txt updated — 1600 remaining
+[1:27:49 PM] 🗑️ Removed malucha0 (PROCESSED) from accounts.txt
+[1:27:49 PM] ✅ accounts.txt updated — 1599 remaining
+[1:28:11 PM] 🗑️ Removed malucha23 (PROCESSED) from accounts.txt
+[1:28:11 PM] ✅ accounts.txt updated — 1598 remaining
+[1:28:31 PM] 🗑️ Removed malvada29 (UNKNOWN_LOGIN_ERROR) from accounts.txt
+[1:28:31 PM] ✅ accounts.txt updated — 1597 remaining
+[1:28:42 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:30:13 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:31:45 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:31:47 PM] 🗑️ Removed malucha3 (PROCESSED) from accounts.txt
+[1:31:47 PM] ✅ accounts.txt updated — 1596 remaining
+[1:32:09 PM] 🗑️ Removed mane68 (PROCESSED) from accounts.txt
+[1:32:09 PM] ✅ accounts.txt updated — 1595 remaining
+[1:32:30 PM] 🗑️ Removed manchu78 (PROCESSED) from accounts.txt
+[1:32:30 PM] ✅ accounts.txt updated — 1594 remaining
+[1:32:52 PM] 🗑️ Removed mand12345 (PROCESSED) from accounts.txt
+[1:32:52 PM] ✅ accounts.txt updated — 1593 remaining
+[1:33:14 PM] 🗑️ Removed mangal49 (PROCESSED) from accounts.txt
+[1:33:14 PM] ✅ accounts.txt updated — 1592 remaining
+[1:33:35 PM] 🗑️ Removed mangle7w7nn (PROCESSED) from accounts.txt
+[1:33:35 PM] ✅ accounts.txt updated — 1591 remaining
+[1:33:57 PM] 🗑️ Removed mangle6721 (PROCESSED) from accounts.txt
+[1:33:57 PM] ✅ accounts.txt updated — 1590 remaining
+[1:34:19 PM] 🗑️ Removed mangleanimatronic50 (PROCESSED) from accounts.txt
+[1:34:19 PM] ✅ accounts.txt updated — 1589 remaining
+[1:34:41 PM] 🗑️ Removed manglefox28 (PROCESSED) from accounts.txt
+[1:34:41 PM] ✅ accounts.txt updated — 1588 remaining
+[1:35:03 PM] 🗑️ Removed mannymoney34 (PROCESSED) from accounts.txt
+[1:35:03 PM] ✅ accounts.txt updated — 1587 remaining
+[1:35:21 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:36:53 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:38:25 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:38:27 PM] 🗑️ Removed manglelove92 (PROCESSED) from accounts.txt
+[1:38:27 PM] ✅ accounts.txt updated — 1586 remaining
+[1:38:48 PM] 🗑️ Removed mangofelaeno (PROCESSED) from accounts.txt
+[1:38:48 PM] ✅ accounts.txt updated — 1585 remaining
+[1:39:10 PM] 🗑️ Removed manrique10 (PROCESSED) from accounts.txt
+[1:39:10 PM] ✅ accounts.txt updated — 1584 remaining
+[1:39:31 PM] 🗑️ Removed manojee2005 (PROCESSED) from accounts.txt
+[1:39:31 PM] ✅ accounts.txt updated — 1583 remaining
+[1:39:53 PM] 🗑️ Removed manuelbum (PROCESSED) from accounts.txt
+[1:39:53 PM] ✅ accounts.txt updated — 1582 remaining
+[1:40:15 PM] 🗑️ Removed manub36 (PROCESSED) from accounts.txt
+[1:40:15 PM] ✅ accounts.txt updated — 1581 remaining
+[1:40:36 PM] 🗑️ Removed manuela5856 (PROCESSED) from accounts.txt
+[1:40:36 PM] ✅ accounts.txt updated — 1580 remaining
+[1:40:58 PM] 🗑️ Removed manufofa115 (PROCESSED) from accounts.txt
+[1:40:58 PM] ✅ accounts.txt updated — 1579 remaining
+[1:41:16 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:42:48 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:44:20 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:45:52 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:45:54 PM] 🗑️ Removed manuelvs10 (PROCESSED) from accounts.txt
+[1:45:54 PM] ✅ accounts.txt updated — 1578 remaining
+[1:46:12 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:47:45 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:47:47 PM] 🗑️ Removed mapache129 (PROCESSED) from accounts.txt
+[1:47:47 PM] ✅ accounts.txt updated — 1577 remaining
+[1:48:06 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:49:37 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:51:09 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:52:41 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:52:43 PM] 🗑️ Removed mapache56 (PROCESSED) from accounts.txt
+[1:52:43 PM] ✅ accounts.txt updated — 1576 remaining
+[1:53:05 PM] 🗑️ Removed mapache52 (PROCESSED) from accounts.txt
+[1:53:05 PM] ✅ accounts.txt updated — 1575 remaining
+[1:53:24 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:54:55 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:54:58 PM] 🗑️ Removed manyamaze (PROCESSED) from accounts.txt
+[1:54:58 PM] ✅ accounts.txt updated — 1574 remaining
+[1:55:19 PM] 🗑️ Removed maplesyrup13 (PROCESSED) from accounts.txt
+[1:55:19 PM] ✅ accounts.txt updated — 1573 remaining
+[1:55:38 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:57:09 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:58:41 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:58:43 PM] 🗑️ Removed mapache67 (PROCESSED) from accounts.txt
+[1:58:43 PM] ✅ accounts.txt updated — 1572 remaining
+[1:59:05 PM] 🗑️ Removed mar902 (PROCESSED) from accounts.txt
+[1:59:05 PM] ✅ accounts.txt updated — 1571 remaining
+[1:59:26 PM] 🗑️ Removed mapleshade139 (PROCESSED) from accounts.txt
+[1:59:26 PM] ✅ accounts.txt updated — 1570 remaining
+[1:59:48 PM] 🗑️ Removed marce1o (PROCESSED) from accounts.txt
+[1:59:48 PM] ✅ accounts.txt updated — 1569 remaining
+[2:00:09 PM] 🗑️ Removed marbear8 (PROCESSED) from accounts.txt
+[2:00:09 PM] ✅ accounts.txt updated — 1568 remaining
+[2:00:31 PM] 🗑️ Removed marcelof33 (PROCESSED) from accounts.txt
+[2:00:31 PM] ✅ accounts.txt updated — 1567 remaining
+[2:00:52 PM] 🗑️ Removed marcogame30 (PROCESSED) from accounts.txt
+[2:00:52 PM] ✅ accounts.txt updated — 1566 remaining
+[2:01:13 PM] 🗑️ Removed marepip (PROCESSED) from accounts.txt
+[2:01:13 PM] ✅ accounts.txt updated — 1565 remaining
+[2:01:32 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:03:03 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:04:35 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:06:07 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:06:09 PM] 🗑️ Removed margaretteluvv (PROCESSED) from accounts.txt
+[2:06:09 PM] ✅ accounts.txt updated — 1564 remaining
+[2:06:31 PM] 🗑️ Removed mari12p (PROCESSED) from accounts.txt
+[2:06:31 PM] ✅ accounts.txt updated — 1563 remaining
+[2:06:52 PM] 🗑️ Removed mariaalejandra9 (PROCESSED) from accounts.txt
+[2:06:52 PM] ✅ accounts.txt updated — 1562 remaining
+[2:07:14 PM] 🗑️ Removed mariafofisavaplay (PROCESSED) from accounts.txt
+[2:07:14 PM] ✅ accounts.txt updated — 1561 remaining
+[2:07:35 PM] 🗑️ Removed mariaedu1214 (PROCESSED) from accounts.txt
+[2:07:35 PM] ✅ accounts.txt updated — 1560 remaining
+[2:07:56 PM] 🗑️ Removed mariaelisabethraposa (PROCESSED) from accounts.txt
+[2:07:56 PM] ✅ accounts.txt updated — 1559 remaining
+[2:08:18 PM] 🗑️ Removed marialuz2000 (PROCESSED) from accounts.txt
+[2:08:18 PM] ✅ accounts.txt updated — 1558 remaining
+[2:08:40 PM] 🗑️ Removed mariamar2 (PROCESSED) from accounts.txt
+[2:08:40 PM] ✅ accounts.txt updated — 1557 remaining
+[2:09:01 PM] 🗑️ Removed marianajp7 (PROCESSED) from accounts.txt
+[2:09:01 PM] ✅ accounts.txt updated — 1556 remaining
+[2:09:20 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:10:52 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:12:24 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:12:25 PM] 🗑️ Removed mariangysjiro1 (PROCESSED) from accounts.txt
+[2:12:25 PM] ✅ accounts.txt updated — 1555 remaining
+[2:12:47 PM] 🗑️ Removed mariangel25 (PROCESSED) from accounts.txt
+[2:12:47 PM] ✅ accounts.txt updated — 1554 remaining
+[2:13:08 PM] 🗑️ Removed mariangysnicol (PROCESSED) from accounts.txt
+[2:13:08 PM] ✅ accounts.txt updated — 1553 remaining
+[2:13:30 PM] 🗑️ Removed mariavioleta (PROCESSED) from accounts.txt
+[2:13:30 PM] ✅ accounts.txt updated — 1552 remaining
+[2:13:51 PM] 🗑️ Removed maribe744l (PROCESSED) from accounts.txt
+[2:13:51 PM] ✅ accounts.txt updated — 1551 remaining
+[2:14:12 PM] 🗑️ Removed marias96 (PROCESSED) from accounts.txt
+[2:14:12 PM] ✅ accounts.txt updated — 1550 remaining
+[2:14:34 PM] 🗑️ Removed mariexx (PROCESSED) from accounts.txt
+[2:14:34 PM] ✅ accounts.txt updated — 1549 remaining
+[2:14:56 PM] 🗑️ Removed mariii003 (PROCESSED) from accounts.txt
+[2:14:56 PM] ✅ accounts.txt updated — 1548 remaining
+[2:15:17 PM] 🗑️ Removed marimeg9 (PROCESSED) from accounts.txt
+[2:15:17 PM] ✅ accounts.txt updated — 1547 remaining
+[2:15:37 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:17:08 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:18:40 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:18:42 PM] 🗑️ Removed marina0985 (PROCESSED) from accounts.txt
+[2:18:42 PM] ✅ accounts.txt updated — 1546 remaining
+[2:19:03 PM] 🗑️ Removed mario8321 (PROCESSED) from accounts.txt
+[2:19:03 PM] ✅ accounts.txt updated — 1545 remaining
+[2:19:25 PM] 🗑️ Removed mario7321 (PROCESSED) from accounts.txt
+[2:19:25 PM] ✅ accounts.txt updated — 1544 remaining
+[2:19:46 PM] 🗑️ Removed mario53217 (PROCESSED) from accounts.txt
+[2:19:46 PM] ✅ accounts.txt updated — 1543 remaining
+[2:20:07 PM] 🗑️ Removed mariocg7 (PROCESSED) from accounts.txt
+[2:20:07 PM] ✅ accounts.txt updated — 1542 remaining
+[2:20:28 PM] 🗑️ Removed mariocool2135 (PROCESSED) from accounts.txt
+[2:20:28 PM] ✅ accounts.txt updated — 1541 remaining
+[2:20:47 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:22:19 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:23:51 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:23:53 PM] 🗑️ Removed mariokart46 (PROCESSED) from accounts.txt
+[2:23:53 PM] ✅ accounts.txt updated — 1540 remaining
+[2:24:12 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:25:44 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:25:47 PM] 🗑️ Removed marisol1234 (PROCESSED) from accounts.txt
+[2:25:47 PM] ✅ accounts.txt updated — 1539 remaining
+[2:26:08 PM] 🗑️ Removed marissa06 (PROCESSED) from accounts.txt
+[2:26:08 PM] ✅ accounts.txt updated — 1538 remaining
+[2:26:29 PM] 🗑️ Removed markiel23 (PROCESSED) from accounts.txt
+[2:26:29 PM] ✅ accounts.txt updated — 1537 remaining
+[2:26:50 PM] 🗑️ Removed marlei10coolgirl (PROCESSED) from accounts.txt
+[2:26:50 PM] ✅ accounts.txt updated — 1536 remaining
+[2:27:09 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:28:41 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:28:43 PM] 🗑️ Removed marlene21ssj (PROCESSED) from accounts.txt
+[2:28:43 PM] ✅ accounts.txt updated — 1535 remaining
+[2:29:05 PM] 🗑️ Removed marlongb (PROCESSED) from accounts.txt
+[2:29:05 PM] ✅ accounts.txt updated — 1534 remaining
+[2:29:27 PM] 🗑️ Removed marlon89s (PROCESSED) from accounts.txt
+[2:29:27 PM] ✅ accounts.txt updated — 1533 remaining
+[2:29:48 PM] 🗑️ Removed marleyrose9 (PROCESSED) from accounts.txt
+[2:29:48 PM] ✅ accounts.txt updated — 1532 remaining
+[2:30:07 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:31:39 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:31:41 PM] 🗑️ Removed marlowm (PROCESSED) from accounts.txt
+[2:31:41 PM] ✅ accounts.txt updated — 1531 remaining
+[2:32:02 PM] 🗑️ Removed marmito03 (PROCESSED) from accounts.txt
+[2:32:02 PM] ✅ accounts.txt updated — 1530 remaining
+[2:32:23 PM] 🗑️ Removed marti20098 (PROCESSED) from accounts.txt
+[2:32:23 PM] ✅ accounts.txt updated — 1529 remaining
+[2:32:45 PM] 🗑️ Removed martinanicol13 (PROCESSED) from accounts.txt
+[2:32:45 PM] ✅ accounts.txt updated — 1528 remaining
+[2:33:04 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:34:36 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:34:38 PM] 🗑️ Removed martu7307 (PROCESSED) from accounts.txt
+[2:34:38 PM] ✅ accounts.txt updated — 1527 remaining
+[2:34:59 PM] 🗑️ Removed martudenarda10 (PROCESSED) from accounts.txt
+[2:34:59 PM] ✅ accounts.txt updated — 1526 remaining
+[2:35:21 PM] 🗑️ Removed mastercool101 (PROCESSED) from accounts.txt
+[2:35:21 PM] ✅ accounts.txt updated — 1525 remaining
+[2:35:42 PM] 🗑️ Removed mastbury44 (PROCESSED) from accounts.txt
+[2:35:42 PM] ✅ accounts.txt updated — 1524 remaining
+[2:36:03 PM] 🗑️ Removed matanceros (PROCESSED) from accounts.txt
+[2:36:03 PM] ✅ accounts.txt updated — 1523 remaining
+[2:36:22 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:37:54 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:37:56 PM] 🗑️ Removed matheuzkidbr (PROCESSED) from accounts.txt
+[2:37:56 PM] ✅ accounts.txt updated — 1522 remaining
+[2:38:17 PM] 🗑️ Removed mathias1236 (PROCESSED) from accounts.txt
+[2:38:17 PM] ✅ accounts.txt updated — 1521 remaining
+[2:38:38 PM] 🗑️ Removed matheus21365 (PROCESSED) from accounts.txt
+[2:38:38 PM] ✅ accounts.txt updated — 1520 remaining
+[2:38:57 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:40:29 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:40:31 PM] 🗑️ Removed matheusgt50 (PROCESSED) from accounts.txt
+[2:40:31 PM] ✅ accounts.txt updated — 1519 remaining
+[2:40:52 PM] 🗑️ Removed matias3101 (PROCESSED) from accounts.txt
+[2:40:52 PM] ✅ accounts.txt updated — 1518 remaining
+[2:41:13 PM] 🗑️ Removed mati1122pro (PROCESSED) from accounts.txt
+[2:41:13 PM] ✅ accounts.txt updated — 1517 remaining
+[2:41:34 PM] 🗑️ Removed mathilde62 (PROCESSED) from accounts.txt
+[2:41:34 PM] ✅ accounts.txt updated — 1516 remaining
+[2:41:55 PM] 🗑️ Removed matipro75 (PROCESSED) from accounts.txt
+[2:41:55 PM] ✅ accounts.txt updated — 1515 remaining
+[2:42:17 PM] 🗑️ Removed matildagg (PROCESSED) from accounts.txt
+[2:42:17 PM] ✅ accounts.txt updated — 1514 remaining
+[2:42:36 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:44:08 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:44:10 PM] 🗑️ Removed matu197 (PROCESSED) from accounts.txt
+[2:44:10 PM] ✅ accounts.txt updated — 1513 remaining
+[2:44:32 PM] 🗑️ Removed matthew2006 (PROCESSED) from accounts.txt
+[2:44:32 PM] ✅ accounts.txt updated — 1512 remaining
+[2:44:53 PM] 🗑️ Removed maupka (PROCESSED) from accounts.txt
+[2:44:53 PM] ✅ accounts.txt updated — 1511 remaining
+[2:45:12 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:46:44 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:46:46 PM] 🗑️ Removed max7722 (PROCESSED) from accounts.txt
+[2:46:46 PM] ✅ accounts.txt updated — 1510 remaining
+[2:47:07 PM] 🗑️ Removed maxi7771 (PROCESSED) from accounts.txt
+[2:47:07 PM] ✅ accounts.txt updated — 1509 remaining
+[2:47:29 PM] 🗑️ Removed maxi79661 (PROCESSED) from accounts.txt
+[2:47:29 PM] ✅ accounts.txt updated — 1508 remaining
+[2:47:50 PM] 🗑️ Removed maxday22 (PROCESSED) from accounts.txt
+[2:47:50 PM] ✅ accounts.txt updated — 1507 remaining
+[2:48:11 PM] 🗑️ Removed maxolanul134 (PROCESSED) from accounts.txt
+[2:48:11 PM] ✅ accounts.txt updated — 1506 remaining
+[2:48:31 PM] 🗑️ Removed maxyyyyyy (UNKNOWN_LOGIN_ERROR) from accounts.txt
+[2:48:31 PM] ✅ accounts.txt updated — 1505 remaining
+[2:48:42 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:50:13 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:50:16 PM] 🗑️ Removed mayahalex (PROCESSED) from accounts.txt
+[2:50:16 PM] ✅ accounts.txt updated — 1504 remaining
+[2:50:37 PM] 🗑️ Removed mayacat2011 (PROCESSED) from accounts.txt
+[2:50:37 PM] ✅ accounts.txt updated — 1503 remaining
+[2:50:58 PM] 🗑️ Removed mbkft7 (PROCESSED) from accounts.txt
+[2:50:58 PM] ✅ accounts.txt updated — 1502 remaining
+[2:51:17 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:52:49 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:52:51 PM] 🗑️ Removed mazey8 (PROCESSED) from accounts.txt
+[2:52:51 PM] ✅ accounts.txt updated — 1501 remaining
+[2:53:12 PM] 🗑️ Removed mazy1248 (PROCESSED) from accounts.txt
+[2:53:12 PM] ✅ accounts.txt updated — 1500 remaining
+[2:53:34 PM] 🗑️ Removed mcaninha10000 (PROCESSED) from accounts.txt
+[2:53:34 PM] ✅ accounts.txt updated — 1499 remaining
+[2:53:55 PM] 🗑️ Removed mcmill45 (PROCESSED) from accounts.txt
+[2:53:55 PM] ✅ accounts.txt updated — 1498 remaining
+[2:54:16 PM] 🗑️ Removed meboi30 (PROCESSED) from accounts.txt
+[2:54:16 PM] ✅ accounts.txt updated — 1497 remaining
+[2:54:35 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:56:07 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:56:09 PM] 🗑️ Removed meca16 (PROCESSED) from accounts.txt
+[2:56:09 PM] ✅ accounts.txt updated — 1496 remaining
+[2:56:30 PM] 🗑️ Removed medivalnights (PROCESSED) from accounts.txt
+[2:56:30 PM] ✅ accounts.txt updated — 1495 remaining
+[2:56:52 PM] 🗑️ Removed megabot2oo (PROCESSED) from accounts.txt
+[2:56:52 PM] ✅ accounts.txt updated — 1494 remaining
+[2:57:11 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:58:43 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:00:15 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:00:17 PM] 🗑️ Removed megaz1 (PROCESSED) from accounts.txt
+[3:00:17 PM] ✅ accounts.txt updated — 1493 remaining
+[3:00:38 PM] 🗑️ Removed meily20 (PROCESSED) from accounts.txt
+[3:00:38 PM] ✅ accounts.txt updated — 1492 remaining
+[3:00:59 PM] 🗑️ Removed mehe79 (PROCESSED) from accounts.txt
+[3:00:59 PM] ✅ accounts.txt updated — 1491 remaining
+[3:01:21 PM] 🗑️ Removed meily23 (PROCESSED) from accounts.txt
+[3:01:21 PM] ✅ accounts.txt updated — 1490 remaining
+[3:01:42 PM] 🗑️ Removed melanciaazul001 (PROCESSED) from accounts.txt
+[3:01:42 PM] ✅ accounts.txt updated — 1489 remaining
+[3:02:04 PM] 🗑️ Removed melanga (PROCESSED) from accounts.txt
+[3:02:04 PM] ✅ accounts.txt updated — 1488 remaining
+[3:02:26 PM] 🗑️ Removed melcat98 (PROCESSED) from accounts.txt
+[3:02:26 PM] ✅ accounts.txt updated — 1487 remaining
+[3:02:47 PM] 🗑️ Removed melantonette (PROCESSED) from accounts.txt
+[3:02:47 PM] ✅ accounts.txt updated — 1486 remaining
+[3:03:09 PM] 🗑️ Removed melinda9003 (PROCESSED) from accounts.txt
+[3:03:09 PM] ✅ accounts.txt updated — 1485 remaining
+[3:03:28 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:05:00 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:06:32 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:06:34 PM] 🗑️ Removed meli133 (PROCESSED) from accounts.txt
+[3:06:34 PM] ✅ accounts.txt updated — 1484 remaining
+[3:06:56 PM] 🗑️ Removed meliody9 (PROCESSED) from accounts.txt
+[3:06:56 PM] ✅ accounts.txt updated — 1483 remaining
+[3:07:17 PM] 🗑️ Removed melissav18 (PROCESSED) from accounts.txt
+[3:07:17 PM] ✅ accounts.txt updated — 1482 remaining
+[3:07:38 PM] 🗑️ Removed melmel38 (PROCESSED) from accounts.txt
+[3:07:38 PM] ✅ accounts.txt updated — 1481 remaining
+[3:08:00 PM] 🗑️ Removed melzinha114 (PROCESSED) from accounts.txt
+[3:08:00 PM] ✅ accounts.txt updated — 1480 remaining
+[3:08:21 PM] 🗑️ Removed melonhead89 (PROCESSED) from accounts.txt
+[3:08:21 PM] ✅ accounts.txt updated — 1479 remaining
+[3:08:42 PM] 🗑️ Removed memet5 (PROCESSED) from accounts.txt
+[3:08:42 PM] ✅ accounts.txt updated — 1478 remaining
+[3:09:04 PM] 🗑️ Removed meni80 (PROCESSED) from accounts.txt
+[3:09:04 PM] ✅ accounts.txt updated — 1477 remaining
+[3:09:25 PM] 🗑️ Removed menini61 (PROCESSED) from accounts.txt
+[3:09:25 PM] ✅ accounts.txt updated — 1476 remaining
+[3:09:46 PM] 🗑️ Removed meogia13 (PROCESSED) from accounts.txt
+[3:09:46 PM] ✅ accounts.txt updated — 1475 remaining
+[3:10:05 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:11:37 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:13:08 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:13:11 PM] 🗑️ Removed meow1007 (PROCESSED) from accounts.txt
+[3:13:11 PM] ✅ accounts.txt updated — 1474 remaining
+[3:13:30 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:15:02 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:15:05 PM] 🗑️ Removed meowza33 (PROCESSED) from accounts.txt
+[3:15:05 PM] ✅ accounts.txt updated — 1473 remaining
+[3:15:26 PM] 🗑️ Removed merachesks (PROCESSED) from accounts.txt
+[3:15:26 PM] ✅ accounts.txt updated — 1472 remaining
+[3:15:47 PM] 🗑️ Removed mercedes20 (PROCESSED) from accounts.txt
+[3:15:47 PM] ✅ accounts.txt updated — 1471 remaining
+[3:16:09 PM] 🗑️ Removed mermeladabunchie (PROCESSED) from accounts.txt
+[3:16:09 PM] ✅ accounts.txt updated — 1470 remaining
+[3:16:30 PM] 🗑️ Removed mermaidprincess101 (PROCESSED) from accounts.txt
+[3:16:30 PM] ✅ accounts.txt updated — 1469 remaining
+[3:16:52 PM] 🗑️ Removed mermaidgirl10087 (PROCESSED) from accounts.txt
+[3:16:52 PM] ✅ accounts.txt updated — 1468 remaining
+[3:17:13 PM] 🗑️ Removed messtr27 (PROCESSED) from accounts.txt
+[3:17:13 PM] ✅ accounts.txt updated — 1467 remaining
+[3:17:32 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:19:04 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:19:07 PM] 🗑️ Removed merryjamalidayinjuly (PROCESSED) from accounts.txt
+[3:19:07 PM] ✅ accounts.txt updated — 1466 remaining
+[3:19:26 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:20:57 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:21:00 PM] 🗑️ Removed meteora92 (PROCESSED) from accounts.txt
+[3:21:00 PM] ✅ accounts.txt updated — 1465 remaining
+[3:21:22 PM] 🗑️ Removed mewmewmoo (PROCESSED) from accounts.txt
+[3:21:22 PM] ✅ accounts.txt updated — 1464 remaining
+[3:21:43 PM] 🗑️ Removed mewtow76 (PROCESSED) from accounts.txt
+[3:21:43 PM] ✅ accounts.txt updated — 1463 remaining
+[3:22:04 PM] 🗑️ Removed mfmjg (PROCESSED) from accounts.txt
+[3:22:04 PM] ✅ accounts.txt updated — 1462 remaining
+[3:22:26 PM] 🗑️ Removed mggamesplay (PROCESSED) from accounts.txt
+[3:22:26 PM] ✅ accounts.txt updated — 1461 remaining
+[3:22:47 PM] 🗑️ Removed mey786 (PROCESSED) from accounts.txt
+[3:22:47 PM] ✅ accounts.txt updated — 1460 remaining
+[3:23:08 PM] 🗑️ Removed mgt1709 (PROCESSED) from accounts.txt
+[3:23:08 PM] ✅ accounts.txt updated — 1459 remaining
+[3:23:27 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:24:59 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:26:31 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:26:33 PM] 🗑️ Removed miaki18 (PROCESSED) from accounts.txt
+[3:26:33 PM] ✅ accounts.txt updated — 1458 remaining
+[3:26:54 PM] 🗑️ Removed miamor13 (PROCESSED) from accounts.txt
+[3:26:54 PM] ✅ accounts.txt updated — 1457 remaining
+[3:27:16 PM] 🗑️ Removed mia78687 (PROCESSED) from accounts.txt
+[3:27:16 PM] ✅ accounts.txt updated — 1456 remaining
+[3:27:37 PM] 🗑️ Removed miaumiaumou (PROCESSED) from accounts.txt
+[3:27:37 PM] ✅ accounts.txt updated — 1455 remaining
+[3:27:58 PM] 🗑️ Removed miaustic39 (PROCESSED) from accounts.txt
+[3:27:58 PM] ✅ accounts.txt updated — 1454 remaining
+[3:28:20 PM] 🗑️ Removed miamypie (PROCESSED) from accounts.txt
+[3:28:20 PM] ✅ accounts.txt updated — 1453 remaining
+[3:28:40 PM] 🗑️ Removed mica1792 (PROCESSED) from accounts.txt
+[3:28:40 PM] ✅ accounts.txt updated — 1452 remaining
+[3:29:02 PM] 🗑️ Removed micaela535 (PROCESSED) from accounts.txt
+[3:29:02 PM] ✅ accounts.txt updated — 1451 remaining
+[3:29:21 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:30:52 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:32:24 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:32:26 PM] 🗑️ Removed micafigue6 (PROCESSED) from accounts.txt
+[3:32:26 PM] ✅ accounts.txt updated — 1450 remaining
+[3:32:47 PM] 🗑️ Removed micho16 (PROCESSED) from accounts.txt
+[3:32:47 PM] ✅ accounts.txt updated — 1449 remaining
+[3:33:08 PM] 🗑️ Removed micoy123 (PROCESSED) from accounts.txt
+[3:33:08 PM] ✅ accounts.txt updated — 1448 remaining
+[3:33:29 PM] 🗑️ Removed mielsitakawaii (PROCESSED) from accounts.txt
+[3:33:29 PM] ✅ accounts.txt updated — 1447 remaining
+[3:33:50 PM] 🗑️ Removed mifi35 (PROCESSED) from accounts.txt
+[3:33:50 PM] ✅ accounts.txt updated — 1446 remaining
+[3:34:12 PM] 🗑️ Removed miguelb (PROCESSED) from accounts.txt
+[3:34:12 PM] ✅ accounts.txt updated — 1445 remaining
+[3:34:33 PM] 🗑️ Removed miguelitojaju2005 (PROCESSED) from accounts.txt
+[3:34:33 PM] ✅ accounts.txt updated — 1444 remaining
+[3:34:54 PM] 🗑️ Removed mike187 (PROCESSED) from accounts.txt
+[3:34:54 PM] ✅ accounts.txt updated — 1443 remaining
+[3:35:16 PM] 🗑️ Removed mikaelmito (PROCESSED) from accounts.txt
+[3:35:16 PM] ✅ accounts.txt updated — 1442 remaining
+[3:35:35 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:37:06 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:38:38 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:38:40 PM] 🗑️ Removed mikecrac105 (PROCESSED) from accounts.txt
+[3:38:40 PM] ✅ accounts.txt updated — 1441 remaining
+[3:39:01 PM] 🗑️ Removed miko1038 (PROCESSED) from accounts.txt
+[3:39:01 PM] ✅ accounts.txt updated — 1440 remaining
+[3:39:22 PM] 🗑️ Removed miki6787 (PROCESSED) from accounts.txt
+[3:39:22 PM] ✅ accounts.txt updated — 1439 remaining
+[3:39:44 PM] 🗑️ Removed mila2011 (PROCESSED) from accounts.txt
+[3:39:44 PM] ✅ accounts.txt updated — 1438 remaining
+[3:40:05 PM] 🗑️ Removed milene93 (PROCESSED) from accounts.txt
+[3:40:05 PM] ✅ accounts.txt updated — 1437 remaining
+[3:40:26 PM] 🗑️ Removed milenalaqueen2019 (PROCESSED) from accounts.txt
+[3:40:26 PM] ✅ accounts.txt updated — 1436 remaining
+[3:40:48 PM] 🗑️ Removed mili00002 (PROCESSED) from accounts.txt
+[3:40:48 PM] ✅ accounts.txt updated — 1435 remaining
+[3:41:09 PM] 🗑️ Removed milist2018 (PROCESSED) from accounts.txt
+[3:41:09 PM] ✅ accounts.txt updated — 1434 remaining
+[3:41:28 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:43:00 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:44:32 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:44:34 PM] 🗑️ Removed mililagros (PROCESSED) from accounts.txt
+[3:44:34 PM] ✅ accounts.txt updated — 1433 remaining
+[3:44:55 PM] 🗑️ Removed millisa4 (PROCESSED) from accounts.txt
+[3:44:55 PM] ✅ accounts.txt updated — 1432 remaining
+[3:45:17 PM] 🗑️ Removed millene07 (PROCESSED) from accounts.txt
+[3:45:17 PM] ✅ accounts.txt updated — 1431 remaining
+[3:45:39 PM] 🗑️ Removed million2222 (PROCESSED) from accounts.txt
+[3:45:39 PM] ✅ accounts.txt updated — 1430 remaining
+[3:46:00 PM] 🗑️ Removed milmill34 (PROCESSED) from accounts.txt
+[3:46:00 PM] ✅ accounts.txt updated — 1429 remaining
+[3:46:21 PM] 🗑️ Removed millmill52 (PROCESSED) from accounts.txt
+[3:46:21 PM] ✅ accounts.txt updated — 1428 remaining
+[3:46:43 PM] 🗑️ Removed milmill11 (PROCESSED) from accounts.txt
+[3:46:43 PM] ✅ accounts.txt updated — 1427 remaining
+[3:47:03 PM] 🗑️ Removed milnehuel (PROCESSED) from accounts.txt
+[3:47:03 PM] ✅ accounts.txt updated — 1426 remaining
+[3:47:22 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:48:54 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:50:25 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:50:28 PM] 🗑️ Removed milmill9 (PROCESSED) from accounts.txt
+[3:50:28 PM] ✅ accounts.txt updated — 1425 remaining
+[3:50:49 PM] 🗑️ Removed milmill28 (PROCESSED) from accounts.txt
+[3:50:49 PM] ✅ accounts.txt updated — 1424 remaining
+[3:51:10 PM] 🗑️ Removed milmill57 (PROCESSED) from accounts.txt
+[3:51:10 PM] ✅ accounts.txt updated — 1423 remaining
+[3:51:32 PM] 🗑️ Removed mimalou13076 (PROCESSED) from accounts.txt
+[3:51:32 PM] ✅ accounts.txt updated — 1422 remaining
+[3:51:53 PM] 🗑️ Removed milovan5 (PROCESSED) from accounts.txt
+[3:51:53 PM] ✅ accounts.txt updated — 1421 remaining
+[3:52:14 PM] 🗑️ Removed milojoiner (PROCESSED) from accounts.txt
+[3:52:14 PM] ✅ accounts.txt updated — 1420 remaining
+[3:52:36 PM] 🗑️ Removed mimibug16 (PROCESSED) from accounts.txt
+[3:52:36 PM] ✅ accounts.txt updated — 1419 remaining
+[3:52:58 PM] 🗑️ Removed mimichan6 (PROCESSED) from accounts.txt
+[3:52:58 PM] ✅ accounts.txt updated — 1418 remaining
+[3:53:19 PM] 🗑️ Removed mimascota (PROCESSED) from accounts.txt
+[3:53:19 PM] ✅ accounts.txt updated — 1417 remaining
+[3:53:38 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:55:10 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:56:42 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:56:44 PM] 🗑️ Removed mimimaster40 (PROCESSED) from accounts.txt
+[3:56:44 PM] ✅ accounts.txt updated — 1416 remaining
+[3:57:05 PM] 🗑️ Removed minato12345 (PROCESSED) from accounts.txt
+[3:57:05 PM] ✅ accounts.txt updated — 1415 remaining
+[3:57:27 PM] 🗑️ Removed mimir1321 (PROCESSED) from accounts.txt
+[3:57:27 PM] ✅ accounts.txt updated — 1414 remaining
+[3:57:48 PM] 🗑️ Removed mingong3 (PROCESSED) from accounts.txt
+[3:57:48 PM] ✅ accounts.txt updated — 1413 remaining
+[3:58:09 PM] 🗑️ Removed minecraftsteve37 (PROCESSED) from accounts.txt
+[3:58:09 PM] ✅ accounts.txt updated — 1412 remaining
+[3:58:30 PM] 🗑️ Removed miney60 (PROCESSED) from accounts.txt
+[3:58:30 PM] ✅ accounts.txt updated — 1411 remaining
+[3:58:52 PM] 🗑️ Removed minecraftjammer90000 (PROCESSED) from accounts.txt
+[3:58:52 PM] ✅ accounts.txt updated — 1410 remaining
+[3:59:13 PM] 🗑️ Removed minibonitadeespa (PROCESSED) from accounts.txt
+[3:59:13 PM] ✅ accounts.txt updated — 1409 remaining
+[3:59:32 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:01:04 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:02:36 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:02:38 PM] 🗑️ Removed minguado13 (PROCESSED) from accounts.txt
+[4:02:38 PM] ✅ accounts.txt updated — 1408 remaining
+[4:02:59 PM] 🗑️ Removed minifeli8 (PROCESSED) from accounts.txt
+[4:02:59 PM] ✅ accounts.txt updated — 1407 remaining
+[4:03:21 PM] 🗑️ Removed minnie12587 (PROCESSED) from accounts.txt
+[4:03:21 PM] ✅ accounts.txt updated — 1406 remaining
+[4:03:41 PM] 🗑️ Removed minomonster (PROCESSED) from accounts.txt
+[4:03:41 PM] ✅ accounts.txt updated — 1405 remaining
+[4:04:03 PM] 🗑️ Removed minukai (PROCESSED) from accounts.txt
+[4:04:03 PM] ✅ accounts.txt updated — 1404 remaining
+[4:04:24 PM] 🗑️ Removed mirko08 (PROCESSED) from accounts.txt
+[4:04:24 PM] ✅ accounts.txt updated — 1403 remaining
+[4:04:45 PM] 🗑️ Removed misik13 (PROCESSED) from accounts.txt
+[4:04:45 PM] ✅ accounts.txt updated — 1402 remaining
+[4:05:07 PM] 🗑️ Removed missbravegirl2310 (PROCESSED) from accounts.txt
+[4:05:07 PM] ✅ accounts.txt updated — 1401 remaining
+[4:05:28 PM] 🗑️ Removed miskittycatt (PROCESSED) from accounts.txt
+[4:05:28 PM] ✅ accounts.txt updated — 1400 remaining
+[4:05:50 PM] 🗑️ Removed misscandyfloss16 (PROCESSED) from accounts.txt
+[4:05:50 PM] ✅ accounts.txt updated — 1399 remaining
+[4:06:11 PM] 🗑️ Removed misska (PROCESSED) from accounts.txt
+[4:06:11 PM] ✅ accounts.txt updated — 1398 remaining
+[4:06:30 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:08:01 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:09:33 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:09:35 PM] 🗑️ Removed misssunnygirl1212 (PROCESSED) from accounts.txt
+[4:09:35 PM] ✅ accounts.txt updated — 1397 remaining
+[4:09:57 PM] 🗑️ Removed misskitty2000 (PROCESSED) from accounts.txt
+[4:09:57 PM] ✅ accounts.txt updated — 1396 remaining
+[4:10:18 PM] 🗑️ Removed misspapas8 (PROCESSED) from accounts.txt
+[4:10:18 PM] ✅ accounts.txt updated — 1395 remaining
+[4:10:40 PM] 🗑️ Removed missycake12607 (PROCESSED) from accounts.txt
+[4:10:40 PM] ✅ accounts.txt updated — 1394 remaining
+[4:11:01 PM] 🗑️ Removed mistiemoonkaty (PROCESSED) from accounts.txt
+[4:11:01 PM] ✅ accounts.txt updated — 1393 remaining
+[4:11:22 PM] 🗑️ Removed mita53 (PROCESSED) from accounts.txt
+[4:11:22 PM] ✅ accounts.txt updated — 1392 remaining
+[4:11:44 PM] 🗑️ Removed mitch884 (PROCESSED) from accounts.txt
+[4:11:44 PM] ✅ accounts.txt updated — 1391 remaining
+[4:12:05 PM] 🗑️ Removed mitestarley (PROCESSED) from accounts.txt
+[4:12:05 PM] ✅ accounts.txt updated — 1390 remaining
+[4:12:24 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:13:56 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:15:28 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:15:30 PM] 🗑️ Removed mjcole (PROCESSED) from accounts.txt
+[4:15:30 PM] ✅ accounts.txt updated — 1389 remaining
+[4:15:52 PM] 🗑️ Removed mjan2 (PROCESSED) from accounts.txt
+[4:15:52 PM] ✅ accounts.txt updated — 1388 remaining
+[4:16:11 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:17:43 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:17:45 PM] 🗑️ Removed mjack34321 (PROCESSED) from accounts.txt
+[4:17:45 PM] ✅ accounts.txt updated — 1387 remaining
+[4:18:07 PM] 🗑️ Removed mlplover55 (PROCESSED) from accounts.txt
+[4:18:07 PM] ✅ accounts.txt updated — 1386 remaining
+[4:18:28 PM] 🗑️ Removed mocha60 (PROCESSED) from accounts.txt
+[4:18:28 PM] ✅ accounts.txt updated — 1385 remaining
+[4:18:50 PM] 🗑️ Removed moisesrui (PROCESSED) from accounts.txt
+[4:18:50 PM] ✅ accounts.txt updated — 1384 remaining
+[4:19:11 PM] 🗑️ Removed mody78 (PROCESSED) from accounts.txt
+[4:19:11 PM] ✅ accounts.txt updated — 1383 remaining
+[4:19:33 PM] 🗑️ Removed mollyg (PROCESSED) from accounts.txt
+[4:19:33 PM] ✅ accounts.txt updated — 1382 remaining
+[4:19:55 PM] 🗑️ Removed molli87 (PROCESSED) from accounts.txt
+[4:19:55 PM] ✅ accounts.txt updated — 1381 remaining
+[4:20:14 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:21:45 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:23:17 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:23:19 PM] 🗑️ Removed mole25 (PROCESSED) from accounts.txt
+[4:23:19 PM] ✅ accounts.txt updated — 1380 remaining
+[4:23:41 PM] 🗑️ Removed momjacob (PROCESSED) from accounts.txt
+[4:23:41 PM] ✅ accounts.txt updated — 1379 remaining
+[4:24:02 PM] 🗑️ Removed momandd (PROCESSED) from accounts.txt
+[4:24:02 PM] ✅ accounts.txt updated — 1378 remaining
+[4:24:23 PM] 🗑️ Removed mon1141 (PROCESSED) from accounts.txt
+[4:24:23 PM] ✅ accounts.txt updated — 1377 remaining
+[4:24:44 PM] 🗑️ Removed moniz2010 (PROCESSED) from accounts.txt
+[4:24:44 PM] ✅ accounts.txt updated — 1376 remaining
+[4:25:06 PM] 🗑️ Removed monkeylover12314 (PROCESSED) from accounts.txt
+[4:25:06 PM] ✅ accounts.txt updated — 1375 remaining
+[4:25:27 PM] 🗑️ Removed monkeygirl0826 (PROCESSED) from accounts.txt
+[4:25:27 PM] ✅ accounts.txt updated — 1374 remaining
+[4:25:48 PM] 🗑️ Removed monky788 (PROCESSED) from accounts.txt
+[4:25:48 PM] ✅ accounts.txt updated — 1373 remaining
+[4:26:07 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:27:39 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:29:11 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:29:13 PM] 🗑️ Removed monsepanda03 (PROCESSED) from accounts.txt
+[4:29:13 PM] ✅ accounts.txt updated — 1372 remaining
+[4:29:34 PM] 🗑️ Removed monkylover123 (PROCESSED) from accounts.txt
+[4:29:34 PM] ✅ accounts.txt updated — 1371 remaining
+[4:29:56 PM] 🗑️ Removed monsoone (PROCESSED) from accounts.txt
+[4:29:56 PM] ✅ accounts.txt updated — 1370 remaining
+[4:30:18 PM] 🗑️ Removed montycute6 (PROCESSED) from accounts.txt
+[4:30:18 PM] ✅ accounts.txt updated — 1369 remaining
+[4:30:39 PM] 🗑️ Removed monu12 (PROCESSED) from accounts.txt
+[4:30:39 PM] ✅ accounts.txt updated — 1368 remaining
+[4:31:01 PM] 🗑️ Removed moomoomoo1 (PROCESSED) from accounts.txt
+[4:31:01 PM] ✅ accounts.txt updated — 1367 remaining
+[4:31:22 PM] 🗑️ Removed moonnithg (PROCESSED) from accounts.txt
+[4:31:22 PM] ✅ accounts.txt updated — 1366 remaining
+[4:31:43 PM] 🗑️ Removed moonlightinseptember (PROCESSED) from accounts.txt
+[4:31:43 PM] ✅ accounts.txt updated — 1365 remaining
+[4:32:05 PM] 🗑️ Removed moonwhy (PROCESSED) from accounts.txt
+[4:32:05 PM] ✅ accounts.txt updated — 1364 remaining
+[4:32:24 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:33:55 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:35:27 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:35:29 PM] 🗑️ Removed moosejam74 (PROCESSED) from accounts.txt
+[4:35:29 PM] ✅ accounts.txt updated — 1363 remaining
+[4:35:51 PM] 🗑️ Removed moonstar1o110 (PROCESSED) from accounts.txt
+[4:35:51 PM] ✅ accounts.txt updated — 1362 remaining
+[4:36:12 PM] 🗑️ Removed morena76 (PROCESSED) from accounts.txt
+[4:36:12 PM] ✅ accounts.txt updated — 1361 remaining
+[4:36:33 PM] 🗑️ Removed morelara (PROCESSED) from accounts.txt
+[4:36:33 PM] ✅ accounts.txt updated — 1360 remaining
+[4:36:54 PM] 🗑️ Removed morestrangerthingsst (PROCESSED) from accounts.txt
+[4:36:54 PM] ✅ accounts.txt updated — 1359 remaining
+[4:37:16 PM] 🗑️ Removed morganah (PROCESSED) from accounts.txt
+[4:37:16 PM] ✅ accounts.txt updated — 1358 remaining
+[4:37:37 PM] 🗑️ Removed morita2008 (PROCESSED) from accounts.txt
+[4:37:37 PM] ✅ accounts.txt updated — 1357 remaining
+[4:37:59 PM] 🗑️ Removed morgante03 (PROCESSED) from accounts.txt
+[4:37:59 PM] ✅ accounts.txt updated — 1356 remaining
+[4:38:20 PM] 🗑️ Removed moritaumita14 (PROCESSED) from accounts.txt
+[4:38:20 PM] ✅ accounts.txt updated — 1355 remaining
+[4:38:39 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:40:11 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:41:42 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:41:45 PM] 🗑️ Removed moritaxl (PROCESSED) from accounts.txt
+[4:41:45 PM] ✅ accounts.txt updated — 1354 remaining
+[4:42:06 PM] 🗑️ Removed moriita5 (PROCESSED) from accounts.txt
+[4:42:06 PM] ✅ accounts.txt updated — 1353 remaining
+[4:42:27 PM] 🗑️ Removed moshi15 (PROCESSED) from accounts.txt
+[4:42:27 PM] ✅ accounts.txt updated — 1352 remaining
+[4:42:49 PM] 🗑️ Removed movimientonaranja47 (PROCESSED) from accounts.txt
+[4:42:49 PM] ✅ accounts.txt updated — 1351 remaining
+[4:43:10 PM] 🗑️ Removed mpt65 (PROCESSED) from accounts.txt
+[4:43:10 PM] ✅ accounts.txt updated — 1350 remaining
+[4:43:31 PM] 🗑️ Removed mrami17 (PROCESSED) from accounts.txt
+[4:43:31 PM] ✅ accounts.txt updated — 1349 remaining
+[4:43:52 PM] 🗑️ Removed mrluca22 (PROCESSED) from accounts.txt
+[4:43:52 PM] ✅ accounts.txt updated — 1348 remaining
+[4:44:14 PM] 🗑️ Removed mrfresh3 (PROCESSED) from accounts.txt
+[4:44:14 PM] ✅ accounts.txt updated — 1347 remaining
+[4:44:33 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:46:04 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:47:36 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:47:38 PM] 🗑️ Removed mri22 (PROCESSED) from accounts.txt
+[4:47:38 PM] ✅ accounts.txt updated — 1346 remaining
+[4:48:00 PM] 🗑️ Removed mrhappybear2 (PROCESSED) from accounts.txt
+[4:48:00 PM] ✅ accounts.txt updated — 1345 remaining
+[4:48:21 PM] 🗑️ Removed mucimundo33 (PROCESSED) from accounts.txt
+[4:48:21 PM] ✅ accounts.txt updated — 1344 remaining
+[4:48:42 PM] 🗑️ Removed mtt34 (PROCESSED) from accounts.txt
+[4:48:42 PM] ✅ accounts.txt updated — 1343 remaining
+[4:49:03 PM] 🗑️ Removed munir70 (PROCESSED) from accounts.txt
+[4:49:03 PM] ✅ accounts.txt updated — 1342 remaining
+[4:49:24 PM] 🗑️ Removed mushr00mpanda (PROCESSED) from accounts.txt
+[4:49:24 PM] ✅ accounts.txt updated — 1341 remaining
+[4:49:46 PM] 🗑️ Removed mvjm2005 (PROCESSED) from accounts.txt
+[4:49:46 PM] ✅ accounts.txt updated — 1340 remaining
+[4:50:07 PM] 🗑️ Removed musictea (PROCESSED) from accounts.txt
+[4:50:07 PM] ✅ accounts.txt updated — 1339 remaining
+[4:50:26 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:51:57 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:53:29 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:53:31 PM] 🗑️ Removed musictowatchboysto (PROCESSED) from accounts.txt
+[4:53:31 PM] ✅ accounts.txt updated — 1338 remaining
+[4:53:53 PM] 🗑️ Removed mxgpeg (PROCESSED) from accounts.txt
+[4:53:53 PM] ✅ accounts.txt updated — 1337 remaining
+[4:54:15 PM] 🗑️ Removed myabhayekifarm (PROCESSED) from accounts.txt
+[4:54:15 PM] ✅ accounts.txt updated — 1336 remaining
+[4:54:36 PM] 🗑️ Removed mya1456 (PROCESSED) from accounts.txt
+[4:54:36 PM] ✅ accounts.txt updated — 1335 remaining
+[4:54:57 PM] 🗑️ Removed mygame6 (PROCESSED) from accounts.txt
+[4:54:57 PM] ✅ accounts.txt updated — 1334 remaining
+[4:55:18 PM] 🗑️ Removed mybrother (PROCESSED) from accounts.txt
+[4:55:18 PM] ✅ accounts.txt updated — 1333 remaining
+[4:55:40 PM] 🗑️ Removed mycupcake24 (PROCESSED) from accounts.txt
+[4:55:40 PM] ✅ accounts.txt updated — 1332 remaining
+[4:56:01 PM] 🗑️ Removed mylion (PROCESSED) from accounts.txt
+[4:56:01 PM] ✅ accounts.txt updated — 1331 remaining
+[4:56:21 PM] 🗑️ Removed mylesthepenguin (UNKNOWN_LOGIN_ERROR) from accounts.txt
+[4:56:21 PM] ✅ accounts.txt updated — 1330 remaining
+[4:56:31 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:58:03 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:59:35 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:59:37 PM] 🗑️ Removed myrellaleao (PROCESSED) from accounts.txt
+[4:59:37 PM] ✅ accounts.txt updated — 1329 remaining
+[4:59:59 PM] 🗑️ Removed mysticaldreamsaj (PROCESSED) from accounts.txt
+[4:59:59 PM] ✅ accounts.txt updated — 1328 remaining
+[5:00:20 PM] 🗑️ Removed mytole19 (PROCESSED) from accounts.txt
+[5:00:20 PM] ✅ accounts.txt updated — 1327 remaining
+[5:00:41 PM] 🗑️ Removed mythicseal (PROCESSED) from accounts.txt
+[5:00:41 PM] ✅ accounts.txt updated — 1326 remaining
+[5:01:03 PM] 🗑️ Removed mytiger15 (PROCESSED) from accounts.txt
+[5:01:03 PM] ✅ accounts.txt updated — 1325 remaining
+[5:01:24 PM] 🗑️ Removed nacha002 (PROCESSED) from accounts.txt
+[5:01:24 PM] ✅ accounts.txt updated — 1324 remaining
+[5:01:45 PM] 🗑️ Removed nad106 (PROCESSED) from accounts.txt
+[5:01:45 PM] ✅ accounts.txt updated — 1323 remaining
+[5:02:06 PM] 🗑️ Removed nagzsunz1 (PROCESSED) from accounts.txt
+[5:02:06 PM] ✅ accounts.txt updated — 1322 remaining
+[5:02:25 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:03:57 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:05:20 PM] 🛑 Interrupted — saving progress...
+[5:05:20 PM] 💾 Progress saved.
+[5:05:27 PM] 📄 Logging to: checker-log\checker-2025-10-05.txt
+[5:05:27 PM] ✅ Loaded 100 proxies.
+[5:05:31 PM] Starting 1/1322
+[5:05:33 PM] 🗑️ Removed nahuel146 (PROCESSED) from accounts.txt
+[5:05:33 PM] ✅ accounts.txt updated — 1321 remaining
+[5:05:55 PM] 🗑️ Removed naia109 (PROCESSED) from accounts.txt
+[5:05:55 PM] ✅ accounts.txt updated — 1320 remaining
+[5:06:16 PM] 🗑️ Removed naij84 (PROCESSED) from accounts.txt
+[5:06:16 PM] ✅ accounts.txt updated — 1319 remaining
+[5:06:37 PM] 🗑️ Removed naij243 (PROCESSED) from accounts.txt
+[5:06:37 PM] ✅ accounts.txt updated — 1318 remaining
+[5:06:59 PM] 🗑️ Removed nain122 (PROCESSED) from accounts.txt
+[5:06:59 PM] ✅ accounts.txt updated — 1317 remaining
+[5:07:21 PM] 🗑️ Removed namjoom0 (PROCESSED) from accounts.txt
+[5:07:21 PM] ✅ accounts.txt updated — 1316 remaining
+[5:07:42 PM] 🗑️ Removed nameme89 (PROCESSED) from accounts.txt
+[5:07:42 PM] ✅ accounts.txt updated — 1315 remaining
+[5:08:04 PM] 🗑️ Removed namjoon15 (PROCESSED) from accounts.txt
+[5:08:04 PM] ✅ accounts.txt updated — 1314 remaining
+[5:08:25 PM] 🗑️ Removed nancy1938 (PROCESSED) from accounts.txt
+[5:08:25 PM] ✅ accounts.txt updated — 1313 remaining
+[5:08:45 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:10:17 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:11:49 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[5:11:51 PM] 🗑️ Removed nananoy22 (PROCESSED) from accounts.txt
+[5:11:51 PM] ✅ accounts.txt updated — 1312 remaining
+[5:12:12 PM] 🗑️ Removed nana350 (PROCESSED) from accounts.txt
+[5:12:12 PM] ✅ accounts.txt updated — 1311 remaining
+[5:12:33 PM] 🗑️ Removed nanhafa (PROCESSED) from accounts.txt
+[5:12:33 PM] ✅ accounts.txt updated — 1310 remaining
+[5:12:56 PM] 🗑️ Removed nasdaq (PROCESSED) from accounts.txt
+[5:12:56 PM] ✅ accounts.txt updated — 1309 remaining
+[5:13:17 PM] 🗑️ Removed narutouzumaque11 (PROCESSED) from accounts.txt
+[5:13:17 PM] ✅ accounts.txt updated — 1308 remaining
+[5:13:39 PM] 🗑️ Removed natakir23 (PROCESSED) from accounts.txt
+[5:13:39 PM] ✅ accounts.txt updated — 1307 remaining
+[5:14:00 PM] 🗑️ Removed natadesi (PROCESSED) from accounts.txt
+[5:14:00 PM] ✅ accounts.txt updated — 1306 remaining
+[5:14:04 PM] 🛑 Interrupted — saving progress...
+[5:14:04 PM] 💾 Progress saved.

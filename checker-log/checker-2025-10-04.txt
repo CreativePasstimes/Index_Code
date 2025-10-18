@@ -1,0 +1,1073 @@
+[1:25:38 AM] 📄 Logging to: checker-log\checker-2025-10-04.txt
+[1:25:38 AM] ✅ Loaded 100 proxies.
+[1:25:39 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:27:42 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:27:52 AM] Starting 1/3466
+[1:28:36 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:30:38 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:31:20 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:33:23 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:34:49 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:36:51 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:37:12 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:39:14 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:40:18 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:42:20 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:42:41 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:44:43 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:46:29 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:48:30 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:50:33 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:51:58 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:54:00 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:54:22 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:56:24 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[1:57:49 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[1:59:52 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:00:13 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:02:15 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:03:41 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:05:42 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:07:45 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:09:11 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:11:13 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:11:34 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:13:36 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:15:22 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:17:24 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:19:25 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:20:29 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:22:31 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:24:34 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:26:21 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:28:23 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:28:45 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:30:47 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:32:11 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:34:13 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:34:34 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:36:36 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:39:03 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:41:06 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:41:48 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:43:51 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:45:59 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:48:01 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:48:44 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:49:33 AM] 🛑 Interrupted — saving progress...
+[2:49:33 AM] 💾 Progress saved.
+[3:03:58 AM] 📄 Logging to: checker-log\checker-2025-10-04.txt
+[3:03:58 AM] ✅ Loaded 100 proxies.
+[3:04:03 AM] Starting 1/3417
+[3:06:55 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:08:26 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:09:58 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:10:33 AM] 🛑 Interrupted — saving progress...
+[3:10:33 AM] 💾 Progress saved.
+[3:10:37 AM] 📄 Logging to: checker-log\checker-2025-10-04.txt
+[3:10:37 AM] ✅ Loaded 100 proxies.
+[3:10:40 AM] Starting 1/3417
+[3:10:49 AM] 🛑 Interrupted — saving progress...
+[3:10:49 AM] 💾 Progress saved.
+[3:13:13 AM] 📄 Logging to: checker-log\checker-2025-10-04.txt
+[3:13:13 AM] ✅ Loaded 100 proxies.
+[3:13:15 AM] Starting 1/3356
+[3:13:26 AM] 🛑 Interrupted — saving progress...
+[3:13:26 AM] 💾 Progress saved.
+[3:16:34 AM] 📄 Logging to: checker-log\checker-2025-10-04.txt
+[3:16:34 AM] ✅ Loaded 100 proxies.
+[3:16:40 AM] Starting 2/3356
+[3:16:44 AM] 🗑️ Removed angelbug18 from accounts.txt (CLEAN)
+[3:17:05 AM] 🗑️ Removed angeliquey from accounts.txt (CLEAN)
+[3:17:26 AM] 🗑️ Removed anglecutewolf0 from accounts.txt (CLEAN)
+[3:17:47 AM] 🗑️ Removed angrybirdsred448 from accounts.txt (CLEAN)
+[3:18:09 AM] 🗑️ Removed anilpsjam from accounts.txt (CLEAN)
+[3:18:30 AM] 🗑️ Removed animalbuddie67 from accounts.txt (CLEAN)
+[3:18:52 AM] 🗑️ Removed animalbonzinho from accounts.txt (CLEAN)
+[3:18:55 AM] 🛑 Interrupted — saving progress...
+[3:18:56 AM] 💾 Progress saved.
+[3:18:58 AM] 📄 Logging to: checker-log\checker-2025-10-04.txt
+[3:18:58 AM] ✅ Loaded 100 proxies.
+[3:19:02 AM] Starting 1/3349
+[3:19:24 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:20:55 AM] 🛑 Interrupted — saving progress...
+[3:20:55 AM] 💾 Progress saved.
+[3:20:57 AM] 📄 Logging to: checker-log\checker-2025-10-04.txt
+[3:20:57 AM] ✅ Loaded 100 proxies.
+[3:20:57 AM] 🔍 Proxy debug active — first proxy: package-295149-country-us-sessionid-XyHPAzKjRoMqJ3qK_x1-sessionlength-300
+[3:20:58 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:21:34 AM] 📄 Logging to: checker-log\checker-2025-10-04.txt
+[3:21:34 AM] ✅ Loaded 100 proxies.
+[3:21:35 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:23:07 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:23:10 AM] Starting 1/3349
+[3:23:34 AM] 🗑️ Removed animallove26555 from accounts.txt (CLEAN)
+[3:24:17 AM] 🗑️ Removed aninhaplay0 from accounts.txt (CLEAN)
+[3:24:38 AM] 🗑️ Removed annabell13 from accounts.txt (CLEAN)
+[3:24:40 AM] 🛑 Interrupted — saving progress...
+[3:24:40 AM] 💾 Progress saved.
+[3:28:02 AM] 📄 Logging to: checker-log\checker-2025-10-04.txt
+[3:28:02 AM] ✅ Loaded 100 proxies.
+[3:28:06 AM] Starting 4/3346
+[3:28:10 AM] 🗑️ Removed annum9 (CLEAN) from accounts.txt
+[3:28:31 AM] 🗑️ Removed anthea (CLEAN) from accounts.txt
+[3:28:52 AM] 🗑️ Removed antia07 (CLEAN) from accounts.txt
+[3:29:14 AM] 🗑️ Removed antotigre18 (CLEAN) from accounts.txt
+[3:29:36 AM] 🗑️ Removed anxiety14 (CLEAN) from accounts.txt
+[3:29:57 AM] 🗑️ Removed antonino (CLEAN) from accounts.txt
+[3:30:39 AM] 🗑️ Removed aphmau110 (CLEAN) from accounts.txt
+[3:30:58 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:32:30 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:34:01 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:34:04 AM] 🗑️ Removed apeache1 (CLEAN) from accounts.txt
+[3:34:26 AM] 🗑️ Removed aparrison (CLEAN) from accounts.txt
+[3:34:47 AM] 🗑️ Removed appolo50 (CLEAN) from accounts.txt
+[3:35:08 AM] 🗑️ Removed arabin2 (CLEAN) from accounts.txt
+[3:35:29 AM] 🗑️ Removed arabella53 (CLEAN) from accounts.txt
+[3:35:50 AM] 🗑️ Removed aquaseal88 (CLEAN) from accounts.txt
+[3:36:12 AM] 🗑️ Removed archer119 (CLEAN) from accounts.txt
+[3:36:34 AM] 🗑️ Removed arcticfox001 (CLEAN) from accounts.txt
+[3:36:55 AM] 🗑️ Removed arcticwolfiegirlie19 (CLEAN) from accounts.txt
+[3:37:14 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:38:46 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:40:18 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:40:20 AM] 🗑️ Removed arialltimelow (CLEAN) from accounts.txt
+[3:40:41 AM] 🗑️ Removed arianas11 (CLEAN) from accounts.txt
+[3:41:02 AM] 🗑️ Removed arianasa223 (CLEAN) from accounts.txt
+[3:41:24 AM] 🗑️ Removed ariiii (CLEAN) from accounts.txt
+[3:41:45 AM] 🗑️ Removed aritza (CLEAN) from accounts.txt
+[3:42:29 AM] 🗑️ Removed armyfanjhope (CLEAN) from accounts.txt
+[3:42:50 AM] 🗑️ Removed armyv16 (CLEAN) from accounts.txt
+[3:43:12 AM] 🗑️ Removed arripio123 (CLEAN) from accounts.txt
+[3:43:31 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:45:02 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:46:34 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:46:36 AM] 🗑️ Removed artic2098 (CLEAN) from accounts.txt
+[3:46:58 AM] 🗑️ Removed articfox117 (CLEAN) from accounts.txt
+[3:47:19 AM] 🗑️ Removed artgirlsoph12 (CLEAN) from accounts.txt
+[3:47:41 AM] 🗑️ Removed artsieev (CLEAN) from accounts.txt
+[3:48:24 AM] 🗑️ Removed aruna1 (CLEAN) from accounts.txt
+[3:48:45 AM] 🗑️ Removed aryelle1447 (CLEAN) from accounts.txt
+[3:49:06 AM] 🗑️ Removed ascc68 (CLEAN) from accounts.txt
+[3:49:28 AM] 🗑️ Removed aryanna106 (CLEAN) from accounts.txt
+[3:49:49 AM] 🗑️ Removed arycor (CLEAN) from accounts.txt
+[3:50:08 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:51:40 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:53:11 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:53:13 AM] 🗑️ Removed ash05rol (CLEAN) from accounts.txt
+[3:53:34 AM] 🗑️ Removed asdw1 (CLEAN) from accounts.txt
+[3:53:56 AM] 🗑️ Removed ase105 (CLEAN) from accounts.txt
+[3:54:18 AM] 🗑️ Removed asdam19 (CLEAN) from accounts.txt
+[3:54:39 AM] 🗑️ Removed ash323ert (CLEAN) from accounts.txt
+[3:55:00 AM] 🗑️ Removed asgoldenpup1 (CLEAN) from accounts.txt
+[3:55:22 AM] 🗑️ Removed ashlen112 (CLEAN) from accounts.txt
+[3:55:44 AM] 🗑️ Removed ashu04 (CLEAN) from accounts.txt
+[3:56:05 AM] 🗑️ Removed asilv269 (CLEAN) from accounts.txt
+[3:56:24 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:57:55 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[3:59:27 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[3:59:30 AM] 🗑️ Removed asleeplace14 (CLEAN) from accounts.txt
+[3:59:51 AM] 🗑️ Removed aslientvoice49 (CLEAN) from accounts.txt
+[4:00:56 AM] 🗑️ Removed atoo15 (CLEAN) from accounts.txt
+[4:01:17 AM] 🗑️ Removed atrax75 (CLEAN) from accounts.txt
+[4:01:38 AM] 🗑️ Removed audery7 (CLEAN) from accounts.txt
+[4:02:00 AM] 🗑️ Removed audrey47 (CLEAN) from accounts.txt
+[4:02:21 AM] 🗑️ Removed aulia09 (CLEAN) from accounts.txt
+[4:02:40 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:04:11 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:05:43 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:05:45 AM] 🗑️ Removed aura94 (CLEAN) from accounts.txt
+[4:06:06 AM] 🗑️ Removed autumn005 (CLEAN) from accounts.txt
+[4:06:27 AM] 🗑️ Removed autumnpoison (CLEAN) from accounts.txt
+[4:07:53 AM] 🗑️ Removed baya123 (CLEAN) from accounts.txt
+[4:08:36 AM] 🗑️ Removed baylorocks (CLEAN) from accounts.txt
+[4:08:55 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:10:26 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:11:58 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:12:01 AM] 🗑️ Removed baxt77 (CLEAN) from accounts.txt
+[4:12:22 AM] 🗑️ Removed bblinda199 (CLEAN) from accounts.txt
+[4:15:10 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:16:42 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:18:14 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:19:21 AM] 🗑️ Removed blake161 (CLEAN) from accounts.txt
+[4:19:43 AM] 🗑️ Removed blak120 (CLEAN) from accounts.txt
+[4:20:04 AM] 🗑️ Removed blissfulove (CLEAN) from accounts.txt
+[4:20:25 AM] 🗑️ Removed blossomarticllama (CLEAN) from accounts.txt
+[4:20:46 AM] 🗑️ Removed blizzardbomb (CLEAN) from accounts.txt
+[4:21:26 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:22:57 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:24:28 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:24:30 AM] 🗑️ Removed blossom87754 (CLEAN) from accounts.txt
+[4:24:51 AM] 🗑️ Removed blossom5003 (CLEAN) from accounts.txt
+[4:25:12 AM] 🗑️ Removed blossomgoldenrose18 (CLEAN) from accounts.txt
+[4:25:33 AM] 🗑️ Removed blossomsbloom1 (CLEAN) from accounts.txt
+[4:26:15 AM] 🗑️ Removed blueberryesans (CLEAN) from accounts.txt
+[4:26:37 AM] 🗑️ Removed bluefox0123 (CLEAN) from accounts.txt
+[4:26:59 AM] 🗑️ Removed bluejazzy5 (CLEAN) from accounts.txt
+[4:27:39 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:29:10 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:30:41 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:31:05 AM] 🗑️ Removed bnnnn49 (CLEAN) from accounts.txt
+[4:31:27 AM] 🗑️ Removed bman1218 (CLEAN) from accounts.txt
+[4:31:48 AM] 🗑️ Removed bmg95bloxburg (CLEAN) from accounts.txt
+[4:32:09 AM] 🗑️ Removed bmcnamara77 (CLEAN) from accounts.txt
+[4:32:52 AM] 🗑️ Removed boca10 (CLEAN) from accounts.txt
+[4:33:13 AM] 🗑️ Removed boca28 (CLEAN) from accounts.txt
+[4:33:32 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:35:03 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:36:34 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:36:57 AM] 🗑️ Removed bolita14 (CLEAN) from accounts.txt
+[4:37:18 AM] 🗑️ Removed bonequinhajuju (CLEAN) from accounts.txt
+[4:37:40 AM] 🗑️ Removed book13 (CLEAN) from accounts.txt
+[4:38:00 AM] 🗑️ Removed boogie6112 (CLEAN) from accounts.txt
+[4:38:21 AM] 🗑️ Removed boomerang3 (CLEAN) from accounts.txt
+[4:38:43 AM] 🗑️ Removed booooy1 (CLEAN) from accounts.txt
+[4:39:04 AM] 🗑️ Removed bordsofprey (CLEAN) from accounts.txt
+[4:39:25 AM] 🗑️ Removed bourgeois132 (CLEAN) from accounts.txt
+[4:39:45 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:41:16 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:42:47 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:42:49 AM] 🗑️ Removed bowinarow (CLEAN) from accounts.txt
+[4:43:09 AM] 🗑️ Removed boxmastercall (CLEAN) from accounts.txt
+[4:43:31 AM] 🗑️ Removed bracstoin33 (CLEAN) from accounts.txt
+[4:43:52 AM] 🗑️ Removed bpl9 (CLEAN) from accounts.txt
+[4:44:54 AM] 🗑️ Removed brayan12346 (CLEAN) from accounts.txt
+[4:45:15 AM] 🗑️ Removed brave84 (CLEAN) from accounts.txt
+[4:45:36 AM] 🗑️ Removed brayansp6 (CLEAN) from accounts.txt
+[4:45:55 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:47:27 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:48:58 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:49:01 AM] 🗑️ Removed bren10 (CLEAN) from accounts.txt
+[4:49:22 AM] 🗑️ Removed brenda05 (CLEAN) from accounts.txt
+[4:49:43 AM] 🗑️ Removed brendo70 (CLEAN) from accounts.txt
+[4:50:26 AM] 🗑️ Removed breslin154 (CLEAN) from accounts.txt
+[4:50:47 AM] 🗑️ Removed brian70 (CLEAN) from accounts.txt
+[4:51:09 AM] 🗑️ Removed brian14 (CLEAN) from accounts.txt
+[4:51:29 AM] 🗑️ Removed bridget368 (CLEAN) from accounts.txt
+[4:51:51 AM] 🗑️ Removed brian39 (CLEAN) from accounts.txt
+[4:52:10 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:53:41 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:55:13 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[4:55:15 AM] 🗑️ Removed bric1221 (CLEAN) from accounts.txt
+[4:55:36 AM] 🗑️ Removed brielle22106 (CLEAN) from accounts.txt
+[4:55:58 AM] 🗑️ Removed brillante8889 (CLEAN) from accounts.txt
+[4:56:19 AM] 🗑️ Removed brinna01 (CLEAN) from accounts.txt
+[4:56:40 AM] 🗑️ Removed bromando10 (CLEAN) from accounts.txt
+[4:57:02 AM] 🗑️ Removed brosisky (CLEAN) from accounts.txt
+[4:57:23 AM] 🗑️ Removed brookelynnnne (CLEAN) from accounts.txt
+[4:57:44 AM] 🗑️ Removed brun0 (CLEAN) from accounts.txt
+[4:58:24 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[4:59:56 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:01:27 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[5:01:30 AM] 🗑️ Removed brox10 (CLEAN) from accounts.txt
+[5:01:51 AM] 🗑️ Removed bruh32 (CLEAN) from accounts.txt
+[5:02:13 AM] 🗑️ Removed brunasofia22 (CLEAN) from accounts.txt
+[5:02:36 AM] 🗑️ Removed bry113 (CLEAN) from accounts.txt
+[5:02:57 AM] 🗑️ Removed brunela789l (CLEAN) from accounts.txt
+[5:03:18 AM] 🗑️ Removed brunopon2010 (CLEAN) from accounts.txt
+[5:03:40 AM] 🗑️ Removed brunoamor10 (CLEAN) from accounts.txt
+[5:04:01 AM] 🗑️ Removed bryna7 (CLEAN) from accounts.txt
+[5:04:42 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:06:13 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:07:45 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[5:07:47 AM] 🗑️ Removed bubblegumlulu (CLEAN) from accounts.txt
+[5:08:08 AM] 🗑️ Removed bubugh (CLEAN) from accounts.txt
+[5:08:30 AM] 🗑️ Removed bubblechicken54 (CLEAN) from accounts.txt
+[5:08:52 AM] 🗑️ Removed buff41 (CLEAN) from accounts.txt
+[5:09:13 AM] 🗑️ Removed buggiejr (CLEAN) from accounts.txt
+[5:09:34 AM] 🗑️ Removed bular23 (CLEAN) from accounts.txt
+[5:10:17 AM] 🗑️ Removed bunnicula10 (CLEAN) from accounts.txt
+[5:10:38 AM] 🗑️ Removed bunnhun (CLEAN) from accounts.txt
+[5:10:57 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:12:29 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:14:00 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[5:14:03 AM] 🗑️ Removed bunnybun457 (CLEAN) from accounts.txt
+[5:14:24 AM] 🗑️ Removed bunnycooly123 (CLEAN) from accounts.txt
+[5:14:45 AM] 🗑️ Removed bunnygoodanimal (CLEAN) from accounts.txt
+[5:15:07 AM] 🗑️ Removed bunnyhopwhite13 (CLEAN) from accounts.txt
+[5:15:28 AM] 🗑️ Removed bunnyjam1746 (CLEAN) from accounts.txt
+[5:15:49 AM] 🗑️ Removed bunnyjuicejuice (CLEAN) from accounts.txt
+[5:16:10 AM] 🗑️ Removed butterbxby (CLEAN) from accounts.txt
+[5:16:32 AM] 🗑️ Removed by90by (CLEAN) from accounts.txt
+[5:16:53 AM] 🗑️ Removed byeeee0 (CLEAN) from accounts.txt
+[5:17:12 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:18:44 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:20:15 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[5:20:17 AM] 🗑️ Removed bvbyhailey (CLEAN) from accounts.txt
+[5:20:39 AM] 🗑️ Removed byvalentina29 (CLEAN) from accounts.txt
+[5:21:01 AM] 🗑️ Removed c3tech (CLEAN) from accounts.txt
+[5:21:22 AM] 🗑️ Removed cade1 (CLEAN) from accounts.txt
+[5:21:44 AM] 🗑️ Removed cacalara06aj (CLEAN) from accounts.txt
+[5:22:05 AM] 🗑️ Removed cafesino34 (CLEAN) from accounts.txt
+[5:22:27 AM] 🗑️ Removed cafe19 (CLEAN) from accounts.txt
+[5:23:07 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:24:38 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:26:10 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[5:26:12 AM] 🗑️ Removed cakedom6 (CLEAN) from accounts.txt
+[5:26:33 AM] 🗑️ Removed caiza6 (CLEAN) from accounts.txt
+[5:26:55 AM] 🗑️ Removed calebvieja (CLEAN) from accounts.txt
+[5:27:16 AM] 🗑️ Removed cakp3 (CLEAN) from accounts.txt
+[5:27:37 AM] 🗑️ Removed camcam79 (CLEAN) from accounts.txt
+[5:27:59 AM] 🗑️ Removed cami1190 (CLEAN) from accounts.txt
+[5:28:20 AM] 🗑️ Removed camicami35 (CLEAN) from accounts.txt
+[5:28:41 AM] 🗑️ Removed camii16 (CLEAN) from accounts.txt
+[5:29:00 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:30:31 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:32:03 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[5:32:05 AM] 🗑️ Removed camila1524 (CLEAN) from accounts.txt
+[5:32:27 AM] 🗑️ Removed camila121 (CLEAN) from accounts.txt
+[5:32:48 AM] 🗑️ Removed camila1988xd (CLEAN) from accounts.txt
+[5:33:09 AM] 🗑️ Removed camilaladiva (CLEAN) from accounts.txt
+[5:33:30 AM] 🗑️ Removed camilabc (CLEAN) from accounts.txt
+[5:33:52 AM] 🗑️ Removed camilarocio36 (CLEAN) from accounts.txt
+[5:34:13 AM] 🗑️ Removed camilapro23 (CLEAN) from accounts.txt
+[5:34:34 AM] 🗑️ Removed camille61 (CLEAN) from accounts.txt
+[5:35:15 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:36:46 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:38:17 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[5:38:19 AM] 🗑️ Removed camilamonterez (CLEAN) from accounts.txt
+[5:38:40 AM] 🗑️ Removed campcorbett0 (CLEAN) from accounts.txt
+[5:39:02 AM] 🗑️ Removed candy128 (CLEAN) from accounts.txt
+[5:39:23 AM] 🗑️ Removed candech (CLEAN) from accounts.txt
+[5:40:05 AM] 🗑️ Removed candyrock900 (CLEAN) from accounts.txt
+[5:40:27 AM] 🗑️ Removed candykitty10101 (CLEAN) from accounts.txt
+[5:40:48 AM] 🗑️ Removed candyhermosa (CLEAN) from accounts.txt
+[5:41:09 AM] 🗑️ Removed canela2006 (CLEAN) from accounts.txt
+[5:41:28 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:42:59 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:44:31 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[5:45:15 AM] 🗑️ Removed capitanamarvel19 (CLEAN) from accounts.txt
+[5:45:37 AM] 🗑️ Removed caracolfeliz (CLEAN) from accounts.txt
+[5:45:59 AM] 🗑️ Removed capricornia11 (CLEAN) from accounts.txt
+[5:46:42 AM] 🗑️ Removed caramelosuperdulce (CLEAN) from accounts.txt
+[5:47:03 AM] 🗑️ Removed carino23 (CLEAN) from accounts.txt
+[5:47:22 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:48:54 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:50:25 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[5:50:28 AM] 🗑️ Removed carga15 (CLEAN) from accounts.txt
+[5:50:49 AM] 🗑️ Removed carla785 (CLEAN) from accounts.txt
+[5:51:10 AM] 🗑️ Removed carlamarina (CLEAN) from accounts.txt
+[5:51:32 AM] 🗑️ Removed carlniel741 (CLEAN) from accounts.txt
+[5:51:53 AM] 🗑️ Removed carlys11 (CLEAN) from accounts.txt
+[5:52:14 AM] 🗑️ Removed carlosinfan (CLEAN) from accounts.txt
+[5:52:36 AM] 🗑️ Removed carolina2121 (CLEAN) from accounts.txt
+[5:52:57 AM] 🗑️ Removed carolain79 (CLEAN) from accounts.txt
+[5:53:16 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:54:47 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[5:56:18 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[5:57:03 AM] 🗑️ Removed cassia523 (CLEAN) from accounts.txt
+[5:57:25 AM] 🗑️ Removed cash44444 (CLEAN) from accounts.txt
+[5:58:08 AM] 🗑️ Removed cassieopia15 (CLEAN) from accounts.txt
+[5:58:30 AM] 🗑️ Removed catb1 (CLEAN) from accounts.txt
+[5:58:51 AM] 🗑️ Removed catb32 (CLEAN) from accounts.txt
+[5:59:10 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:00:42 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:02:13 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[6:02:15 AM] 🗑️ Removed catb43 (CLEAN) from accounts.txt
+[6:02:36 AM] 🗑️ Removed catcorn55 (CLEAN) from accounts.txt
+[6:02:57 AM] 🗑️ Removed catdog52 (CLEAN) from accounts.txt
+[6:03:19 AM] 🗑️ Removed cathy95 (CLEAN) from accounts.txt
+[6:03:40 AM] 🗑️ Removed cathlyn42 (CLEAN) from accounts.txt
+[6:04:01 AM] 🗑️ Removed catitab2345 (CLEAN) from accounts.txt
+[6:04:22 AM] 🗑️ Removed catlover386 (CLEAN) from accounts.txt
+[6:04:43 AM] 🗑️ Removed catnip888 (CLEAN) from accounts.txt
+[6:05:24 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:06:55 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:08:27 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[6:08:51 AM] 🗑️ Removed catpuppy4 (CLEAN) from accounts.txt
+[6:09:35 AM] 🗑️ Removed catsare10 (CLEAN) from accounts.txt
+[6:09:56 AM] 🗑️ Removed catsrule194 (CLEAN) from accounts.txt
+[6:10:18 AM] 🗑️ Removed catsweetie14 (CLEAN) from accounts.txt
+[6:10:39 AM] 🗑️ Removed cattyfox6 (CLEAN) from accounts.txt
+[6:11:00 AM] 🗑️ Removed caz26 (CLEAN) from accounts.txt
+[6:11:19 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:12:51 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:14:22 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[6:14:25 AM] 🗑️ Removed cazador511 (CLEAN) from accounts.txt
+[6:14:46 AM] 🗑️ Removed ccuba (CLEAN) from accounts.txt
+[6:15:07 AM] 🗑️ Removed ce9ibal (CLEAN) from accounts.txt
+[6:15:51 AM] 🗑️ Removed cerro5 (CLEAN) from accounts.txt
+[6:16:12 AM] 🗑️ Removed cgf13 (CLEAN) from accounts.txt
+[6:16:33 AM] 🗑️ Removed cfarr123 (CLEAN) from accounts.txt
+[6:16:55 AM] 🗑️ Removed chandie12 (CLEAN) from accounts.txt
+[6:17:16 AM] 🗑️ Removed chairboy (CLEAN) from accounts.txt
+[6:17:35 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:19:06 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:20:38 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[6:20:40 AM] 🗑️ Removed chaikastar (CLEAN) from accounts.txt
+[6:21:02 AM] 🗑️ Removed chancetherapper15 (CLEAN) from accounts.txt
+[6:21:23 AM] 🗑️ Removed chararainhaaj10 (CLEAN) from accounts.txt
+[6:21:45 AM] 🗑️ Removed charcharbunny18 (CLEAN) from accounts.txt
+[6:22:06 AM] 🗑️ Removed charlidamelio116 (CLEAN) from accounts.txt
+[6:22:28 AM] 🗑️ Removed charleym58 (CLEAN) from accounts.txt
+[6:22:49 AM] 🗑️ Removed charwine (CLEAN) from accounts.txt
+[6:23:11 AM] 🗑️ Removed chase12123 (CLEAN) from accounts.txt
+[6:23:32 AM] 🗑️ Removed chch51 (CLEAN) from accounts.txt
+[6:23:51 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:25:22 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:26:54 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[6:26:56 AM] 🗑️ Removed cheerahzebrach3 (CLEAN) from accounts.txt
+[6:27:39 AM] 🗑️ Removed chelsea2134 (CLEAN) from accounts.txt
+[6:28:00 AM] 🗑️ Removed cherylblossommia (CLEAN) from accounts.txt
+[6:28:22 AM] 🗑️ Removed chilly152 (CLEAN) from accounts.txt
+[6:28:43 AM] 🗑️ Removed chipy34 (CLEAN) from accounts.txt
+[6:29:04 AM] 🗑️ Removed chiqui8 (CLEAN) from accounts.txt
+[6:29:25 AM] 🗑️ Removed chispa89 (CLEAN) from accounts.txt
+[6:30:06 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:31:37 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:33:09 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[6:33:11 AM] 🗑️ Removed chocolatekawaii64x (CLEAN) from accounts.txt
+[6:33:32 AM] 🗑️ Removed chof2030 (CLEAN) from accounts.txt
+[6:33:53 AM] 🗑️ Removed chocolatizinho (CLEAN) from accounts.txt
+[6:34:14 AM] 🗑️ Removed chrissy116 (CLEAN) from accounts.txt
+[6:34:57 AM] 🗑️ Removed chuvadalua (CLEAN) from accounts.txt
+[6:35:39 AM] 🗑️ Removed chuyo19 (CLEAN) from accounts.txt
+[6:36:01 AM] 🗑️ Removed chyca10 (CLEAN) from accounts.txt
+[6:36:20 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:37:51 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:39:23 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[6:39:25 AM] 🗑️ Removed cinderellapricess4 (CLEAN) from accounts.txt
+[6:39:47 AM] 🗑️ Removed ckaye4 (CLEAN) from accounts.txt
+[6:40:30 AM] 🗑️ Removed claricegato (CLEAN) from accounts.txt
+[6:40:51 AM] 🗑️ Removed claudiapau (CLEAN) from accounts.txt
+[6:41:12 AM] 🗑️ Removed clau106 (CLEAN) from accounts.txt
+[6:41:34 AM] 🗑️ Removed claudia15 (CLEAN) from accounts.txt
+[6:41:55 AM] 🗑️ Removed cleo122 (CLEAN) from accounts.txt
+[6:42:16 AM] 🗑️ Removed clint162 (CLEAN) from accounts.txt
+[6:42:35 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:44:07 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:45:39 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[6:45:41 AM] 🗑️ Removed clouds129 (CLEAN) from accounts.txt
+[6:46:02 AM] 🗑️ Removed cloerose (CLEAN) from accounts.txt
+[6:46:24 AM] 🗑️ Removed cloudbunny2 (CLEAN) from accounts.txt
+[6:46:45 AM] 🗑️ Removed cloudywolfieisme9 (CLEAN) from accounts.txt
+[6:47:06 AM] 🗑️ Removed coachthehelper (CLEAN) from accounts.txt
+[6:47:49 AM] 🗑️ Removed coalan70 (CLEAN) from accounts.txt
+[6:48:32 AM] 🗑️ Removed coalita2812 (CLEAN) from accounts.txt
+[6:48:51 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:50:23 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:51:54 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[6:51:56 AM] 🗑️ Removed coca10000 (CLEAN) from accounts.txt
+[6:52:17 AM] 🗑️ Removed cocoa153 (CLEAN) from accounts.txt
+[6:52:38 AM] 🗑️ Removed coby98 (CLEAN) from accounts.txt
+[6:53:00 AM] 🗑️ Removed cocotama123 (CLEAN) from accounts.txt
+[6:53:21 AM] 🗑️ Removed coelhinhafof5 (CLEAN) from accounts.txt
+[6:53:43 AM] 🗑️ Removed coelho97 (CLEAN) from accounts.txt
+[6:54:04 AM] 🗑️ Removed coelhinhofofinhooo (CLEAN) from accounts.txt
+[6:54:25 AM] 🗑️ Removed coelhinhafofa700 (CLEAN) from accounts.txt
+[6:54:47 AM] 🗑️ Removed coelinhakawaii32 (CLEAN) from accounts.txt
+[6:55:06 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:56:37 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:58:09 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[6:58:11 AM] 🗑️ Removed coelinhafofinha788 (CLEAN) from accounts.txt
+[6:58:33 AM] 🗑️ Removed coitadinhojp (CLEAN) from accounts.txt
+[6:58:54 AM] 🗑️ Removed colacat2008 (CLEAN) from accounts.txt
+[6:59:16 AM] 🗑️ Removed coldbunny10 (CLEAN) from accounts.txt
+[6:59:37 AM] 🗑️ Removed coltonb15 (CLEAN) from accounts.txt
+[6:59:59 AM] 🗑️ Removed comeplayajwithme (CLEAN) from accounts.txt
+[7:00:20 AM] 🗑️ Removed comeplay101 (CLEAN) from accounts.txt
+[7:00:42 AM] 🗑️ Removed comboy15 (CLEAN) from accounts.txt
+[7:01:03 AM] 🗑️ Removed colt265 (CLEAN) from accounts.txt
+[7:01:22 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:02:54 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:04:25 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[7:04:28 AM] 🗑️ Removed coneja66 (CLEAN) from accounts.txt
+[7:04:49 AM] 🗑️ Removed coneja7 (CLEAN) from accounts.txt
+[7:05:10 AM] 🗑️ Removed conejita10kl (CLEAN) from accounts.txt
+[7:05:32 AM] 🗑️ Removed conejakaway15 (CLEAN) from accounts.txt
+[7:05:53 AM] 🗑️ Removed conejita2710 (CLEAN) from accounts.txt
+[7:06:14 AM] 🗑️ Removed conejito10kl (CLEAN) from accounts.txt
+[7:06:36 AM] 🗑️ Removed conejitachan8 (CLEAN) from accounts.txt
+[7:06:57 AM] 🗑️ Removed conejitachan0 (CLEAN) from accounts.txt
+[7:07:18 AM] 🗑️ Removed conejitakawaiiluna30 (CLEAN) from accounts.txt
+[7:07:40 AM] 🗑️ Removed conejito35 (CLEAN) from accounts.txt
+[7:07:59 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:09:31 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:11:02 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[7:11:05 AM] 🗑️ Removed conejitonieve (CLEAN) from accounts.txt
+[7:11:26 AM] 🗑️ Removed congo50 (CLEAN) from accounts.txt
+[7:11:48 AM] 🗑️ Removed confeti59 (CLEAN) from accounts.txt
+[7:12:10 AM] 🗑️ Removed coni116 (CLEAN) from accounts.txt
+[7:12:31 AM] 🗑️ Removed conejotrollmarcos (CLEAN) from accounts.txt
+[7:12:52 AM] 🗑️ Removed connnor07 (CLEAN) from accounts.txt
+[7:13:13 AM] 🗑️ Removed connolly11 (CLEAN) from accounts.txt
+[7:13:35 AM] 🗑️ Removed conitalol (CLEAN) from accounts.txt
+[7:13:54 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:15:26 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:16:57 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[7:17:00 AM] 🗑️ Removed connorpolor (CLEAN) from accounts.txt
+[7:17:21 AM] 🗑️ Removed cookie2042 (CLEAN) from accounts.txt
+[7:17:43 AM] 🗑️ Removed cookiecute57 (CLEAN) from accounts.txt
+[7:18:04 AM] 🗑️ Removed cookiecute51 (CLEAN) from accounts.txt
+[7:18:26 AM] 🗑️ Removed cookiecute93 (CLEAN) from accounts.txt
+[7:18:47 AM] 🗑️ Removed cookieda (CLEAN) from accounts.txt
+[7:19:09 AM] 🗑️ Removed cookieswirlsea30 (CLEAN) from accounts.txt
+[7:19:30 AM] 🗑️ Removed cookieswirlcfan90 (CLEAN) from accounts.txt
+[7:19:49 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:21:21 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:22:53 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[7:22:55 AM] 🗑️ Removed cookietiger08 (CLEAN) from accounts.txt
+[7:23:16 AM] 🗑️ Removed coolbass9 (CLEAN) from accounts.txt
+[7:23:37 AM] 🗑️ Removed coolcoolcat5 (CLEAN) from accounts.txt
+[7:23:59 AM] 🗑️ Removed cooldogeb (CLEAN) from accounts.txt
+[7:24:20 AM] 🗑️ Removed coolfacelol1 (CLEAN) from accounts.txt
+[7:25:03 AM] 🗑️ Removed cooldude358 (CLEAN) from accounts.txt
+[7:25:25 AM] 🗑️ Removed coolgirl4458 (CLEAN) from accounts.txt
+[7:25:46 AM] 🗑️ Removed coolglass (CLEAN) from accounts.txt
+[7:26:05 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:27:36 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:29:08 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[7:29:10 AM] 🗑️ Removed coolkidone (CLEAN) from accounts.txt
+[7:29:32 AM] 🗑️ Removed coolkid33332 (CLEAN) from accounts.txt
+[7:29:53 AM] 🗑️ Removed coolkid640 (CLEAN) from accounts.txt
+[7:30:14 AM] 🗑️ Removed cooljosie (CLEAN) from accounts.txt
+[7:30:57 AM] 🗑️ Removed coolm68 (CLEAN) from accounts.txt
+[7:31:19 AM] 🗑️ Removed coolpop32 (CLEAN) from accounts.txt
+[7:31:40 AM] 🗑️ Removed coolwithacapitalkkat (CLEAN) from accounts.txt
+[7:32:01 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:33:33 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:35:04 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[7:35:06 AM] 🗑️ Removed cootcoot4444 (CLEAN) from accounts.txt
+[7:35:27 AM] 🗑️ Removed copitodenieve20 (CLEAN) from accounts.txt
+[7:35:49 AM] 🗑️ Removed coraima30 (CLEAN) from accounts.txt
+[7:36:11 AM] 🗑️ Removed copitopanda310 (CLEAN) from accounts.txt
+[7:36:32 AM] 🗑️ Removed copito510 (CLEAN) from accounts.txt
+[7:36:53 AM] 🗑️ Removed coral944 (CLEAN) from accounts.txt
+[7:37:13 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:38:44 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[7:38:46 AM] 🗑️ Removed copycat6051 (CLEAN) from accounts.txt
+[7:39:08 AM] 🗑️ Removed coral137 (CLEAN) from accounts.txt
+[7:39:27 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:40:58 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[7:41:00 AM] 🗑️ Removed corazon1000 (CLEAN) from accounts.txt
+[7:41:22 AM] 🗑️ Removed coraline2 (CLEAN) from accounts.txt
+[7:41:43 AM] 🗑️ Removed cordelia64 (CLEAN) from accounts.txt
+[7:42:04 AM] 🗑️ Removed corintias2 (CLEAN) from accounts.txt
+[7:42:25 AM] 🗑️ Removed cottonbunny76 (CLEAN) from accounts.txt
+[7:42:44 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:44:16 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[7:44:18 AM] 🗑️ Removed cottoncandyshop (CLEAN) from accounts.txt
+[7:44:39 AM] 🗑️ Removed cowboy9000 (CLEAN) from accounts.txt
+[7:45:00 AM] 🗑️ Removed coutinho1057 (CLEAN) from accounts.txt
+[7:45:19 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:46:51 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[7:46:53 AM] 🗑️ Removed covetlinq (CLEAN) from accounts.txt
+[7:47:15 AM] 🗑️ Removed craycray73 (CLEAN) from accounts.txt
+[7:47:36 AM] 🗑️ Removed crazycat1009 (CLEAN) from accounts.txt
+[7:47:58 AM] 🗑️ Removed crazyk30 (CLEAN) from accounts.txt
+[7:48:19 AM] 🗑️ Removed crazylion101 (CLEAN) from accounts.txt
+[7:48:59 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:50:31 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[7:50:33 AM] 🗑️ Removed creeper299 (CLEAN) from accounts.txt
+[7:50:55 AM] 🗑️ Removed criaturadelfindivino (CLEAN) from accounts.txt
+[7:51:35 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:53:06 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[7:53:09 AM] 🗑️ Removed cria05 (CLEAN) from accounts.txt
+[7:53:30 AM] 🗑️ Removed crisbo7 (CLEAN) from accounts.txt
+[7:53:51 AM] 🗑️ Removed crist123456 (CLEAN) from accounts.txt
+[7:54:13 AM] 🗑️ Removed cristalroxo38 (CLEAN) from accounts.txt
+[7:54:34 AM] 🗑️ Removed cristobal106 (CLEAN) from accounts.txt
+[7:54:55 AM] 🗑️ Removed cristian62 (CLEAN) from accounts.txt
+[7:55:14 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:56:46 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[7:56:48 AM] 🗑️ Removed cristallobitamiau7w7 (CLEAN) from accounts.txt
+[7:57:09 AM] 🗑️ Removed cristiano440 (CLEAN) from accounts.txt
+[7:57:28 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:59:00 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[7:59:02 AM] 🗑️ Removed criyth8 (CLEAN) from accounts.txt
+[7:59:23 AM] 🗑️ Removed crog18 (CLEAN) from accounts.txt
+[7:59:44 AM] 🗑️ Removed croconmarrs (CLEAN) from accounts.txt
+[8:00:06 AM] 🗑️ Removed cruti (CLEAN) from accounts.txt
+[8:00:49 AM] 🗑️ Removed cuccigirl10 (CLEAN) from accounts.txt
+[8:01:11 AM] 🗑️ Removed cuddly113 (CLEAN) from accounts.txt
+[8:01:30 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:03:01 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:03:03 AM] 🗑️ Removed cuddly81 (CLEAN) from accounts.txt
+[8:03:22 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:04:54 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:04:56 AM] 🗑️ Removed cuddly47 (CLEAN) from accounts.txt
+[8:05:18 AM] 🗑️ Removed cujo62 (CLEAN) from accounts.txt
+[8:05:39 AM] 🗑️ Removed curlyfriesthebest (CLEAN) from accounts.txt
+[8:06:01 AM] 🗑️ Removed cute82701 (CLEAN) from accounts.txt
+[8:06:22 AM] 🗑️ Removed cutebunnie07 (CLEAN) from accounts.txt
+[8:06:43 AM] 🗑️ Removed cutecakes8 (CLEAN) from accounts.txt
+[8:07:05 AM] 🗑️ Removed cutechick3 (CLEAN) from accounts.txt
+[8:07:24 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:08:56 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:08:58 AM] 🗑️ Removed cutehopper68 (CLEAN) from accounts.txt
+[8:09:38 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:11:10 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:11:12 AM] 🗑️ Removed cutekoala511 (CLEAN) from accounts.txt
+[8:11:34 AM] 🗑️ Removed cutelllyoubet (CLEAN) from accounts.txt
+[8:11:56 AM] 🗑️ Removed cutelittlebunny2021 (CLEAN) from accounts.txt
+[8:12:17 AM] 🗑️ Removed cutepanda5103 (CLEAN) from accounts.txt
+[8:12:38 AM] 🗑️ Removed cuteones (CLEAN) from accounts.txt
+[8:13:00 AM] 🗑️ Removed cutepinkcat05 (CLEAN) from accounts.txt
+[8:13:22 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:14:53 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:14:55 AM] 🗑️ Removed cutepuppy107 (CLEAN) from accounts.txt
+[8:15:17 AM] 🗑️ Removed cutepup (CLEAN) from accounts.txt
+[8:15:36 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:17:07 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:17:10 AM] 🗑️ Removed cuteshaw19 (CLEAN) from accounts.txt
+[8:17:31 AM] 🗑️ Removed cutestigerever (CLEAN) from accounts.txt
+[8:17:52 AM] 🗑️ Removed cuteykowala10 (CLEAN) from accounts.txt
+[8:18:14 AM] 🗑️ Removed cutiegirl1963 (CLEAN) from accounts.txt
+[8:18:35 AM] 🗑️ Removed cutielove52 (CLEAN) from accounts.txt
+[8:18:57 AM] 🗑️ Removed cutiecattiger (CLEAN) from accounts.txt
+[8:19:16 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:20:47 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:21:11 AM] 🗑️ Removed cutiepie510 (CLEAN) from accounts.txt
+[8:21:30 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:23:01 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:23:04 AM] 🗑️ Removed cutiepop445 (CLEAN) from accounts.txt
+[8:23:26 AM] 🗑️ Removed cutiepie82504 (CLEAN) from accounts.txt
+[8:23:47 AM] 🗑️ Removed cyan27 (CLEAN) from accounts.txt
+[8:24:09 AM] 🗑️ Removed dady1022 (CLEAN) from accounts.txt
+[8:24:30 AM] 🗑️ Removed dahhbest (CLEAN) from accounts.txt
+[8:24:51 AM] 🗑️ Removed daisybunny58 (CLEAN) from accounts.txt
+[8:25:10 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:26:42 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:26:45 AM] 🗑️ Removed dahian2405 (CLEAN) from accounts.txt
+[8:27:06 AM] 🗑️ Removed dakanggggggg (CLEAN) from accounts.txt
+[8:27:27 AM] 🗑️ Removed daisynicckas (CLEAN) from accounts.txt
+[8:27:46 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:29:18 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:29:20 AM] 🗑️ Removed daisymacy8 (CLEAN) from accounts.txt
+[8:30:25 AM] 🗑️ Removed daly13 (CLEAN) from accounts.txt
+[8:30:46 AM] 🗑️ Removed dalondongpogi (CLEAN) from accounts.txt
+[8:31:07 AM] 🗑️ Removed danae231 (CLEAN) from accounts.txt
+[8:31:30 AM] 🗑️ Removed damav (CLEAN) from accounts.txt
+[8:31:48 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:33:20 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:33:22 AM] 🗑️ Removed danais11 (CLEAN) from accounts.txt
+[8:33:43 AM] 🗑️ Removed dancedude3214 (CLEAN) from accounts.txt
+[8:34:02 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:35:34 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:35:58 AM] 🗑️ Removed dancingcottonpanda (CLEAN) from accounts.txt
+[8:36:19 AM] 🗑️ Removed danelacris12345 (CLEAN) from accounts.txt
+[8:37:23 AM] 🗑️ Removed daniel157n (CLEAN) from accounts.txt
+[8:37:42 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:39:14 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:39:16 AM] 🗑️ Removed dani213 (CLEAN) from accounts.txt
+[8:39:37 AM] 🗑️ Removed danielas0090 (CLEAN) from accounts.txt
+[8:39:59 AM] 🗑️ Removed daniel629 (CLEAN) from accounts.txt
+[8:40:18 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:41:50 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:41:52 AM] 🗑️ Removed daniella2015 (CLEAN) from accounts.txt
+[8:42:35 AM] 🗑️ Removed danika207 (CLEAN) from accounts.txt
+[8:42:56 AM] 🗑️ Removed dannaykeyla (CLEAN) from accounts.txt
+[8:43:18 AM] 🗑️ Removed danna11 (CLEAN) from accounts.txt
+[8:43:37 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:45:08 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:45:10 AM] 🗑️ Removed darah13 (CLEAN) from accounts.txt
+[8:45:31 AM] 🗑️ Removed daredevilsnow33 (CLEAN) from accounts.txt
+[8:45:53 AM] 🗑️ Removed darkshado36 (CLEAN) from accounts.txt
+[8:46:15 AM] 🗑️ Removed darksoul91 (CLEAN) from accounts.txt
+[8:46:55 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:48:27 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:48:30 AM] 🗑️ Removed darl43 (CLEAN) from accounts.txt
+[8:48:51 AM] 🗑️ Removed darwinykiara (CLEAN) from accounts.txt
+[8:49:12 AM] 🗑️ Removed deegan299 (CLEAN) from accounts.txt
+[8:49:32 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:51:03 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:51:05 AM] 🗑️ Removed deer596 (CLEAN) from accounts.txt
+[8:51:27 AM] 🗑️ Removed deilima (CLEAN) from accounts.txt
+[8:51:48 AM] 🗑️ Removed delfi547 (CLEAN) from accounts.txt
+[8:52:32 AM] 🗑️ Removed denao (CLEAN) from accounts.txt
+[8:52:50 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:54:22 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:54:25 AM] 🗑️ Removed dendo063 (CLEAN) from accounts.txt
+[8:55:07 AM] 🗑️ Removed dese22 (CLEAN) from accounts.txt
+[8:55:48 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[8:57:19 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[8:57:43 AM] 🗑️ Removed dessacat (CLEAN) from accounts.txt
+[8:58:25 AM] 🗑️ Removed dever45 (CLEAN) from accounts.txt
+[8:58:44 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:00:15 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:00:17 AM] 🗑️ Removed detosil26 (CLEAN) from accounts.txt
+[9:00:39 AM] 🗑️ Removed dggdfgdtdfgdgcdgcgf3 (CLEAN) from accounts.txt
+[9:01:00 AM] 🗑️ Removed devin8560 (CLEAN) from accounts.txt
+[9:01:22 AM] 🗑️ Removed diablix3457 (CLEAN) from accounts.txt
+[9:01:41 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:03:12 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:03:14 AM] 🗑️ Removed diama52 (CLEAN) from accounts.txt
+[9:03:35 AM] 🗑️ Removed diablix3456 (CLEAN) from accounts.txt
+[9:03:56 AM] 🗑️ Removed diana1345 (CLEAN) from accounts.txt
+[9:04:18 AM] 🗑️ Removed didigoua123456 (CLEAN) from accounts.txt
+[9:04:36 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:06:08 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:06:11 AM] 🗑️ Removed diamonds91 (CLEAN) from accounts.txt
+[9:06:32 AM] 🗑️ Removed diamondrose15 (CLEAN) from accounts.txt
+[9:06:53 AM] 🗑️ Removed didi646 (CLEAN) from accounts.txt
+[9:07:15 AM] 🗑️ Removed diego909 (CLEAN) from accounts.txt
+[9:07:33 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:09:05 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:09:07 AM] 🗑️ Removed dija28200 (CLEAN) from accounts.txt
+[9:09:28 AM] 🗑️ Removed diki26 (CLEAN) from accounts.txt
+[9:09:49 AM] 🗑️ Removed dimitri18 (CLEAN) from accounts.txt
+[9:10:11 AM] 🗑️ Removed dimorfedon (CLEAN) from accounts.txt
+[9:10:30 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:12:01 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:12:04 AM] 🗑️ Removed dins (CLEAN) from accounts.txt
+[9:13:09 AM] 🗑️ Removed dishonestxhonesty (CLEAN) from accounts.txt
+[9:13:28 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:15:00 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:15:23 AM] 🗑️ Removed disneyland845 (CLEAN) from accounts.txt
+[9:15:44 AM] 🗑️ Removed dith22 (CLEAN) from accounts.txt
+[9:16:06 AM] 🗑️ Removed dive321 (CLEAN) from accounts.txt
+[9:16:24 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:17:56 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:17:59 AM] 🗑️ Removed divino27 (CLEAN) from accounts.txt
+[9:18:20 AM] 🗑️ Removed dj45212 (CLEAN) from accounts.txt
+[9:19:03 AM] 🗑️ Removed djcoolside (CLEAN) from accounts.txt
+[9:19:21 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:20:53 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:20:56 AM] 🗑️ Removed djcoolsmart0 (CLEAN) from accounts.txt
+[9:21:17 AM] 🗑️ Removed djcaramel36 (CLEAN) from accounts.txt
+[9:21:38 AM] 🗑️ Removed djdarer14 (CLEAN) from accounts.txt
+[9:21:59 AM] 🗑️ Removed djgarrras (CLEAN) from accounts.txt
+[9:22:21 AM] 🗑️ Removed djfr22 (CLEAN) from accounts.txt
+[9:22:39 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:24:11 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:24:34 AM] 🗑️ Removed djlizandrastar12 (CLEAN) from accounts.txt
+[9:24:55 AM] 🗑️ Removed djlobacarol (CLEAN) from accounts.txt
+[9:25:17 AM] 🗑️ Removed djpro144 (CLEAN) from accounts.txt
+[9:25:36 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:27:08 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:27:10 AM] 🗑️ Removed djtanner27 (CLEAN) from accounts.txt
+[9:27:53 AM] 🗑️ Removed dmh53 (CLEAN) from accounts.txt
+[9:28:14 AM] 🗑️ Removed docshy (CLEAN) from accounts.txt
+[9:28:33 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:30:05 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:30:07 AM] 🗑️ Removed dogdogdog5447 (CLEAN) from accounts.txt
+[9:30:28 AM] 🗑️ Removed dogos66 (CLEAN) from accounts.txt
+[9:30:47 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:32:19 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:32:21 AM] 🗑️ Removed dolle30 (CLEAN) from accounts.txt
+[9:32:43 AM] 🗑️ Removed dolley12 (CLEAN) from accounts.txt
+[9:33:04 AM] 🗑️ Removed dominic668 (CLEAN) from accounts.txt
+[9:33:25 AM] 🗑️ Removed dome768 (CLEAN) from accounts.txt
+[9:33:46 AM] 🗑️ Removed dolphinviewcottage (CLEAN) from accounts.txt
+[9:34:05 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:35:37 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:35:39 AM] 🗑️ Removed domm51 (CLEAN) from accounts.txt
+[9:36:01 AM] 🗑️ Removed domelipa34 (CLEAN) from accounts.txt
+[9:36:22 AM] 🗑️ Removed donelle4 (CLEAN) from accounts.txt
+[9:36:41 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:38:13 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:38:15 AM] 🗑️ Removed donpipe1000 (CLEAN) from accounts.txt
+[9:38:36 AM] 🗑️ Removed dorada100 (CLEAN) from accounts.txt
+[9:38:57 AM] 🗑️ Removed dracon12 (CLEAN) from accounts.txt
+[9:39:19 AM] 🗑️ Removed dpks18 (CLEAN) from accounts.txt
+[9:39:40 AM] 🗑️ Removed drago4o (CLEAN) from accounts.txt
+[9:40:20 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:41:52 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:41:54 AM] 🗑️ Removed dreambig45 (CLEAN) from accounts.txt
+[9:42:34 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:44:06 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:44:08 AM] 🗑️ Removed duchess1212 (CLEAN) from accounts.txt
+[9:44:30 AM] 🗑️ Removed drtydiydrty (CLEAN) from accounts.txt
+[9:44:51 AM] 🗑️ Removed duckduck115 (CLEAN) from accounts.txt
+[9:45:12 AM] 🗑️ Removed dudavlogs1245 (CLEAN) from accounts.txt
+[9:45:33 AM] 🗑️ Removed dudaeton (CLEAN) from accounts.txt
+[9:45:55 AM] 🗑️ Removed dudeitsnatalia (CLEAN) from accounts.txt
+[9:46:14 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:47:45 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:48:09 AM] 🗑️ Removed dulceconejita14 (CLEAN) from accounts.txt
+[9:48:30 AM] 🗑️ Removed dulce78 (CLEAN) from accounts.txt
+[9:48:50 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:50:21 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:50:24 AM] 🗑️ Removed dulcinea27 (CLEAN) from accounts.txt
+[9:50:46 AM] 🗑️ Removed duquesa10 (CLEAN) from accounts.txt
+[9:51:07 AM] 🗑️ Removed duquesavioleta123 (CLEAN) from accounts.txt
+[9:51:29 AM] 🗑️ Removed e1ijah06 (CLEAN) from accounts.txt
+[9:51:50 AM] 🗑️ Removed dylan13468 (CLEAN) from accounts.txt
+[9:52:12 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:53:44 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:53:46 AM] 🗑️ Removed dylanflame (CLEAN) from accounts.txt
+[9:54:08 AM] 🗑️ Removed dylanswag (CLEAN) from accounts.txt
+[9:54:49 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:56:21 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:56:23 AM] 🗑️ Removed eartha (CLEAN) from accounts.txt
+[9:56:45 AM] 🗑️ Removed eatfor (CLEAN) from accounts.txt
+[9:58:08 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[9:59:39 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[9:59:41 AM] 🗑️ Removed edswqasdfredsw (CLEAN) from accounts.txt
+[10:00:03 AM] 🗑️ Removed edt17 (CLEAN) from accounts.txt
+[10:00:24 AM] 🗑️ Removed edvic (CLEAN) from accounts.txt
+[10:00:43 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:02:15 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:02:17 AM] 🗑️ Removed eduardus10 (CLEAN) from accounts.txt
+[10:02:38 AM] 🗑️ Removed eehthe (CLEAN) from accounts.txt
+[10:02:59 AM] 🗑️ Removed eeve778 (CLEAN) from accounts.txt
+[10:03:21 AM] 🗑️ Removed eeeeee9eee (CLEAN) from accounts.txt
+[10:03:42 AM] 🗑️ Removed egswan8 (CLEAN) from accounts.txt
+[10:04:01 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:05:33 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:05:57 AM] 🗑️ Removed ef33678 (CLEAN) from accounts.txt
+[10:06:18 AM] 🗑️ Removed ej826 (CLEAN) from accounts.txt
+[10:06:37 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:08:09 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:08:11 AM] 🗑️ Removed elainebillanes1 (CLEAN) from accounts.txt
+[10:08:33 AM] 🗑️ Removed elb65 (CLEAN) from accounts.txt
+[10:08:55 AM] 🗑️ Removed ejp12 (CLEAN) from accounts.txt
+[10:09:17 AM] 🗑️ Removed elenita58 (CLEAN) from accounts.txt
+[10:09:38 AM] 🗑️ Removed elgamer77 (CLEAN) from accounts.txt
+[10:10:00 AM] 🗑️ Removed elfrutus (CLEAN) from accounts.txt
+[10:10:18 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:11:50 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:11:52 AM] 🗑️ Removed eli19258 (CLEAN) from accounts.txt
+[10:12:35 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:14:06 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:14:08 AM] 🗑️ Removed elias14 (CLEAN) from accounts.txt
+[10:14:29 AM] 🗑️ Removed elisha46 (CLEAN) from accounts.txt
+[10:14:50 AM] 🗑️ Removed elisa829 (CLEAN) from accounts.txt
+[10:15:11 AM] 🗑️ Removed elixd (CLEAN) from accounts.txt
+[10:15:32 AM] 🗑️ Removed elizabet647 (CLEAN) from accounts.txt
+[10:15:53 AM] 🗑️ Removed ella9000 (CLEAN) from accounts.txt
+[10:16:12 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:17:44 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:17:46 AM] 🗑️ Removed ellathefox73 (CLEAN) from accounts.txt
+[10:18:07 AM] 🗑️ Removed elms2014 (CLEAN) from accounts.txt
+[10:18:26 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:19:57 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:19:59 AM] 🗑️ Removed elly3011 (CLEAN) from accounts.txt
+[10:20:20 AM] 🗑️ Removed elpinguinomillonario (CLEAN) from accounts.txt
+[10:20:41 AM] 🗑️ Removed emacu2 (CLEAN) from accounts.txt
+[10:21:23 AM] 🗑️ Removed em272 (CLEAN) from accounts.txt
+[10:21:42 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:23:13 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:23:15 AM] 🗑️ Removed ema274 (CLEAN) from accounts.txt
+[10:23:37 AM] 🗑️ Removed ematicon1 (CLEAN) from accounts.txt
+[10:23:58 AM] 🗑️ Removed embe6 (CLEAN) from accounts.txt
+[10:24:19 AM] 🗑️ Removed emel40 (CLEAN) from accounts.txt
+[10:24:37 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:26:09 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:26:11 AM] 🗑️ Removed emememily (CLEAN) from accounts.txt
+[10:26:31 AM] 🗑️ Removed emilianaxv57 (CLEAN) from accounts.txt
+[10:26:52 AM] 🗑️ Removed emiliopro3 (CLEAN) from accounts.txt
+[10:27:13 AM] 🗑️ Removed emiliok2009 (CLEAN) from accounts.txt
+[10:27:32 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:29:04 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:29:06 AM] 🗑️ Removed emita48 (CLEAN) from accounts.txt
+[10:29:26 AM] 🗑️ Removed emma2712 (CLEAN) from accounts.txt
+[10:29:46 AM] 🗑️ Removed emmakawaii39 (CLEAN) from accounts.txt
+[10:30:07 AM] 🗑️ Removed emotheythem656 (CLEAN) from accounts.txt
+[10:30:25 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:31:57 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:31:59 AM] 🗑️ Removed emmydog0 (CLEAN) from accounts.txt
+[10:32:19 AM] 🗑️ Removed ena158 (CLEAN) from accounts.txt
+[10:32:40 AM] 🗑️ Removed enchantedsugar (CLEAN) from accounts.txt
+[10:33:01 AM] 🗑️ Removed entony71 (CLEAN) from accounts.txt
+[10:33:20 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:34:51 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:34:53 AM] 🗑️ Removed eopl6 (CLEAN) from accounts.txt
+[10:35:14 AM] 🗑️ Removed ericka100 (CLEAN) from accounts.txt
+[10:35:34 AM] 🗑️ Removed erica568 (CLEAN) from accounts.txt
+[10:36:16 AM] 🗑️ Removed ericka9000 (CLEAN) from accounts.txt
+[10:36:35 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:38:06 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:39:37 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:39:39 AM] 🗑️ Removed eri33345 (CLEAN) from accounts.txt
+[10:39:59 AM] 🗑️ Removed erika56716 (CLEAN) from accounts.txt
+[10:40:20 AM] 🗑️ Removed erikacecilia5 (CLEAN) from accounts.txt
+[10:40:42 AM] 🗑️ Removed erinderb (CLEAN) from accounts.txt
+[10:41:02 AM] 🗑️ Removed erikita (CLEAN) from accounts.txt
+[10:41:23 AM] 🗑️ Removed estefa81 (CLEAN) from accounts.txt
+[10:41:43 AM] 🗑️ Removed espriella (CLEAN) from accounts.txt
+[10:42:04 AM] 🗑️ Removed estefan141 (CLEAN) from accounts.txt
+[10:42:25 AM] 🗑️ Removed esteban141 (CLEAN) from accounts.txt
+[10:42:44 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:44:16 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:45:48 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:45:50 AM] 🗑️ Removed espriella8 (CLEAN) from accounts.txt
+[10:46:11 AM] 🗑️ Removed estefani42 (CLEAN) from accounts.txt
+[10:46:31 AM] 🗑️ Removed estefaunicornio (CLEAN) from accounts.txt
+[10:46:53 AM] 🗑️ Removed estefaniaunicornio28 (CLEAN) from accounts.txt
+[10:47:13 AM] 🗑️ Removed estheru9 (CLEAN) from accounts.txt
+[10:47:34 AM] 🗑️ Removed estre9 (CLEAN) from accounts.txt
+[10:47:55 AM] 🗑️ Removed estib2810 (CLEAN) from accounts.txt
+[10:48:16 AM] 🗑️ Removed esteva39 (CLEAN) from accounts.txt
+[10:48:56 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:50:27 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:51:59 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:52:22 AM] 🗑️ Removed eternalwolf57 (CLEAN) from accounts.txt
+[10:52:43 AM] 🗑️ Removed estuart10 (CLEAN) from accounts.txt
+[10:53:04 AM] 🗑️ Removed estrellanicole (CLEAN) from accounts.txt
+[10:53:25 AM] 🗑️ Removed estrellalin4 (CLEAN) from accounts.txt
+[10:53:46 AM] 🗑️ Removed ethan5890 (CLEAN) from accounts.txt
+[10:54:07 AM] 🗑️ Removed eugegamer (CLEAN) from accounts.txt
+[10:54:49 AM] 🗑️ Removed eternogarraelegante (CLEAN) from accounts.txt
+[10:55:09 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:56:41 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[10:58:12 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[10:58:15 AM] 🗑️ Removed eunice596 (CLEAN) from accounts.txt
+[10:58:36 AM] 🗑️ Removed evathewolf0 (CLEAN) from accounts.txt
+[10:58:57 AM] 🗑️ Removed evaniscool12 (CLEAN) from accounts.txt
+[10:59:18 AM] 🗑️ Removed evamarie42 (CLEAN) from accounts.txt
+[10:59:40 AM] 🗑️ Removed even999 (CLEAN) from accounts.txt
+[11:00:01 AM] 🗑️ Removed evelynpink (CLEAN) from accounts.txt
+[11:00:23 AM] 🗑️ Removed evilpanda33 (CLEAN) from accounts.txt
+[11:00:44 AM] 🗑️ Removed eyang106 (CLEAN) from accounts.txt
+[11:01:03 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:02:35 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:04:07 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[11:04:10 AM] 🗑️ Removed explorador27 (CLEAN) from accounts.txt
+[11:04:31 AM] 🗑️ Removed experta23 (CLEAN) from accounts.txt
+[11:05:15 AM] 🗑️ Removed ezra8624 (CLEAN) from accounts.txt
+[11:05:58 AM] 🗑️ Removed ezzy81 (CLEAN) from accounts.txt
+[11:06:19 AM] 🗑️ Removed ezealdy (CLEAN) from accounts.txt
+[11:06:41 AM] 🗑️ Removed ezra800 (CLEAN) from accounts.txt
+[11:07:00 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:08:32 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:10:04 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[11:10:06 AM] 🗑️ Removed fabikings08 (CLEAN) from accounts.txt
+[11:10:28 AM] 🗑️ Removed facundoeli (CLEAN) from accounts.txt
+[11:10:49 AM] 🗑️ Removed fabu10 (CLEAN) from accounts.txt
+[11:11:11 AM] 🗑️ Removed facha10 (CLEAN) from accounts.txt
+[11:11:33 AM] 🗑️ Removed fadinhalorena (CLEAN) from accounts.txt
+[11:11:54 AM] 🗑️ Removed facundozurcool (CLEAN) from accounts.txt
+[11:12:38 AM] 🗑️ Removed faith76877 (CLEAN) from accounts.txt
+[11:13:19 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:14:51 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:16:23 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[11:16:25 AM] 🗑️ Removed falo (CLEAN) from accounts.txt
+[11:16:46 AM] 🗑️ Removed fancy228 (CLEAN) from accounts.txt
+[11:17:08 AM] 🗑️ Removed fantastica26 (CLEAN) from accounts.txt
+[11:17:30 AM] 🗑️ Removed farhan77 (CLEAN) from accounts.txt
+[11:17:51 AM] 🗑️ Removed fantasmakawaii (CLEAN) from accounts.txt
+[11:18:12 AM] 🗑️ Removed farzona (CLEAN) from accounts.txt
+[11:18:35 AM] 🗑️ Removed farygirl2006 (CLEAN) from accounts.txt
+[11:18:56 AM] 🗑️ Removed faunavalientekawaii (CLEAN) from accounts.txt
+[11:19:17 AM] 🗑️ Removed fdaleyma1394 (CLEAN) from accounts.txt
+[11:19:36 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:21:08 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:22:40 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[11:22:42 AM] 🗑️ Removed fca52 (CLEAN) from accounts.txt
+[11:23:03 AM] 🗑️ Removed fbgt (CLEAN) from accounts.txt
+[11:23:25 AM] 🗑️ Removed feder11 (CLEAN) from accounts.txt
+[11:23:46 AM] 🗑️ Removed feeder26 (CLEAN) from accounts.txt
+[11:24:08 AM] 🗑️ Removed felipe123felipe9 (CLEAN) from accounts.txt
+[11:24:29 AM] 🗑️ Removed feligamergg (CLEAN) from accounts.txt
+[11:25:13 AM] 🗑️ Removed felipefoxy19 (CLEAN) from accounts.txt
+[11:25:34 AM] 🗑️ Removed fen113 (CLEAN) from accounts.txt
+[11:25:53 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:27:25 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:28:57 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[11:29:21 AM] 🗑️ Removed fer36 (CLEAN) from accounts.txt
+[11:29:42 AM] 🗑️ Removed ferj29 (CLEAN) from accounts.txt
+[11:30:25 AM] 🗑️ Removed fiecat7689 (CLEAN) from accounts.txt
+[11:30:47 AM] 🗑️ Removed fhfifggg (CLEAN) from accounts.txt
+[11:31:08 AM] 🗑️ Removed fio162 (CLEAN) from accounts.txt
+[11:31:51 AM] 🗑️ Removed firelightforestaj (CLEAN) from accounts.txt
+[11:32:10 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:33:42 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:35:14 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[11:35:16 AM] 🗑️ Removed firefox00007 (CLEAN) from accounts.txt
+[11:35:37 AM] 🗑️ Removed firula25uwu (CLEAN) from accounts.txt
+[11:35:59 AM] 🗑️ Removed fish78 (CLEAN) from accounts.txt
+[11:36:21 AM] 🗑️ Removed firepuppy15 (CLEAN) from accounts.txt
+[11:36:42 AM] 🗑️ Removed fjx123 (CLEAN) from accounts.txt
+[11:37:03 AM] 🗑️ Removed flafy105 (CLEAN) from accounts.txt
+[11:37:25 AM] 🗑️ Removed flaca (CLEAN) from accounts.txt
+[11:37:47 AM] 🗑️ Removed flamingos21 (CLEAN) from accounts.txt
+[11:38:08 AM] 🗑️ Removed flashaso (CLEAN) from accounts.txt
+[11:38:27 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:39:59 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:41:31 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[11:41:33 AM] 🗑️ Removed flashblue (CLEAN) from accounts.txt
+[11:41:55 AM] 🗑️ Removed flavinha66 (CLEAN) from accounts.txt
+[11:42:16 AM] 🗑️ Removed flf42 (CLEAN) from accounts.txt
+[11:42:38 AM] 🗑️ Removed floe166 (CLEAN) from accounts.txt
+[11:42:59 AM] 🗑️ Removed flokinho113 (CLEAN) from accounts.txt
+[11:43:20 AM] 🗑️ Removed flora555 (CLEAN) from accounts.txt
+[11:43:42 AM] 🗑️ Removed flor7492 (CLEAN) from accounts.txt
+[11:44:03 AM] 🗑️ Removed florashiverpanda (CLEAN) from accounts.txt
+[11:44:24 AM] 🗑️ Removed florcita105 (CLEAN) from accounts.txt
+[11:44:43 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:46:15 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:47:47 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[11:47:49 AM] 🗑️ Removed florenciaxv12 (CLEAN) from accounts.txt
+[11:48:11 AM] 🗑️ Removed florrami25 (CLEAN) from accounts.txt
+[11:48:32 AM] 🗑️ Removed florlili (CLEAN) from accounts.txt
+[11:49:15 AM] 🗑️ Removed flossie3 (CLEAN) from accounts.txt
+[11:49:36 AM] 🗑️ Removed flosskid (CLEAN) from accounts.txt
+[11:49:58 AM] 🗑️ Removed fluffycute22 (CLEAN) from accounts.txt
+[11:50:20 AM] 🗑️ Removed fluffylucky33 (CLEAN) from accounts.txt
+[11:50:39 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:52:11 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:53:43 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[11:53:45 AM] 🗑️ Removed fluffyfurball111 (CLEAN) from accounts.txt
+[11:55:11 AM] 🗑️ Removed fluna63 (CLEAN) from accounts.txt
+[11:55:33 AM] 🗑️ Removed fluffythebunny18 (CLEAN) from accounts.txt
+[11:55:55 AM] 🗑️ Removed focaigor (CLEAN) from accounts.txt
+[11:56:37 AM] 🗑️ Removed focaloca1 (CLEAN) from accounts.txt
+[11:56:59 AM] 🗑️ Removed fofapinguim7 (CLEAN) from accounts.txt
+[11:57:18 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[11:58:50 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:00:22 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[12:00:24 PM] 🗑️ Removed fofask (CLEAN) from accounts.txt
+[12:00:46 PM] 🗑️ Removed fofolena (CLEAN) from accounts.txt
+[12:01:07 PM] 🗑️ Removed fofito12 (CLEAN) from accounts.txt
+[12:01:29 PM] 🗑️ Removed fofolobo3 (CLEAN) from accounts.txt
+[12:01:51 PM] 🗑️ Removed food122 (CLEAN) from accounts.txt
+[12:02:12 PM] 🗑️ Removed footballp39 (CLEAN) from accounts.txt
+[12:02:33 PM] 🗑️ Removed forest103 (CLEAN) from accounts.txt
+[12:02:55 PM] 🗑️ Removed fortnite5559 (CLEAN) from accounts.txt
+[12:03:14 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:04:46 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:06:18 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[12:06:20 PM] 🗑️ Removed fortnit722 (CLEAN) from accounts.txt
+[12:06:42 PM] 🗑️ Removed foxfofa45aj (CLEAN) from accounts.txt
+[12:07:03 PM] 🗑️ Removed foxixitogamer (CLEAN) from accounts.txt
+[12:07:24 PM] 🗑️ Removed foxikawaii300 (CLEAN) from accounts.txt
+[12:07:46 PM] 🗑️ Removed foxqueen2011 (CLEAN) from accounts.txt
+[12:08:07 PM] 🗑️ Removed foxycub1 (CLEAN) from accounts.txt
+[12:08:29 PM] 🗑️ Removed foxy45670 (CLEAN) from accounts.txt
+[12:08:50 PM] 🗑️ Removed foxytest651 (CLEAN) from accounts.txt
+[12:09:12 PM] 🗑️ Removed fran8080 (CLEAN) from accounts.txt
+[12:09:31 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:11:03 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:12:35 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[12:12:37 PM] 🗑️ Removed francis102 (CLEAN) from accounts.txt
+[12:12:59 PM] 🗑️ Removed franciscakawaii2010 (CLEAN) from accounts.txt
+[12:13:20 PM] 🗑️ Removed frankiethebest32 (CLEAN) from accounts.txt
+[12:13:42 PM] 🗑️ Removed franco1327 (CLEAN) from accounts.txt
+[12:14:03 PM] 🗑️ Removed fred1188 (CLEAN) from accounts.txt
+[12:14:25 PM] 🗑️ Removed freddy1416 (CLEAN) from accounts.txt
+[12:14:47 PM] 🗑️ Removed fresco37 (CLEAN) from accounts.txt
+[12:15:08 PM] 🗑️ Removed freshboy47 (CLEAN) from accounts.txt
+[12:15:29 PM] 🗑️ Removed frey58 (CLEAN) from accounts.txt
+[12:15:51 PM] 🗑️ Removed fresitakawaii24 (CLEAN) from accounts.txt
+[12:16:10 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:17:42 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:19:14 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[12:19:17 PM] 🗑️ Removed frezzer (CLEAN) from accounts.txt
+[12:20:00 PM] 🗑️ Removed friendl52 (CLEAN) from accounts.txt
+[12:20:21 PM] 🗑️ Removed frida10 (CLEAN) from accounts.txt
+[12:20:43 PM] 🗑️ Removed fridabonita28 (CLEAN) from accounts.txt
+[12:21:04 PM] 🗑️ Removed froelich33 (CLEAN) from accounts.txt
+[12:21:26 PM] 🗑️ Removed friendofgod (CLEAN) from accounts.txt
+[12:21:48 PM] 🗑️ Removed frild65 (CLEAN) from accounts.txt
+[12:22:07 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:23:39 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:25:11 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[12:25:13 PM] 🗑️ Removed fsdasdad (CLEAN) from accounts.txt
+[12:25:34 PM] 🗑️ Removed frozn36 (CLEAN) from accounts.txt
+[12:25:56 PM] 🗑️ Removed frozentiger107 (CLEAN) from accounts.txt
+[12:26:17 PM] 🗑️ Removed fuffykoala14 (CLEAN) from accounts.txt
+[12:26:39 PM] 🗑️ Removed funidkidkidk (CLEAN) from accounts.txt
+[12:27:00 PM] 🗑️ Removed funky10 (CLEAN) from accounts.txt
+[12:27:43 PM] 🗑️ Removed funnymonkey201 (CLEAN) from accounts.txt
+[12:28:02 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:29:34 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:31:06 PM] [HEARTBEAT END] Servers stable again — resuming checks
+[12:31:08 PM] 🗑️ Removed funnymonkey200 (CLEAN) from accounts.txt
+[7:47:34 PM] 📄 Logging to: checker-log\checker-2025-10-04.txt
+[7:47:34 PM] ✅ Loaded 100 proxies.
+[7:47:38 PM] Starting 1/2688
+[7:48:25 PM] 🗑️ Removed annasep (CLEAN) from accounts.txt
+[7:50:32 PM] [HEARTBEAT] Servers appear offline. Retrying...
+[7:50:49 PM] 🛑 Interrupted — saving progress...
+[7:50:49 PM] 💾 Progress saved.

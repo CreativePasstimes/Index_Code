@@ -1,0 +1,49 @@
+dogs42:cats42                        | diamonds:0   | member:no | created:2018 | clothing: Blackout Moon Necklace | den: Small Stump | pets: none
+bazoucamat:mathys09                  | diamonds:1   | member:no | created:2019 | clothing: none | den: Scorpion Throne | pets: none
+sumercoco:654321                     | diamonds:13  | member:no | created:2019 | clothing: none | den: none | pets: none
+lovemsp118:bellamsp118               | diamonds:6   | member:no | created:2018 | clothing: none | den: none | pets: none
+lolhyta10:lolhyta9                   | diamonds:12  | member:no | created:2019 | clothing: none | den: none | pets: Meagyn's Pet Bear
+pandacoqui:648123                    | diamonds:14  | member:no | created:2019 | clothing: none | den: none | pets: none
+pomi46:MATHIS03                      | diamonds:0   | member:no | created:2015 | clothing: none | den: 2016 Monkey Banner, Pirate Ship Couch | pets: none
+Bff185:boubou                        | diamonds:14  | member:no | created:2018 | clothing: none | den: none | pets: none
+mikado384:loljuju24                  | diamonds:8   | member:no | created:2020 | clothing: none | den: none | pets: none
+mign30:bonsla                        | diamonds:182 | member:no | created:2019 | clothing: none | den: none | pets: none
+totolaphoto:tot2299                  | diamonds:7   | member:no | created:2019 | clothing: none | den: none | pets: none
+nonaf9:nonafou                       | diamonds:13  | member:no | created:2020 | clothing: none | den: none | pets: none
+Biboulecheval:mapi2006               | diamonds:5   | member:no | created:2020 | clothing: none | den: none | pets: none
+Jojoaly:78772006                     | diamonds:8   | member:no | created:2018 | clothing: none | den: none | pets: none
+mign5:hellss                         | diamonds:111 | member:no | created:2019 | clothing: none | den: none | pets: none
+iccyman99:6992408                    | diamonds:59  | member:no | created:2018 | clothing: none | den: none | pets: none
+louki11:123456789                    | diamonds:6   | member:no | created:2019 | clothing: none | den: none | pets: none
+leonardskie1221:45245202             | diamonds:2   | member:no | created:2018 | clothing: none | den: none | pets: Meagyn's Pet Bear
+money800:34$34$                      | diamonds:5   | member:no | created:2018 | clothing: none | den: none | pets: none
+spiritwind36:tigerlily09             | diamonds:2   | member:no | created:2018 | clothing: none | den: none | pets: Meagyn's Pet Bear
+lp116:123345                         | diamonds:0   | member:yes | created:2021 | clothing: none | den: none | pets: none
+livre:wo9fe1                         | diamonds:0   | member:no | created:2018 | clothing: none | den: none | pets: Meagyn's Pet Bear
+sacumi:applle1                       | diamonds:5   | member:no | created:2019 | clothing: none | den: none | pets: none
+tikt47:tiktok                        | diamonds:11  | member:no | created:2020 | clothing: none | den: none | pets: none
+littlemagicflower121:qwerty123456    | diamonds:0   | member:no | created:2014 | clothing: Rare Worn Blanket | den: Teacup, Tiny Shelf, Wall Ivy, Drum Set, Fox Tail Chair, Vine Lamppost, Pool Table, Grand Piano | pets: none
+arina40:arina08                      | diamonds:7   | member:no | created:2018 | clothing: none | den: none | pets: none
+jeremy40:6032007                     | diamonds:6   | member:no | created:2018 | clothing: none | den: none | pets: none
+Jun105:mardiana12                    | diamonds:22  | member:no | created:2018 | clothing: none | den: none | pets: none
+name106:106name                      | diamonds:10  | member:no | created:2018 | clothing: none | den: none | pets: none
+kingkin159:09194735806               | diamonds:1   | member:no | created:2018 | clothing: none | den: none | pets: Meagyn's Pet Bear
+pettytobepretty:jwoodson             | diamonds:5   | member:no | created:2018 | clothing: none | den: none | pets: none
+Rainbowunicorn2808:28082808          | diamonds:0   | member:yes | created:2020 | clothing: none | den: Giant Gingerbread Man | pets: none
+rosada8:agua3321                     | diamonds:5   | member:no | created:2018 | clothing: none | den: none | pets: none
+Mimi036:isabella03                   | diamonds:9   | member:no | created:2019 | clothing: none | den: none | pets: none
+ririe41:ririe14                      | diamonds:5   | member:no | created:2019 | clothing: none | den: none | pets: none
+pinguoin851:maxisap                  | diamonds:6   | member:no | created:2019 | clothing: none | den: none | pets: none
+mimu100:412563                       | diamonds:9   | member:no | created:2018 | clothing: none | den: none | pets: none
+pepite56:azerty                      | diamonds:2   | member:no | created:2019 | clothing: none | den: Vine Lamppost | pets: none
+wi555:zozo44                         | diamonds:8   | member:no | created:2015 | clothing: none | den: none | pets: none
+Squell:azertyuiop123                 | diamonds:1   | member:no | created:2019 | clothing: none | den: Scorpion Throne | pets: none
+Fleurka:rexrex                       | diamonds:6   | member:no | created:2020 | clothing: none | den: none | pets: none
+loutine39:melgaut                    | diamonds:2   | member:no | created:2020 | clothing: Blackout Moon Necklace | den: none | pets: none
+goloi:123m123                        | diamonds:14  | member:no | created:2018 | clothing: none | den: none | pets: none
+Picorose:excavation666               | diamonds:0   | member:no | created:2019 | clothing: Thorn Spiked Collar | den: none | pets: none
+rosewolf26:moza12                    | diamonds:18  | member:no | created:2018 | clothing: none | den: none | pets: none
+Breybaby1:michaelismine              | diamonds:3   | member:no | created:2018 | clothing: none | den: none | pets: Meagyn's Pet Bear
+amissiaj8:kingmessi                  | diamonds:9   | member:no | created:2019 | clothing: none | den: none | pets: none
+jema33:14789632                      | diamonds:7   | member:no | created:2018 | clothing: none | den: none | pets: none
+daniel6811:4701130                   | diamonds:12  | member:no | created:2019 | clothing: none | den: none | pets: none

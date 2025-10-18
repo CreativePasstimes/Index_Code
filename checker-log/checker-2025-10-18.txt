@@ -1,0 +1,477 @@
+[8:00:11 PM] 🗑️ Removed maman36 (PROCESSED_RETRY) from accounts.txt
+[8:00:11 PM] ✅ accounts.txt updated — 222 remaining
+[8:00:19 PM] 🗑️ Removed sophie3443 (PROCESSED) from accounts.txt
+[8:00:19 PM] ✅ accounts.txt updated — 221 remaining
+[8:00:28 PM] 🗑️ Removed 7111fala (PROCESSED) from accounts.txt
+[8:00:28 PM] ✅ accounts.txt updated — 220 remaining
+[8:00:36 PM] 🗑️ Removed nadiel (PROCESSED) from accounts.txt
+[8:00:36 PM] ✅ accounts.txt updated — 219 remaining
+[8:01:50 PM] 🗑️ Removed sofilu22 (NO_USERDATA) from accounts.txt
+[8:01:50 PM] ✅ accounts.txt updated — 218 remaining
+[8:02:03 PM] 🗑️ Removed Sarasote (PROCESSED) from accounts.txt
+[8:02:03 PM] ✅ accounts.txt updated — 217 remaining
+[8:02:11 PM] 🗑️ Removed maximus28888 (PROCESSED) from accounts.txt
+[8:02:11 PM] ✅ accounts.txt updated — 216 remaining
+[8:02:19 PM] 🗑️ Removed lencitax22 (PROCESSED) from accounts.txt
+[8:02:19 PM] ✅ accounts.txt updated — 215 remaining
+[8:03:04 PM] 🗑️ Removed rallasasu3 (PROCESSED_RETRY) from accounts.txt
+[8:03:04 PM] ✅ accounts.txt updated — 214 remaining
+[8:04:18 PM] 🗑️ Removed Matiasbenja (NO_USERDATA) from accounts.txt
+[8:04:18 PM] ✅ accounts.txt updated — 213 remaining
+[8:04:31 PM] 🗑️ Removed lulu8715 (PROCESSED) from accounts.txt
+[8:04:31 PM] ✅ accounts.txt updated — 212 remaining
+[8:04:39 PM] 🗑️ Removed meingolfoxy152 (PROCESSED) from accounts.txt
+[8:04:39 PM] ✅ accounts.txt updated — 211 remaining
+[8:04:47 PM] 🗑️ Removed alison12340 (PROCESSED) from accounts.txt
+[8:04:47 PM] ✅ accounts.txt updated — 210 remaining
+[8:04:55 PM] 🗑️ Removed marvel257 (PROCESSED) from accounts.txt
+[8:04:55 PM] ✅ accounts.txt updated — 209 remaining
+[8:05:03 PM] 🗑️ Removed Mateogm (PROCESSED) from accounts.txt
+[8:05:03 PM] ✅ accounts.txt updated — 208 remaining
+[8:05:49 PM] 🗑️ Removed Kani84 (PROCESSED_RETRY) from accounts.txt
+[8:05:49 PM] ✅ accounts.txt updated — 207 remaining
+[8:05:58 PM] 🗑️ Removed luz77770 (PROCESSED) from accounts.txt
+[8:05:58 PM] ✅ accounts.txt updated — 206 remaining
+[8:06:06 PM] 🗑️ Removed lorelisanabelle47 (PROCESSED) from accounts.txt
+[8:06:06 PM] ✅ accounts.txt updated — 205 remaining
+[8:07:20 PM] 🗑️ Removed quetzal686 (NO_USERDATA) from accounts.txt
+[8:07:20 PM] ✅ accounts.txt updated — 204 remaining
+[8:08:11 PM] 🗑️ Removed marfi26 (PROCESSED_RETRY) from accounts.txt
+[8:08:11 PM] ✅ accounts.txt updated — 203 remaining
+[8:08:19 PM] 🗑️ Removed srtaluly800 (PROCESSED) from accounts.txt
+[8:08:19 PM] ✅ accounts.txt updated — 202 remaining
+[8:08:27 PM] 🗑️ Removed laina68 (PROCESSED) from accounts.txt
+[8:08:27 PM] ✅ accounts.txt updated — 201 remaining
+[8:08:35 PM] 🗑️ Removed juanchiblack22 (PROCESSED) from accounts.txt
+[8:08:35 PM] ✅ accounts.txt updated — 200 remaining
+[8:08:42 PM] 🗑️ Removed 75y22 (PROCESSED) from accounts.txt
+[8:08:42 PM] ✅ accounts.txt updated — 199 remaining
+[8:09:28 PM] 🗑️ Removed misskitty2000 (PROCESSED_RETRY) from accounts.txt
+[8:09:28 PM] ✅ accounts.txt updated — 198 remaining
+[8:09:36 PM] 🗑️ Removed lindopreciososamu123 (PROCESSED) from accounts.txt
+[8:09:36 PM] ✅ accounts.txt updated — 197 remaining
+[8:09:43 PM] 🗑️ Removed Lumadrid40 (PROCESSED) from accounts.txt
+[8:09:43 PM] ✅ accounts.txt updated — 196 remaining
+[8:09:52 PM] 🗑️ Removed Alinalioness9896 (PROCESSED) from accounts.txt
+[8:09:52 PM] ✅ accounts.txt updated — 195 remaining
+[8:10:37 PM] 🗑️ Removed eszti29 (PROCESSED_RETRY) from accounts.txt
+[8:10:37 PM] ✅ accounts.txt updated — 194 remaining
+[8:11:22 PM] 🗑️ Removed bellemonkey1 (PROCESSED_RETRY) from accounts.txt
+[8:11:22 PM] ✅ accounts.txt updated — 193 remaining
+[8:11:30 PM] 🗑️ Removed mona79 (PROCESSED) from accounts.txt
+[8:11:30 PM] ✅ accounts.txt updated — 192 remaining
+[8:11:38 PM] 🗑️ Removed culater9 (PROCESSED) from accounts.txt
+[8:11:38 PM] ✅ accounts.txt updated — 191 remaining
+[8:12:23 PM] 🗑️ Removed ethan1256 (PROCESSED_RETRY) from accounts.txt
+[8:12:23 PM] ✅ accounts.txt updated — 190 remaining
+[8:12:30 PM] 🗑️ Removed cbailey2 (PROCESSED) from accounts.txt
+[8:12:30 PM] ✅ accounts.txt updated — 189 remaining
+[8:12:38 PM] 🗑️ Removed cutey956 (PROCESSED) from accounts.txt
+[8:12:38 PM] ✅ accounts.txt updated — 188 remaining
+[8:12:47 PM] 🗑️ Removed nahomi12 (PROCESSED) from accounts.txt
+[8:12:47 PM] ✅ accounts.txt updated — 187 remaining
+[8:12:55 PM] 🗑️ Removed tuci45 (PROCESSED) from accounts.txt
+[8:12:55 PM] ✅ accounts.txt updated — 186 remaining
+[8:13:03 PM] 🗑️ Removed wolfpaolo (PROCESSED) from accounts.txt
+[8:13:03 PM] ✅ accounts.txt updated — 185 remaining
+[8:13:11 PM] 🗑️ Removed abbey73 (PROCESSED) from accounts.txt
+[8:13:11 PM] ✅ accounts.txt updated — 184 remaining
+[8:13:56 PM] 🗑️ Removed zoe0y (PROCESSED_RETRY) from accounts.txt
+[8:13:56 PM] ✅ accounts.txt updated — 183 remaining
+[8:14:04 PM] 🗑️ Removed Teabloom (PROCESSED) from accounts.txt
+[8:14:04 PM] ✅ accounts.txt updated — 182 remaining
+[8:14:50 PM] 🗑️ Removed Tillion (PROCESSED_RETRY) from accounts.txt
+[8:14:50 PM] ✅ accounts.txt updated — 181 remaining
+[8:15:35 PM] 🗑️ Removed iceninja05 (PROCESSED_RETRY) from accounts.txt
+[8:15:35 PM] ✅ accounts.txt updated — 180 remaining
+[8:15:43 PM] 🗑️ Removed laic27 (PROCESSED) from accounts.txt
+[8:15:43 PM] ✅ accounts.txt updated — 179 remaining
+[8:16:29 PM] 🗑️ Removed nazamdp (PROCESSED_RETRY) from accounts.txt
+[8:16:29 PM] ✅ accounts.txt updated — 178 remaining
+[8:16:38 PM] 🗑️ Removed alisongama (PROCESSED) from accounts.txt
+[8:16:38 PM] ✅ accounts.txt updated — 177 remaining
+[8:16:46 PM] 🗑️ Removed dylanbj6 (PROCESSED) from accounts.txt
+[8:16:46 PM] ✅ accounts.txt updated — 176 remaining
+[8:16:54 PM] 🗑️ Removed lindayt17 (PROCESSED) from accounts.txt
+[8:16:54 PM] ✅ accounts.txt updated — 175 remaining
+[8:17:02 PM] 🗑️ Removed tigreloco30 (PROCESSED) from accounts.txt
+[8:17:02 PM] ✅ accounts.txt updated — 174 remaining
+[8:17:11 PM] 🗑️ Removed rainbodas27 (PROCESSED) from accounts.txt
+[8:17:11 PM] ✅ accounts.txt updated — 173 remaining
+[8:17:19 PM] 🗑️ Removed koalapachonsito5 (PROCESSED) from accounts.txt
+[8:17:19 PM] ✅ accounts.txt updated — 172 remaining
+[8:18:05 PM] 🗑️ Removed Selena495 (PROCESSED_RETRY) from accounts.txt
+[8:18:05 PM] ✅ accounts.txt updated — 171 remaining
+[8:18:50 PM] 🗑️ Removed phanjhetjd (PROCESSED_RETRY) from accounts.txt
+[8:18:50 PM] ✅ accounts.txt updated — 170 remaining
+[8:18:58 PM] 🗑️ Removed Princesitalisarebel (PROCESSED) from accounts.txt
+[8:18:58 PM] ✅ accounts.txt updated — 169 remaining
+[8:19:06 PM] 🗑️ Removed alejandra1752 (PROCESSED) from accounts.txt
+[8:19:06 PM] ✅ accounts.txt updated — 168 remaining
+[8:19:14 PM] 🗑️ Removed ysis2 (PROCESSED) from accounts.txt
+[8:19:14 PM] ✅ accounts.txt updated — 167 remaining
+[8:19:22 PM] 🗑️ Removed diablita7w7uwu (PROCESSED) from accounts.txt
+[8:19:22 PM] ✅ accounts.txt updated — 166 remaining
+[8:20:36 PM] 🗑️ Removed Chimikookv (NO_USERDATA) from accounts.txt
+[8:20:36 PM] ✅ accounts.txt updated — 165 remaining
+[8:21:26 PM] 🗑️ Removed azukoxx (PROCESSED_RETRY) from accounts.txt
+[8:21:26 PM] ✅ accounts.txt updated — 164 remaining
+[8:21:35 PM] 🗑️ Removed wolfblue124 (PROCESSED) from accounts.txt
+[8:21:35 PM] ✅ accounts.txt updated — 163 remaining
+[8:21:43 PM] 🗑️ Removed bianki45 (PROCESSED) from accounts.txt
+[8:21:43 PM] ✅ accounts.txt updated — 162 remaining
+[8:21:51 PM] 🗑️ Removed miraissy (PROCESSED) from accounts.txt
+[8:21:51 PM] ✅ accounts.txt updated — 161 remaining
+[8:22:37 PM] 🗑️ Removed Handsome563 (PROCESSED_RETRY) from accounts.txt
+[8:22:37 PM] ✅ accounts.txt updated — 160 remaining
+[8:22:38 PM] 🛑 Interrupted — saving progress...
+[8:22:38 PM] 💾 Progress saved.
+[12:03:06 AM] 📄 Logging to: checker-log\checker-2025-10-18.txt
+[12:03:06 AM] 🌐 Proxy use disabled (CONFIG.USE_PROXIES = false).
+[12:03:32 AM] 📄 Logging to: checker-log\checker-2025-10-18.txt
+[12:03:32 AM] 🌐 Proxy use disabled (CONFIG.USE_PROXIES = false).
+[12:03:33 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[12:04:34 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[12:04:38 AM] Starting 1/7116
+[12:04:38 AM] 🗑️ Removed teamllama35 (INVALID_PASSWORD) from accounts.txt
+[12:04:38 AM] ✅ accounts.txt updated — 7115 remaining
+[12:04:48 AM] 🗑️ Removed dylan12345 (INVALID_PASSWORD) from accounts.txt
+[12:04:48 AM] ✅ accounts.txt updated — 7114 remaining
+[12:04:51 AM] 🛑 Interrupted — saving progress...
+[12:04:51 AM] 💾 Progress saved.
+[12:05:10 AM] 📄 Logging to: checker-log\checker-2025-10-18.txt
+[12:05:11 AM] 🌐 Proxy use disabled (CONFIG.USE_PROXIES = false).
+[12:05:12 AM] Starting 1/7114
+[12:05:13 AM] 🗑️ Removed Imboredlikealot (INVALID_PASSWORD) from accounts.txt
+[12:05:13 AM] ✅ accounts.txt updated — 7113 remaining
+[12:05:23 AM] 🗑️ Removed Jammer3v213 (INVALID_PASSWORD) from accounts.txt
+[12:05:23 AM] ✅ accounts.txt updated — 7112 remaining
+[12:05:33 AM] 🗑️ Removed serah2606 (INVALID_PASSWORD) from accounts.txt
+[12:05:33 AM] ✅ accounts.txt updated — 7111 remaining
+[12:05:44 AM] 🗑️ Removed midnightjamer2010 (INVALID_PASSWORD) from accounts.txt
+[12:05:44 AM] ✅ accounts.txt updated — 7110 remaining
+[12:05:54 AM] 🗑️ Removed osuiceman123 (INVALID_PASSWORD) from accounts.txt
+[12:05:54 AM] ✅ accounts.txt updated — 7109 remaining
+[12:06:04 AM] 🗑️ Removed petpal1234 (INVALID_PASSWORD) from accounts.txt
+[12:06:04 AM] ✅ accounts.txt updated — 7108 remaining
+[12:06:15 AM] 🗑️ Removed chloeelephant3645 (INVALID_PASSWORD) from accounts.txt
+[12:06:15 AM] ✅ accounts.txt updated — 7107 remaining
+[12:06:29 AM] 🛑 Interrupted — saving progress...
+[12:06:29 AM] 💾 Progress saved.
+[12:06:31 AM] 📄 Logging to: checker-log\checker-2025-10-18.txt
+[12:06:31 AM] 🌐 Proxy use disabled (CONFIG.USE_PROXIES = false).
+[12:06:33 AM] Starting 1/7107
+[12:06:34 AM] 🗑️ Removed garam0986 (PROCESSED) from accounts.txt
+[12:06:34 AM] ✅ accounts.txt updated — 7106 remaining
+[12:06:35 AM] 🗑️ Removed lilyloowho (INVALID_PASSWORD) from accounts.txt
+[12:06:35 AM] ✅ accounts.txt updated — 7105 remaining
+[12:06:46 AM] 🗑️ Removed fluffyking362 (INVALID_PASSWORD) from accounts.txt
+[12:06:46 AM] ✅ accounts.txt updated — 7104 remaining
+[12:06:56 AM] 🗑️ Removed skylander39734 (INVALID_PASSWORD) from accounts.txt
+[12:06:56 AM] ✅ accounts.txt updated — 7103 remaining
+[12:07:06 AM] 🗑️ Removed Mangopup25 (INVALID_PASSWORD) from accounts.txt
+[12:07:06 AM] ✅ accounts.txt updated — 7102 remaining
+[12:07:53 AM] 🗑️ Removed loreleikathleen (NO_USERDATA) from accounts.txt
+[12:07:53 AM] ✅ accounts.txt updated — 7101 remaining
+[12:08:03 AM] 🗑️ Removed bitsyjammin (UNKNOWN_FAIL) from accounts.txt
+[12:08:03 AM] ✅ accounts.txt updated — 7100 remaining
+[12:08:13 AM] 🗑️ Removed Optimus1118 (UNKNOWN_FAIL) from accounts.txt
+[12:08:13 AM] ✅ accounts.txt updated — 7099 remaining
+[12:08:23 AM] 🗑️ Removed lauryn116 (UNKNOWN_FAIL) from accounts.txt
+[12:08:23 AM] ✅ accounts.txt updated — 7098 remaining
+[12:08:33 AM] 🗑️ Removed ryleigh10886 (UNKNOWN_FAIL) from accounts.txt
+[12:08:33 AM] ✅ accounts.txt updated — 7097 remaining
+[12:08:36 AM] 🛑 Interrupted — saving progress...
+[12:08:36 AM] 💾 Progress saved.
+[12:09:05 AM] 📄 Logging to: checker-log\checker-2025-10-18.txt
+[12:09:05 AM] ✅ Loaded 145 proxies.
+[12:09:06 AM] Starting 1/7097
+[12:09:07 AM] 🗑️ Removed Spiritbunny65 (INVALID_PASSWORD) from accounts.txt
+[12:09:07 AM] ✅ accounts.txt updated — 7096 remaining
+[12:09:08 AM] 🗑️ Removed mgn6 (INVALID_PASSWORD) from accounts.txt
+[12:09:08 AM] ✅ accounts.txt updated — 7095 remaining
+[12:09:09 AM] 🗑️ Removed Elliot224 (INVALID_PASSWORD) from accounts.txt
+[12:09:09 AM] ✅ accounts.txt updated — 7094 remaining
+[12:09:10 AM] 🗑️ Removed Foxle77 (INVALID_PASSWORD) from accounts.txt
+[12:09:10 AM] ✅ accounts.txt updated — 7093 remaining
+[12:09:11 AM] 🗑️ Removed rain287 (INVALID_PASSWORD) from accounts.txt
+[12:09:11 AM] ✅ accounts.txt updated — 7092 remaining
+[12:09:13 AM] 🗑️ Removed rainbowslushies0 (INVALID_PASSWORD) from accounts.txt
+[12:09:13 AM] ✅ accounts.txt updated — 7091 remaining
+[12:09:14 AM] 🗑️ Removed duma23803 (INVALID_PASSWORD) from accounts.txt
+[12:09:14 AM] ✅ accounts.txt updated — 7090 remaining
+[12:09:15 AM] 🗑️ Removed theacefamily3000 (INVALID_PASSWORD) from accounts.txt
+[12:09:15 AM] ✅ accounts.txt updated — 7089 remaining
+[12:09:16 AM] 🗑️ Removed kandice98 (INVALID_PASSWORD) from accounts.txt
+[12:09:16 AM] ✅ accounts.txt updated — 7088 remaining
+[12:09:17 AM] 🗑️ Removed matthewlang (INVALID_PASSWORD) from accounts.txt
+[12:09:17 AM] ✅ accounts.txt updated — 7087 remaining
+[12:09:19 AM] 🗑️ Removed kitcatoz3 (INVALID_PASSWORD) from accounts.txt
+[12:09:19 AM] ✅ accounts.txt updated — 7086 remaining
+[12:09:20 AM] 🗑️ Removed daredevithegost (INVALID_PASSWORD) from accounts.txt
+[12:09:20 AM] ✅ accounts.txt updated — 7085 remaining
+[12:09:21 AM] 🗑️ Removed cjorg (INVALID_PASSWORD) from accounts.txt
+[12:09:21 AM] ✅ accounts.txt updated — 7084 remaining
+[12:09:22 AM] 🗑️ Removed chipswirl411 (INVALID_PASSWORD) from accounts.txt
+[12:09:22 AM] ✅ accounts.txt updated — 7083 remaining
+[12:09:23 AM] 🗑️ Removed charlotte2d (INVALID_PASSWORD) from accounts.txt
+[12:09:23 AM] ✅ accounts.txt updated — 7082 remaining
+[12:10:20 AM] 🛑 Interrupted — saving progress...
+[12:10:20 AM] 💾 Progress saved.
+[12:10:22 AM] 📄 Logging to: checker-log\checker-2025-10-18.txt
+[12:10:22 AM] ✅ Loaded 145 proxies.
+[12:10:25 AM] Starting 1/7082
+[12:10:25 AM] 🗑️ Removed kittycatcakes (INVALID_PASSWORD) from accounts.txt
+[12:10:25 AM] ✅ accounts.txt updated — 7081 remaining
+[12:10:26 AM] 🗑️ Removed finley27 (INVALID_PASSWORD) from accounts.txt
+[12:10:26 AM] ✅ accounts.txt updated — 7080 remaining
+[12:10:27 AM] 🗑️ Removed blankf (INVALID_PASSWORD) from accounts.txt
+[12:10:27 AM] ✅ accounts.txt updated — 7079 remaining
+[12:10:29 AM] 🗑️ Removed Toastyu (INVALID_PASSWORD) from accounts.txt
+[12:10:29 AM] ✅ accounts.txt updated — 7078 remaining
+[12:10:30 AM] 🗑️ Removed Berit91909 (INVALID_PASSWORD) from accounts.txt
+[12:10:30 AM] ✅ accounts.txt updated — 7077 remaining
+[12:10:31 AM] 🗑️ Removed Akuui (INVALID_PASSWORD) from accounts.txt
+[12:10:31 AM] ✅ accounts.txt updated — 7076 remaining
+[12:10:32 AM] 🗑️ Removed bingala (INVALID_PASSWORD) from accounts.txt
+[12:10:32 AM] ✅ accounts.txt updated — 7075 remaining
+[12:10:33 AM] 🗑️ Removed zanna3 (INVALID_PASSWORD) from accounts.txt
+[12:10:33 AM] ✅ accounts.txt updated — 7074 remaining
+[12:10:34 AM] 🗑️ Removed iggypiggy8 (INVALID_PASSWORD) from accounts.txt
+[12:10:34 AM] ✅ accounts.txt updated — 7073 remaining
+[12:10:36 AM] 🗑️ Removed stetson138 (INVALID_PASSWORD) from accounts.txt
+[12:10:36 AM] ✅ accounts.txt updated — 7072 remaining
+[12:10:37 AM] 🗑️ Removed mlplov99 (INVALID_PASSWORD) from accounts.txt
+[12:10:37 AM] ✅ accounts.txt updated — 7071 remaining
+[12:10:38 AM] 🗑️ Removed lyssaj31 (INVALID_PASSWORD) from accounts.txt
+[12:10:38 AM] ✅ accounts.txt updated — 7070 remaining
+[12:10:39 AM] 🗑️ Removed bbstargirl (INVALID_PASSWORD) from accounts.txt
+[12:10:39 AM] ✅ accounts.txt updated — 7069 remaining
+[12:10:40 AM] 🗑️ Removed laby728 (INVALID_PASSWORD) from accounts.txt
+[12:10:40 AM] ✅ accounts.txt updated — 7068 remaining
+[12:10:42 AM] 🗑️ Removed angelr413 (INVALID_PASSWORD) from accounts.txt
+[12:10:42 AM] ✅ accounts.txt updated — 7067 remaining
+[12:10:43 AM] 🗑️ Removed kittycattiger14 (INVALID_PASSWORD) from accounts.txt
+[12:10:43 AM] ✅ accounts.txt updated — 7066 remaining
+[12:10:44 AM] 🗑️ Removed Medallion (INVALID_PASSWORD) from accounts.txt
+[12:10:44 AM] ✅ accounts.txt updated — 7065 remaining
+[12:10:45 AM] 🗑️ Removed Twizler2 (INVALID_PASSWORD) from accounts.txt
+[12:10:45 AM] ✅ accounts.txt updated — 7064 remaining
+[12:10:46 AM] 🗑️ Removed kolass (INVALID_PASSWORD) from accounts.txt
+[12:10:46 AM] ✅ accounts.txt updated — 7063 remaining
+[12:10:47 AM] 🗑️ Removed ellyssia33 (INVALID_PASSWORD) from accounts.txt
+[12:10:47 AM] ✅ accounts.txt updated — 7062 remaining
+[12:10:48 AM] 🗑️ Removed seally100 (INVALID_PASSWORD) from accounts.txt
+[12:10:48 AM] ✅ accounts.txt updated — 7061 remaining
+[12:10:49 AM] 🗑️ Removed Fizzyspy (INVALID_PASSWORD) from accounts.txt
+[12:10:49 AM] ✅ accounts.txt updated — 7060 remaining
+[12:10:51 AM] 🗑️ Removed moopydoo (INVALID_PASSWORD) from accounts.txt
+[12:10:51 AM] ✅ accounts.txt updated — 7059 remaining
+[12:10:52 AM] 🗑️ Removed ninjashadow70 (INVALID_PASSWORD) from accounts.txt
+[12:10:52 AM] ✅ accounts.txt updated — 7058 remaining
+[12:10:53 AM] 🗑️ Removed diamondinthesky42 (INVALID_PASSWORD) from accounts.txt
+[12:10:53 AM] ✅ accounts.txt updated — 7057 remaining
+[12:10:54 AM] 🗑️ Removed yoshi747 (INVALID_PASSWORD) from accounts.txt
+[12:10:54 AM] ✅ accounts.txt updated — 7056 remaining
+[12:10:55 AM] 🗑️ Removed lpsawesome6 (INVALID_PASSWORD) from accounts.txt
+[12:10:55 AM] ✅ accounts.txt updated — 7055 remaining
+[12:10:56 AM] 🗑️ Removed Minervaalbus (INVALID_PASSWORD) from accounts.txt
+[12:10:56 AM] ✅ accounts.txt updated — 7054 remaining
+[12:10:58 AM] 🗑️ Removed agwhite9 (INVALID_PASSWORD) from accounts.txt
+[12:10:58 AM] ✅ accounts.txt updated — 7053 remaining
+[12:11:36 AM] 🗑️ Removed Emibear (PROCESSED_RETRY) from accounts.txt
+[12:11:36 AM] ✅ accounts.txt updated — 7052 remaining
+[12:11:37 AM] 🗑️ Removed wilker45 (INVALID_PASSWORD) from accounts.txt
+[12:11:37 AM] ✅ accounts.txt updated — 7051 remaining
+[12:11:39 AM] 🗑️ Removed funnybunny51088 (BANNED) from accounts.txt
+[12:11:39 AM] ✅ accounts.txt updated — 7050 remaining
+[12:11:40 AM] 🗑️ Removed Lilolly (INVALID_PASSWORD) from accounts.txt
+[12:11:40 AM] ✅ accounts.txt updated — 7049 remaining
+[12:11:41 AM] 🗑️ Removed s0up (INVALID_PASSWORD) from accounts.txt
+[12:11:41 AM] ✅ accounts.txt updated — 7048 remaining
+[12:11:42 AM] 🗑️ Removed rory33546 (INVALID_PASSWORD) from accounts.txt
+[12:11:42 AM] ✅ accounts.txt updated — 7047 remaining
+[12:11:43 AM] 🗑️ Removed puffcat337 (INVALID_PASSWORD) from accounts.txt
+[12:11:43 AM] ✅ accounts.txt updated — 7046 remaining
+[12:11:45 AM] 🗑️ Removed bigbird62 (INVALID_PASSWORD) from accounts.txt
+[12:11:45 AM] ✅ accounts.txt updated — 7045 remaining
+[12:11:46 AM] 🗑️ Removed rhinorock1 (INVALID_PASSWORD) from accounts.txt
+[12:11:46 AM] ✅ accounts.txt updated — 7044 remaining
+[12:11:47 AM] 🗑️ Removed cooljay221 (INVALID_PASSWORD) from accounts.txt
+[12:11:47 AM] ✅ accounts.txt updated — 7043 remaining
+[12:12:55 AM] 🗑️ Removed fnag2234 (NO_USERDATA) from accounts.txt
+[12:12:55 AM] ✅ accounts.txt updated — 7042 remaining
+[12:12:56 AM] 🗑️ Removed lunacutie100 (UNKNOWN_FAIL) from accounts.txt
+[12:12:56 AM] ✅ accounts.txt updated — 7041 remaining
+[12:12:57 AM] 🗑️ Removed sarahnd (UNKNOWN_FAIL) from accounts.txt
+[12:12:57 AM] ✅ accounts.txt updated — 7040 remaining
+[12:12:58 AM] 🗑️ Removed fizzfox909 (UNKNOWN_FAIL) from accounts.txt
+[12:12:58 AM] ✅ accounts.txt updated — 7039 remaining
+[12:12:59 AM] 🗑️ Removed lizzycat12 (UNKNOWN_FAIL) from accounts.txt
+[12:12:59 AM] ✅ accounts.txt updated — 7038 remaining
+[12:13:00 AM] 🗑️ Removed mariajose126 (UNKNOWN_FAIL) from accounts.txt
+[12:13:00 AM] ✅ accounts.txt updated — 7037 remaining
+[12:13:01 AM] 🗑️ Removed Djpandainthehouse17 (UNKNOWN_FAIL) from accounts.txt
+[12:13:01 AM] ✅ accounts.txt updated — 7036 remaining
+[12:13:02 AM] 🗑️ Removed Cutiewolfy46 (UNKNOWN_FAIL) from accounts.txt
+[12:13:02 AM] ✅ accounts.txt updated — 7035 remaining
+[12:13:03 AM] 🗑️ Removed phka (UNKNOWN_FAIL) from accounts.txt
+[12:13:03 AM] ✅ accounts.txt updated — 7034 remaining
+[12:13:04 AM] 🗑️ Removed bugrose7 (UNKNOWN_FAIL) from accounts.txt
+[12:13:04 AM] ✅ accounts.txt updated — 7033 remaining
+[12:13:05 AM] 🗑️ Removed narnia4ever (UNKNOWN_FAIL) from accounts.txt
+[12:13:05 AM] ✅ accounts.txt updated — 7032 remaining
+[12:13:06 AM] 🗑️ Removed coolcoolcococool (UNKNOWN_FAIL) from accounts.txt
+[12:13:06 AM] ✅ accounts.txt updated — 7031 remaining
+[12:13:07 AM] 🗑️ Removed sealbun32 (UNKNOWN_FAIL) from accounts.txt
+[12:13:07 AM] ✅ accounts.txt updated — 7030 remaining
+[12:13:07 AM] 🛑 Interrupted — saving progress...
+[12:13:07 AM] 💾 Progress saved.
+[2:22:51 AM] 📄 Logging to: checker-log\checker-2025-10-18.txt
+[2:22:51 AM] ✅ Loaded 145 proxies.
+[2:22:54 AM] Starting 1/1658
+[2:22:55 AM] 🗑️ Removed staris8 (PROCESSED) from accounts.txt
+[2:22:55 AM] ✅ accounts.txt updated — 1657 remaining
+[2:23:02 AM] 🗑️ Removed Jammerhendrick (PROCESSED) from accounts.txt
+[2:23:02 AM] ✅ accounts.txt updated — 1656 remaining
+[2:23:08 AM] 🗑️ Removed cynclair (PROCESSED) from accounts.txt
+[2:23:08 AM] ✅ accounts.txt updated — 1655 remaining
+[2:23:15 AM] 🗑️ Removed ughmeeee (PROCESSED) from accounts.txt
+[2:23:15 AM] ✅ accounts.txt updated — 1654 remaining
+[2:23:57 AM] 🗑️ Removed positivelygrayson (PROCESSED_RETRY) from accounts.txt
+[2:23:57 AM] ✅ accounts.txt updated — 1653 remaining
+[2:24:04 AM] 🗑️ Removed maura16 (PROCESSED) from accounts.txt
+[2:24:04 AM] ✅ accounts.txt updated — 1652 remaining
+[2:24:10 AM] 🗑️ Removed dogs42 (PROCESSED) from accounts.txt
+[2:24:10 AM] ✅ accounts.txt updated — 1651 remaining
+[2:24:53 AM] 🗑️ Removed aaron140 (PROCESSED_RETRY) from accounts.txt
+[2:24:53 AM] ✅ accounts.txt updated — 1650 remaining
+[2:25:00 AM] 🗑️ Removed badybun112 (PROCESSED) from accounts.txt
+[2:25:00 AM] ✅ accounts.txt updated — 1649 remaining
+[2:26:11 AM] 🗑️ Removed diegothebravewolf2 (NO_USERDATA) from accounts.txt
+[2:26:11 AM] ✅ accounts.txt updated — 1648 remaining
+[2:26:13 AM] 🗑️ Removed sparky0011 (UNKNOWN_FAIL) from accounts.txt
+[2:26:13 AM] ✅ accounts.txt updated — 1647 remaining
+[2:26:14 AM] 🗑️ Removed floca84 (UNKNOWN_FAIL) from accounts.txt
+[2:26:14 AM] ✅ accounts.txt updated — 1646 remaining
+[2:26:15 AM] 🗑️ Removed pikachupro2 (UNKNOWN_FAIL) from accounts.txt
+[2:26:15 AM] ✅ accounts.txt updated — 1645 remaining
+[2:26:16 AM] 🗑️ Removed Tigerwomen5000 (UNKNOWN_FAIL) from accounts.txt
+[2:26:16 AM] ✅ accounts.txt updated — 1644 remaining
+[2:26:17 AM] 🗑️ Removed Sunnybluecloud (UNKNOWN_FAIL) from accounts.txt
+[2:26:17 AM] ✅ accounts.txt updated — 1643 remaining
+[2:26:18 AM] 🛑 Interrupted — saving progress...
+[2:26:18 AM] 💾 Progress saved.
+[2:29:05 AM] 📄 Logging to: checker-log\checker-2025-10-18.txt
+[2:29:05 AM] ✅ Loaded 145 proxies.
+[2:29:07 AM] Starting 1/1643
+[2:29:09 AM] 🗑️ Removed crazysugar123 (PROCESSED) from accounts.txt
+[2:29:09 AM] ✅ accounts.txt updated — 1642 remaining
+[2:29:39 AM] 🛑 Interrupted — saving progress...
+[2:29:39 AM] 💾 Progress saved.
+[2:30:03 AM] 📄 Logging to: checker-log\checker-2025-10-18.txt
+[2:30:03 AM] ✅ Loaded 145 proxies.
+[2:30:05 AM] Starting 1/1642
+[2:30:41 AM] 🗑️ Removed dialga100 (NO_USERDATA) from accounts.txt
+[2:30:41 AM] ✅ accounts.txt updated — 1641 remaining
+[2:30:42 AM] 🗑️ Removed candycaneredwhite (UNKNOWN_FAIL) from accounts.txt
+[2:30:42 AM] ✅ accounts.txt updated — 1640 remaining
+[2:30:43 AM] 🗑️ Removed llamasarecool714 (UNKNOWN_FAIL) from accounts.txt
+[2:30:43 AM] ✅ accounts.txt updated — 1639 remaining
+[2:30:44 AM] 🛑 Interrupted — saving progress...
+[2:30:44 AM] 💾 Progress saved.
+[2:31:44 AM] 📄 Logging to: checker-log\checker-2025-10-18.txt
+[2:31:44 AM] ✅ Loaded 145 proxies.
+[2:31:45 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:32:08 AM] 📄 Logging to: checker-log\checker-2025-10-18.txt
+[2:32:08 AM] ✅ Loaded 145 proxies.
+[2:32:08 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:33:09 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:34:10 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:35:11 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:35:20 AM] Starting 1/1639
+[2:35:22 AM] 🗑️ Removed Kitamagic (PROCESSED) from accounts.txt
+[2:35:22 AM] ✅ accounts.txt updated — 1638 remaining
+[2:35:38 AM] 🗑️ Removed bazoucamat (PROCESSED) from accounts.txt
+[2:35:38 AM] ✅ accounts.txt updated — 1637 remaining
+[2:36:28 AM] 🗑️ Removed Minette87 (NO_USERDATA) from accounts.txt
+[2:36:28 AM] ✅ accounts.txt updated — 1636 remaining
+[2:36:29 AM] 🗑️ Removed lgf20tigre (UNKNOWN_FAIL) from accounts.txt
+[2:36:29 AM] ✅ accounts.txt updated — 1635 remaining
+[2:36:30 AM] 🗑️ Removed Mathilde96 (UNKNOWN_FAIL) from accounts.txt
+[2:36:30 AM] ✅ accounts.txt updated — 1634 remaining
+[2:36:31 AM] 🗑️ Removed tttttttttttttttttta (UNKNOWN_FAIL) from accounts.txt
+[2:36:31 AM] ✅ accounts.txt updated — 1633 remaining
+[2:36:32 AM] 🗑️ Removed Mademoisellemelda (UNKNOWN_FAIL) from accounts.txt
+[2:36:32 AM] ✅ accounts.txt updated — 1632 remaining
+[2:36:33 AM] 🗑️ Removed snowyflake33 (UNKNOWN_FAIL) from accounts.txt
+[2:36:33 AM] ✅ accounts.txt updated — 1631 remaining
+[2:36:34 AM] 🗑️ Removed rennessemer2010 (UNKNOWN_FAIL) from accounts.txt
+[2:36:34 AM] ✅ accounts.txt updated — 1630 remaining
+[2:36:35 AM] 🗑️ Removed Pyna (UNKNOWN_FAIL) from accounts.txt
+[2:36:35 AM] ✅ accounts.txt updated — 1629 remaining
+[2:36:36 AM] 🗑️ Removed tugo67 (UNKNOWN_FAIL) from accounts.txt
+[2:36:36 AM] ✅ accounts.txt updated — 1628 remaining
+[2:36:37 AM] 🗑️ Removed ombreobscure7 (UNKNOWN_FAIL) from accounts.txt
+[2:36:37 AM] ✅ accounts.txt updated — 1627 remaining
+[2:36:38 AM] 🗑️ Removed lili801 (UNKNOWN_FAIL) from accounts.txt
+[2:36:38 AM] ✅ accounts.txt updated — 1626 remaining
+[2:36:39 AM] 🗑️ Removed melyne11 (UNKNOWN_FAIL) from accounts.txt
+[2:36:39 AM] ✅ accounts.txt updated — 1625 remaining
+[2:36:40 AM] 🗑️ Removed muza6 (UNKNOWN_FAIL) from accounts.txt
+[2:36:40 AM] ✅ accounts.txt updated — 1624 remaining
+[2:36:40 AM] 🛑 Interrupted — saving progress...
+[2:36:40 AM] 💾 Progress saved.
+[2:40:00 AM] 📄 Logging to: checker-log\checker-2025-10-18.txt
+[2:40:00 AM] ✅ Loaded 145 proxies.
+[2:40:00 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:41:01 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:42:01 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:42:04 AM] Starting 1/1624
+[2:42:06 AM] 🗑️ Removed sumercoco (PROCESSED) from accounts.txt
+[2:42:06 AM] ✅ accounts.txt updated — 1623 remaining
+[2:45:22 AM] 🗑️ Removed mininekotacos (UNKNOWN_FAIL) from accounts.txt
+[2:45:22 AM] ✅ accounts.txt updated — 1622 remaining
+[2:45:26 AM] 🛑 Interrupted — saving progress...
+[2:45:26 AM] 💾 Progress saved.
+[2:47:16 AM] 📄 Logging to: checker-log\checker-2025-10-18.txt
+[2:47:16 AM] ✅ Loaded 145 proxies.
+[2:47:17 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:48:18 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:48:22 AM] Starting 1/1622
+[2:49:05 AM] 🗑️ Removed poupoune780 (PROCESSED_RETRY) from accounts.txt
+[2:49:05 AM] ✅ accounts.txt updated — 1621 remaining
+[2:49:19 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[2:50:20 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[2:50:23 AM] 🗑️ Removed lovemsp118 (PROCESSED) from accounts.txt
+[2:50:23 AM] ✅ accounts.txt updated — 1620 remaining
+[2:50:38 AM] 🗑️ Removed Lebgdu59 (PROCESSED) from accounts.txt
+[2:50:38 AM] ✅ accounts.txt updated — 1619 remaining
+[2:50:54 AM] 🗑️ Removed lolhyta10 (PROCESSED) from accounts.txt
+[2:50:54 AM] ✅ accounts.txt updated — 1618 remaining
+[2:51:09 AM] 🗑️ Removed beaugars01 (PROCESSED) from accounts.txt
+[2:51:09 AM] ✅ accounts.txt updated — 1617 remaining
+[2:51:25 AM] 🗑️ Removed laplubelle50 (PROCESSED) from accounts.txt
+[2:51:25 AM] ✅ accounts.txt updated — 1616 remaining
+[2:51:41 AM] 🗑️ Removed pandacoqui (PROCESSED) from accounts.txt
+[2:51:41 AM] ✅ accounts.txt updated — 1615 remaining
+[2:51:56 AM] 🗑️ Removed pomi46 (PROCESSED) from accounts.txt
+[2:51:56 AM] ✅ accounts.txt updated — 1614 remaining
+[2:52:12 AM] 🗑️ Removed tigre0809 (PROCESSED) from accounts.txt
+[2:52:12 AM] ✅ accounts.txt updated — 1613 remaining
+[2:53:08 AM] 🗑️ Removed bonjourboby (PROCESSED_RETRY) from accounts.txt
+[2:53:08 AM] ✅ accounts.txt updated — 1612 remaining
+[2:53:16 AM] 🛑 Interrupted — saving progress...
+[2:53:16 AM] 💾 Progress saved.
+[6:19:00 AM] 📄 Logging to: checker-log\checker-2025-10-18.txt
+[6:19:00 AM] ✅ Loaded 145 proxies.
+[6:19:02 AM] Starting 1/1440
+[6:22:24 AM] 📄 Logging to: checker-log\checker-2025-10-18.txt
+[6:22:24 AM] ✅ Loaded 145 proxies.
+[6:22:25 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:23:25 AM] [HEARTBEAT] Servers appear offline. Retrying...
+[6:24:26 AM] [HEARTBEAT END] Servers stable again — resuming checks
+[6:24:36 AM] Starting 1/1440
+[6:27:02 AM] 📄 Logging to: checker-log\checker-2025-10-18.txt
+[6:27:02 AM] ✅ Loaded 145 proxies.
+[6:27:04 AM] Starting 1/1440
