@@ -25,7 +25,7 @@ export class FlashvarsRepository extends Repository {
 
       return response.data;
     } catch {
-//      console.log('⚠️ Flashvars fetch failed — using static fallback');
+      console.log('⚠️ Flashvars fetch failed — using static fallback');
 
       // 🔧 Static fallback (updated for deploy_version 1803)
       return {
